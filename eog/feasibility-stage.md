@@ -35,9 +35,9 @@ This is a list of information from the FS stage which is needed for evaluation b
 
 The set of information will need to be assessed by the stakeholders and lead to one of the following outcomes from the Lead Stakeholder with regards to proceeding with the event:
 
-__* Proceed__ - the EL can now arrange the event
-__* More work needed__ - there might be more specific items needed to get final approval to proceed (e.g. re-visit the budget)
-__* Reject__ - it might be decided that it is not worth running the event (this should be rare as most things should be caught at the less expensive IES stage discussions).
+* __Proceed__ - the EL can now arrange the event
+* __More work needed__ - there might be more specific items needed to get final approval to proceed (e.g. re-visit the budget)
+* __Reject__ - it might be decided that it is not worth running the event (this should be rare as most things should be caught at the less expensive IES stage discussions).
 
 
 
