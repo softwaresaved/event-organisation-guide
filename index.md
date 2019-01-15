@@ -4,7 +4,4 @@
 
 layout: home
 ---
-
-{% for text in site.eog %}
-text
-{% endfor %}
+{% include navigation.html %}
