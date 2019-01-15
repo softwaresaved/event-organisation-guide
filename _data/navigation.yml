@@ -1,10 +1,10 @@
 - name: Home
   link: /
--name: About
+- name: About
   link: /about.md
--name: Authors
+- name: Authors
   link: /eog/authors.md
--name: Introduction
+- name: Introduction
   link: /eog/introduction.md
--name: Events Are Projects
+- name: Events Are Projects
   link: /eog/events-are-projects.md
