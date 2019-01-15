@@ -19,16 +19,16 @@ This is a list of information from the FS stage which is needed for evaluation b
     * Preferably not clashing with primary/high school holidays
 * A venue
   * A specification of venue requirements should be put together.
-     * [An example venue specification] (https://docs.google.com/document/d/1BJsjr4Y-cTBeEEjV5A_VVQ2hZIPsgBivhpin8gLJyb4/edit#heading=h.g6gccho600xq)
+     * [An example venue specification](https://docs.google.com/document/d/1BJsjr4Y-cTBeEEjV5A_VVQ2hZIPsgBivhpin8gLJyb4/edit#heading=h.g6gccho600xq)
   * Venue visits should be done
      * Having a local (to the event) agent helping can help a lot where the event is remote to your location.
   * A possible venue should be chosen.
   * Dates should be available.
-* A budget ((see budget example)[https://docs.google.com/spreadsheets/d/1aM2pPFgV2kurA4G7L8AT1GTyeWRj2fo3ner_jsTzSEU/edit#gid=0])
+* A budget ([see budget example](https://docs.google.com/spreadsheets/d/1aM2pPFgV2kurA4G7L8AT1GTyeWRj2fo3ner_jsTzSEU/edit#gid=0))
   * Showing estimated income lines.
   * Showing estimated outgoing costs lines.
   * Best case, middle case and worst case cost projections should be prepared.
-* Outputs and Outcomes ((what's the difference)[https://hbr.org/2012/11/its-not-just-semantics-managing-outcomes])
+* Outputs and Outcomes ([what's the difference](https://hbr.org/2012/11/its-not-just-semantics-managing-outcomes))
   * These should be linked to the event goals.
   * Some of these will be the same as the objectives of the workshop.
   * This should include whether you are going to write a report, or make videos and other resources from the event available.
