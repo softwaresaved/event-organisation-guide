@@ -1,10 +1,27 @@
-- name: Home
-  link: /
-- name: About
-  link: /about.html
-- name: Authors
+- title: Authors
   link: /eog/authors.html
-- name: Introduction
+
+- title: Introduction
   link: /eog/introduction.html
-- name: Events Are Projects
+
+- title: Events Are Projects
   link: /eog/events-are-projects.html
+  sub_chapters:
+    - title: When To Start Planning An Event
+      link: /eog/when-to-start.html
+    - title: Idea Exploration Stage (IES)
+      link: /eog/ideas-exploration-stage.html
+    - title: Feasibility Stage (FS)
+      link: /eog/feasibility-stage.html
+    - title: Event Project Stage (EPS)
+      link: /eog/event-project-stage-eps.html
+      sub_sub_chapters:
+        - title: Infrastructure
+          link: /eog/eps-infrastructure.html
+        - title: Timeline
+          link: /eog/eps-timeline.html
+        - title: Committees
+          link: /eog/eps-committees.html
+        - title: Agenda
+          link: /eog/eps-agenda.html
+
