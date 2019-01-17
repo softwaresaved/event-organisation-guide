@@ -5,11 +5,11 @@
     </a>
     {% for sub in chapter.sub_chapters %}
       {% if forloop.first %}<ul>{% endif %}
-      <li><h3><a href="{{ site.baseurl }}{{ sub.link }}">{{ sub.title }}<a/><h3/><li/>
+      <li><a href="{{ site.baseurl }}{{ sub.link }}">{{ sub.title }}<a/><li/>
      
         {% for sub_sub in sub.sub_sub_chapters %}
           {% if forloop.first %}<ul>{% endif %}
-          <li><h4><a href="{{ site.baseurl }}{{ sub_sub.link }}">{{ sub_sub.title }}<a/><h4/><li/>
+          <li><a href="{{ site.baseurl }}{{ sub_sub.link }}">{{ sub_sub.title }}<a/><li/>
           {% if forloop.last %}</ul>{% endif %}
         {% endfor %}
 
