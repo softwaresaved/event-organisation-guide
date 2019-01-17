@@ -3,6 +3,7 @@
     <a href="{{ site.baseurl }}{{ chapter.link }}">
       {{ chapter.title }}
     </a>
+    <br>
     {% for sub in chapter.sub_chapters %}
       {% if forloop.first %}<ul>{% endif %}
       <li><a href="{{ site.baseurl }}{{ sub.link }}">{{ sub.title }}<a/><li/>
@@ -15,7 +16,6 @@
 
        {% if forloop.last %}</ul>{% endif %} 
      {% endfor %}  
-    <br>
     
   {% endfor %}
 </nav>
