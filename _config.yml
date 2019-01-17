@@ -17,7 +17,7 @@ title: Event Organisation Guide
 email: info@software.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   The Event Organisation Guide (EOG) by the 
-  UK Software Sustainability Institute
+  <a href="http://www.software.ac.uk">UK Software Sustainability Institute</a>
 baseurl: "/event-organisation-guide" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: softwaresaved
