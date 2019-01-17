@@ -7,15 +7,12 @@
     {% for sub in chapter.sub_chapters %}
       {% if forloop.first %}<ul>{% endif %}
       <li><a href="{{ site.baseurl }}{{ sub.link }}">{{ sub.title }}<a/><li/>
-     
         {% for sub_sub in sub.sub_sub_chapters %}
           {% if forloop.first %}<ul>{% endif %}
           <li><a href="{{ site.baseurl }}{{ sub_sub.link }}">{{ sub_sub.title }}<a/><li/>
           {% if forloop.last %}</ul>{% endif %}
         {% endfor %}
-
        {% if forloop.last %}</ul>{% endif %} 
      {% endfor %}  
-    
   {% endfor %}
 </nav>
