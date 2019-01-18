@@ -1,5 +1,6 @@
 ---
 title: Committees
+layout: page
 ---
 Committees are great ways for getting help with shaping the event’s programme and helping with logistics while giving people credit for taking parts. 
 

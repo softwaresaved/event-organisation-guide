@@ -1,5 +1,6 @@
 ---
 title: Authors
+layout: page
 ---
 
 * Shoaib Sufi (lead author), Community Lead
