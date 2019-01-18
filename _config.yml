@@ -29,12 +29,13 @@ theme: minima
 plugins:
   - jekyll-feed
 
-defaults:
-  -
-    scope:
-      path: "eog"
-      values:
-        layout: "page"
+# tyring to make default layout of pages under /eog of page but bundle exec jekyll serve complains
+# defaults:
+#   -
+#     scope:
+#       path: "eog"
+#       values:
+#         layout: "page"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
