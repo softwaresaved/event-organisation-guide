@@ -11,31 +11,31 @@ The EL may consider the following types of sessions:
 * Learning (e.g. Software or Data Carpentry (SWC/DC) or other instructive approaches)
 * Networking (e.g. lunch/coffee and other sessions)
 
-## Informing
+### Informing
 This includes sessions that inform and inspire:
 * Keynotes
 * Short talks
 * Lightning talks
 * Allowing ad hoc presentations (e.g. additional lightning talks)
 
-## Exploring
+### Exploring
 This includes sessions that aid people working together to explore solutions or identify problems:
 * Collaborative ideas or Hackday ideas sessions
 * Discussion sessions & speed blogging
 * Q & A Panels
 
-## Creating
+### Creating
 This includes building things together:
 * Hack days
 * Bring your own data sessions
 * Paper/Standards generation
 
-## Teaching
+### Teaching
  This includes pedagogical sessions:
 * Teaching sessions
 * Mini workshops
 
-## Networking
+### Networking
 This includes sessions for building relationships and connection between people:
 * Around food (e.g. lunch/coffee, conference/workshop dinner, lunch)
   * Protecting these times is important to allow networking to take place
