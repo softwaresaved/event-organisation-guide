@@ -1,4 +1,7 @@
-# Authors
+---
+title: Authors
+---
+
 * Shoaib Sufi (lead author), Community Lead
 * Selina Aragon, Communications Lead
 
