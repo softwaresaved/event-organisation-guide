@@ -1,4 +1,6 @@
-## Idea Exploration Stage (IES)
+---
+title: Idea Exploration Stage (IES)
+---
 At this stage the event is just an idea, the idea is explored further to see if more investigation is warranted to perform a formal Feasibility Stage (FS) (the next stage). 
 
 An overall goal and aim should crystallise by the end of the IES stage, but this is more formally detailed as part of the FS stage. Implicit in thinking about goals and aims are who the audience for the event will be; an initial understanding of the audience should be settled on at this stage.

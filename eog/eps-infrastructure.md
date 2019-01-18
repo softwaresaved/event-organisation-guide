@@ -1,4 +1,6 @@
-### Infrastructure
+---
+title: Infrastructure
+---
 There are a number of different systems which are useful for organising events which an EL may want to make use of.
 
 For event registration the [Eventbrite system](https://www.eventbrite.com/) is very useful; there is a fee for paid for events (that’s how the system is supported), for free events there is no fee. You can add custom questions, export registrations to another system e.g. [Google Drive](https://drive.google.com/drive/my-drive) Sheets (or Excel, LibreOffice Calc) to help see how people have answered questions about participation or diet to help with further planning. It has an integrated email system so reminders can be sent to people before they attend e.g. what they should bring along (e.g. laptops). In terms of payment there is also an option to allow invoices but extra effort is needed to keep track of these and chase these up with reminders as well as raising invoices at the organisational side so it can add to overheads but can be essential for allowing certain groups to attend.

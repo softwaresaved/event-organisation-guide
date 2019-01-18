@@ -1,4 +1,6 @@
-### Committees
+---
+title: Committees
+---
 Committees are great ways for getting help with shaping the event’s programme and helping with logistics while giving people credit for taking parts. 
 
 As an example for the CW series there have been two committees which have offered different types of help and advice.
