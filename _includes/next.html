@@ -1,27 +1,57 @@
+{% assign found_page=false %}
+
 <nav>
   {% for chapter in site.data.navigation %}
 
+    {% if found_page=true %}
+    
+      <p><a href="{{ site.baseurl }}{{ chapter.link }}">
+      Next:{{ chapter.title }}
+      </a></p>
+
+      {% break %}
+
+    {% endif %}
+
     {% if page.title == chapter.title %}
-      <p>FOUND THIS CHAPTER</p>
+       {% assign found_page = true %}
     {% endif %}
 
     {% for sub in chapter.sub_chapters %}
 
-    {% if page.title == sub.title %}
-      <p>FOUND THIS SUB CHAPTER</p>
-    {% endif %}
+      {% if found_page=true %}
+    
+        <p><a href="{{ site.baseurl }}{{ sub.link }}">
+        Next:{{ sub.title }}
+        </a></p>
 
+        {% break %}
 
-        {% for sub_sub in sub.sub_sub_chapters %}
+      {% endif %}
 
-          {% if page.title == sub.title %}
-            <p>FOUND THIS SUB SUB CHAPTER</p>
-          {% endif %}
+      {% if page.title == chapter.title %}
+        {% assign found_page = true %}
+      {% endif %}
 
-        {% endfor %}
+      {% for sub_sub in sub.sub_sub_chapters %}
 
+        {% if found_page=true %}
+    
+          <p><a href="{{ site.baseurl }}{{ sub_sub.link }}">
+          Next:{{ sub_sub.title }}
+          </a></p>
 
-     {% endfor %}  
+          {% break %}
+
+        {% endif %}
+
+        {% if page.title == chapter.title %}
+          {% assign found_page = true %}
+        {% endif %}
+
+      {% endfor %}
+
+    {% endfor %}  
 
   {% endfor %}
 </nav>
