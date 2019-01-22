@@ -1,4 +1,16 @@
 ---
-layout: page
+layout: default
 ---
-{% include next.html %}
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+    {% include next.html %}
+  </div>
+
+</article>
+
