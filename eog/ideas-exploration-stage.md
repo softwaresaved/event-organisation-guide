@@ -1,6 +1,6 @@
 ---
 title: Idea Exploration Stage (IES)
-layout: page
+layout: entry
 ---
 At this stage the event is just an idea, the idea is explored further to see if more investigation is warranted to perform a formal Feasibility Stage (FS) (the next stage). 
 

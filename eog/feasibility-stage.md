@@ -1,6 +1,6 @@
 ---
 title: Feasibility Stage (FS)
-layout: page
+layout: entry
 ---
 The _Feasibility Stage_ (FS) comes after the IES stage is signed off by any necessary stakeholders and now the event idea is being explored more thoroughly. The FS is akin to a pre-planning or early planning stage. At this stage various things are needed before formal sign-off and to the _Event Project Stage_ (EPS) (i.e. before the Institute agrees to take on the staff effort, financial risk and opportunities afforded by running the event).
 

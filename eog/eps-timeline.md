@@ -1,6 +1,6 @@
 ---
 title: Timeline
-layout: page
+layout: entry
 ---
 It’s important to think about the timeline of the project as soon as it’s been confirmed. An outline draft and a deeper draft at the IES and FS stages would be useful but one should not get bogged down in detail. 
 

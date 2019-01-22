@@ -1,6 +1,6 @@
 ---
 title: Infrastructure
-layout: page
+layout: entry
 ---
 There are a number of different systems which are useful for organising events which an EL may want to make use of.
 

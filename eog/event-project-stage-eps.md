@@ -1,6 +1,6 @@
 ---
 title: Event Project Stage (EPS)
-layout: page
+layout: entry
 ---
 The idea was accepted and the constraints and practicalities have been signed off. Now we are in the Event Project Stage (EPS) - it’s time to organise the event itself.
 

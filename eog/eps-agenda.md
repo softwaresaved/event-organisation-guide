@@ -1,6 +1,6 @@
 ---
 title: Agenda
-layout: page
+layout: entry
 ---
 The EL should consider the goals and objectives, and the duration of the event to decide the agenda and details such as the type and durations of particular session types. The agenda and reasoning around balance of timings and session types should then be discussed with the steering committee (or equivalent) for comment.
 
