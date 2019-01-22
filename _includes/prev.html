@@ -1,0 +1,58 @@
+{% assign prev_title="" %}
+{% assign prev_link="" %}
+
+<nav>
+  {% for chapter in site.data.navigation %}
+
+
+    {% if page.title == chapter.title %} 
+
+      {% if prev_title != "" %}
+        <p><a href="{{ site.baseurl }}{{ prev_link }}"> Prev: {{ prev_title }} </a></p>
+      {% endif %}
+        
+      {% break %}    
+
+    {% endif %}
+
+    {% assign prev_title=chapter.title %}
+    {% assign prev_link=chapter.link %}
+ 
+
+    {% for sub in chapter.sub_chapters %}
+
+      {% if page.title == sub.title %} 
+
+        {% if prev_title != "" %}
+          <p><a href="{{ site.baseurl }}{{ prev_link }}"> Prev: {{ prev_title }} </a></p>
+        {% endif %}
+        
+        {% break %}
+
+      {% endif %}
+
+      {% assign prev_title=sub.title %}
+      {% assign prev_link=sub.link %}
+
+
+      {% for sub_sub in sub.sub_sub_chapters %}
+
+        {% if page.title == sub_sub.title %} 
+
+          {% if prev_title != "" %}
+            <p><a href="{{ site.baseurl }}{{ prev_link }}"> Prev: {{ prev_title }} </a></p>
+          {% endif %}
+
+          {% break %}
+
+        {% endif %}
+
+        {% assign prev_title=sub_sub.title %}
+        {% assign prev_link=sub_sub.link %}
+      
+      {% endfor %}
+
+    {% endfor %}  
+
+  {% endfor %}
+</nav>
