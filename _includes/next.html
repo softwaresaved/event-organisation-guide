@@ -3,7 +3,7 @@
 <nav>
   {% for chapter in site.data.navigation %}
 
-    {% if found_page=true %}
+    {% if found_page==true %}
     
       <p><a href="{{ site.baseurl }}{{ chapter.link }}">
       Next:{{ chapter.title }}
@@ -19,7 +19,7 @@
 
     {% for sub in chapter.sub_chapters %}
 
-      {% if found_page=true %}
+      {% if found_page==true %}
     
         <p><a href="{{ site.baseurl }}{{ sub.link }}">
         Next:{{ sub.title }}
@@ -35,7 +35,7 @@
 
       {% for sub_sub in sub.sub_sub_chapters %}
 
-        {% if found_page=true %}
+        {% if found_page==true %}
     
           <p><a href="{{ site.baseurl }}{{ sub_sub.link }}">
           Next:{{ sub_sub.title }}
