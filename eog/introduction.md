@@ -6,3 +6,6 @@ The Institute has built up a large amount of experience [organising events]( htt
 
 This guide goes through the steps of organising an event and is structured around the way the Institute organises its workshops and events. 
 
+{% include next.html %}
+
+

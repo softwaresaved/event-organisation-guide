@@ -1,0 +1,27 @@
+<nav>
+  {% for chapter in site.data.navigation %}
+
+    {% if page.title == chapter.title %}
+      <p>FOUND THIS CHAPTER</p>
+    {% endif %}
+
+    {% for sub in chapter.sub_chapters %}
+
+    {% if page.title == sub.title %}
+      <p>FOUND THIS SUB CHAPTER</p>
+    {% endif %}
+
+
+        {% for sub_sub in sub.sub_sub_chapters %}
+
+          {% if page.title == sub.title %}
+            <p>FOUND THIS SUB SUB CHAPTER</p>
+          {% endif %}
+
+        {% endfor %}
+
+
+     {% endfor %}  
+
+  {% endfor %}
+</nav>
