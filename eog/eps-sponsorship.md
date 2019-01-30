@@ -1,5 +1,5 @@
 ---
-title: Sponsorshop
+title: Sponsorship
 layout: entry
 ---
 Sponsorship for events is becoming more important to help make them affordable but also we are attracting more sponsors to events allowing the events to, e.g. pay for a student to attend or support the attendance of speakers or people outside of the normal remit (e.g. legal staff). This also attracts people to the event and raises the profile of the sponsoring organisations. It can also enrich the experience of those attending by offering free t-shirts, licences or even hardware.
