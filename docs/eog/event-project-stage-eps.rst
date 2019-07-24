@@ -14,6 +14,7 @@ The following sections go into details on these various themes in more detail an
    :caption: Sections:
 
    eps-infrastructure
+   eps-agenda
    eps-publicity
    eps-sponsorship
    eps-catering
