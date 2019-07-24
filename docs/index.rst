@@ -3,6 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+========================
 Event Organisation Guide
 ========================
 
@@ -10,15 +11,18 @@ Event Organisation Guide
    :maxdepth: 2
    :caption: Contents:
 
-   eog/authors
    eog/introduction
    eog/events-are-projects
 
 
 
 
-Indices and tables
-==================
+About
+=====
 
-* :ref:`genindex`
-* :ref:`search`
+.. toctree::
+   :maxdepth: 2
+
+   eog/authors
+   eog/license
+

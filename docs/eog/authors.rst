@@ -3,7 +3,7 @@
 Authors
 =======
 
-* Shoaib Sufi (lead author/maintainer)
+* Shoaib Sufi (lead/maintainer)
 * Selina Aragon
 * Aleksandra Nenadic
 
