@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Event Organisation Guide'
-copyright = '2019, Shoaib Sufi, Selina Aragon, Aleksandra Nenadic'
+copyright = '2019, University of Manchester, University of Edinburgh'
 author = 'Shoaib Sufi, Selina Aragon, Aleksandra Nenadic'
 
 # The short X.Y version
