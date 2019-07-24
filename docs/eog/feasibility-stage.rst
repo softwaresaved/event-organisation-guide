@@ -1,7 +1,7 @@
 .. Feasibility-Stage:
 
 Feasibility Stage (FS)
-----------------------
+======================
 
 The *Feasibility Stage* (FS) comes after the IES stage is signed off by any necessary stakeholders and now the event idea is being explored more thoroughly. The FS is akin to a pre-planning or early planning stage. At this stage various things are needed before formal sign-off and to the *Event Project Stage* (EPS) (i.e. before the Institute agrees to take on the staff effort, financial risk and opportunities afforded by running the event).
 
@@ -55,7 +55,7 @@ This is a list of information from the FS stage which is needed for evaluation b
   * This should include whether you are going to write a report, or make videos and other resources from the event available.
 
 Assessment
-~~~~~~~~~~
+----------
 
 The set of information will need to be assessed by the stakeholders and lead to one of the following outcomes from the Lead Stakeholder with regards to proceeding with the event:
 
