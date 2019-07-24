@@ -1,4 +1,4 @@
-#The Event Organisation Guide (EOG)
+# The Event Organisation Guide (EOG)
 Is a guide dedicated to help the Software Sustainaiblity Institute share the way they organise events.
 
 ## Technical matters
