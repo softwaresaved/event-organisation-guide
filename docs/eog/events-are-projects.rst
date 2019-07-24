@@ -13,4 +13,5 @@ In the following sections we detail the stages of an event to help understand wh
    when-to-start
    ideas-exploration-stage
    feasibility-stage
+   event-project-stage-eps
 

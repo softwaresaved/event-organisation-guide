@@ -1,4 +1,4 @@
-.. _Event-Project-State::
+.. _Event-Project-Stage:
 
 Event Project Stage (EPS)
 =========================
@@ -12,3 +12,5 @@ The following sections go into details on these various themes in more detail an
 .. toctree::
    :maxdepth: 2
    :caption: Sections:
+
+
