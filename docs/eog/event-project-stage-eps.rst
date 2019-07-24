@@ -14,5 +14,6 @@ The following sections go into details on these various themes in more detail an
    :caption: Sections:
 
    eps-infrastructure
+   eps-outputs-and-outcomes
    eps-closing-down
 
