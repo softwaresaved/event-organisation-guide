@@ -4,3 +4,4 @@ _site
 .DS_Store
 *.swp
 _build
+sphinx_rtd_theme
