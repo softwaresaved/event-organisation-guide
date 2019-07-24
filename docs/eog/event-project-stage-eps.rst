@@ -13,4 +13,6 @@ The following sections go into details on these various themes in more detail an
    :maxdepth: 2
    :caption: Sections:
 
+   eps-infrastructure
+
 
