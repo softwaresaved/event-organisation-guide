@@ -19,8 +19,11 @@ The following sections go into details on these various themes in more detail an
    eps-agenda
    eps-publicity
    eps-sponsorship
+   eps-venue
    eps-catering
    eps-event-roles
+   eps-documentation
+   eps-risk-management
    eps-outputs-and-outcomes
    eps-closing-down
 
