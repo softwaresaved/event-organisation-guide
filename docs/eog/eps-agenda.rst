@@ -45,7 +45,7 @@ Teaching
 
 This includes pedagogical sessions:
 
-* Teaching sessions or
+* Teaching sessions,
 * Mini workshops.
 
 Networking
