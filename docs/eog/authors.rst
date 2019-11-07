@@ -12,5 +12,6 @@ Other contributors:
 * Mario Antonioletti
 * Raniere Silva
 * Clem Hadfield
+* Robin Wilson
 
 
