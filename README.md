@@ -10,8 +10,6 @@ It is a sphinx project and we host the EOG on [Read the Docs](https://event-orga
 
 ### setting up sphinx link
 
-`cd ..`
-
 `git clone https://github.com/readthedocs/sphinx_rtd_theme.git`
 
 `cd event-organisation-guide/docs/_themes`
