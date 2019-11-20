@@ -4,7 +4,7 @@ The EOG is a guide dedicated to help the Software Sustainaiblity Institute share
 The guide welcomes contributions from others. We are are interested in what people have actually done/tried rather than theoretical considerations. Although suggesting experiences or even theoretical considerations is useful for us to include as references. 
 
 ## Technical matters
-EOG is a sphinx project and we host the EOG on [Read the Docs](https://event-organisation-guide.readthedocs.io/)
+EOG is a [sphinx project](www.sphinx-doc.org) and we host the EOG on [Read the Docs](https://event-organisation-guide.readthedocs.io/)
 
 ## Getting setup
 
