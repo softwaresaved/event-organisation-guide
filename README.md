@@ -7,6 +7,9 @@ The guide welcomes contributions from others. We are are interested in what peop
 EOG is a [sphinx project](www.sphinx-doc.org) and we host the EOG on [Read the Docs](https://event-organisation-guide.readthedocs.io/)
 
 ## Getting setup
+[Install sphinx](http://www.sphinx-doc.org/en/master/usage/installation.html) if it is not already installed.
+
+Clone the git repo locally.
 
 `git clone https://github.com/softwaresaved/event-organisation-guide.git`
 
