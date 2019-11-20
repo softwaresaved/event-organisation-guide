@@ -10,7 +10,8 @@ EOG is a [sphinx project](www.sphinx-doc.org) and we host the EOG on [Read the D
 
 `git clone https://github.com/softwaresaved/event-organisation-guide.git`
 
-### setting up sphinx link
+### setting up sphinx readthedocs theme link
+This is needed so you can build and test the documentation locally.
 
 `git clone https://github.com/readthedocs/sphinx_rtd_theme.git`
 
