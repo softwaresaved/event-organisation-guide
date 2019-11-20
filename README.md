@@ -24,19 +24,19 @@ This is needed so you can build and test the documentation locally.
 
 `cd ..`
 
-## install dependencies
+## Install dependencies
 
 `pip install sphinx`
 
-## make
+## Make
 
 `make html`
 
-## view
+## View
 
 Open the file `./_build/html/index.html` in a web-browser.
 
-## note
+## Note
 
 If you make changes to the .rst files or do a `git pull` to get updates then you need to do a `make clean` before you do a `make html` as otherwise the navigation pages sometimes don't behave or work. 
 
