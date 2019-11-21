@@ -27,7 +27,7 @@ A report summarising what happened at the event can be quite time-consuming to p
 If resources, such as presentations, video recordings, speed blog posts, outputs from a Hackday, are going to made available then these need to be made available, commissioned or collected. From experience, preparing a video of the event, which may include watching, editing, adding a cover, upload (e.g. to YouTube) and updating pages, takes a long time. You also have to decide when to publicise the material (e.g. as they are made available or when they are all ready) this should be part of your publicity plan.
 
 When are you done?
-*****************
+******************
 When all of the outputs you planned to produce are available, you can consider the output side of the event done.
 
 For outcomes, the EL may want to track longer-term changes – for example, a longer-term survey (~after 6 months or a year) for attendees might be useful to assess the impact of your event.

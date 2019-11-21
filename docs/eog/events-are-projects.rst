@@ -6,12 +6,3 @@ Events are projects, so the stages in a project also apply to an event. In fact,
 
 In the following sections, we detail the stages of an event to help understand what is needed for each stage.
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Sections:
-
-   when-to-start
-   ideas-exploration-stage
-   feasibility-stage
-   event-project-stage-eps
-
