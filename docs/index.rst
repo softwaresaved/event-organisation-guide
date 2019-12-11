@@ -13,10 +13,12 @@ Event Organisation Guide
 
    eog/introduction
    eog/events-are-projects
+   eog/when-to-start
+   eog/ideas-exploration-stage
+   eog/feasibility-stage
+   eog/event-project-stage-eps
 
-
-
-
+=====
 About
 =====
 
