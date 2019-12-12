@@ -98,8 +98,7 @@ Here are some examples of risks identified when organising an event such as the 
         - Participants do not receive information about what to expect after the event
     * Policies, guidelines and documentation
         - Lack of information or information dispersed at various locations
-        - Lack of clearly stated policies and guidelines (e.g. Code of Conduct policy and breach
-         reporting and handling procedures, privacy policy, contribution guide)
+        - Lack of clearly stated policies and guidelines (e.g. Code of Conduct policy and breach reporting and handling procedures, privacy policy, contribution guide)
         - Certain documentation gets lost or corrupted
 
 See `a more detailed example of risk assessment
