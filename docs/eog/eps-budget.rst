@@ -1,1 +1,4 @@
 .. _Budget:
+
+Budget
+======
