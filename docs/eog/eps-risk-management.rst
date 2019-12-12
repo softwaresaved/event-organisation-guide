@@ -154,11 +154,8 @@ Based on each individual risk identified during the risk assessment - you need t
         - Visit venue ahead and check accessibility, AV equipment, availability of technical support, check fire alarm schedule
     * Catering
         - Look at several caterers and make sure there are alternatives; put insurance in place for cancellations
-        - Ahead of the event, communicate clearly to the caterers attendee's dietary requirements; early on you can discuss
-        potential/expected dietary requirements and check if the caterers can fulfill them all (e.g. gluten-free, vegan, vegetarian,
-        halal, kosher);request all food to be labelled
-        - To avoid cases where not enough food is available - discuss portion sizes and quantities with the caterers ahead of the event
-        and consider ordering 10% more or increase quantities for the following day
+        - Ahead of the event, communicate clearly to the caterers attendee's dietary requirements; early on you can discuss potential/expected dietary requirements and check if the caterers can fulfill them all (e.g. gluten-free, vegan, vegetarian, halal, kosher);request all food to be labelled
+        - To avoid cases where not enough food is available - discuss portion sizes and quantities with the caterers ahead of the event and consider ordering 10% more or increase quantities for the following day
     * Communication
         - Asses and prioritise stakeholders (based on their power and interest in your event) to know how to communicate with each of them
         - Make communication and publicity plans and choose what communications channels you are going to use based on your audience (e.g. news items, emails, blogs, twitter, slack, etc.)  
