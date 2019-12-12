@@ -2,6 +2,7 @@
 
 Risk Management
 ===============
+
 Risks are events that could have a negative impact on the project. Risk management (or risk analysis) is the process of
 identifying and assessing a potential risk and the evaluation of the potential impact of the risk. Every risk assessment
 should be followed by a risk mitigation plan - actions designed to eliminate or minimise the impact of the identified
