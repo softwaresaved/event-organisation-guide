@@ -4,25 +4,25 @@ Risk Management
 ===============
 
 Risks are events that could have a negative impact on the project. Risk management (or risk analysis) is the process of
-identifying and assessing a potential risk and the evaluation of the potential impact of the risk. Every risk assessment
+identifying and assessing potential risks and their impact. Every risk assessment
 should be followed by a risk mitigation plan - actions designed to eliminate or minimise the impact of the identified
-risk.
+risks.
 
 Risk assessment
 ****************
-Typically, risks are assessed against 2 criteria - the severity of the impact they have on your event and
-probability of them happening. You then place the risks on the chart such as the one below, and classify them into
-several categories, for example:
+Typically, risks are assessed against 2 axes - the severity of the impact they have on your event and
+probability of them happening, by placing them on the chart such as the one below. Next, they are classified into
+several categories on a low - high scale, for example:
 
-    * low risk - the risk is acceptable; it is OK to proceed with the event planning but keep an eye on the risk
-    * medium risk - the risk needs to be addressed and mitigation strategy put in place
-    * high risk - the risk is critical and may have an adverse effect on your event and stakeholders; you may even have to rethink if the event should go ahead
+    * low risk - the risk is acceptable; it is OK to proceed with the event planning but keep an eye on the risk;
+    * medium risk - the risk needs to be addressed and mitigation strategy put in place;
+    * high risk - the risk is critical and may have an adverse effect on your event and stakeholders; you may even have to rethink if the event should go ahead.
 
 .. figure:: ../img/risk-assessment-graph.png
   :alt: Risk assessment chart
 
-You can decide where to draw the boundaries between the risk categories on your risk chart. It is also OK to classify your risks into more
-fine-grained categories, e.g. low, medium, high, extreme - based on your
+You can decide for yourself where to draw the boundaries between the risk categories on your risk chart. It is also OK to classify your risks a more
+fine-grained scale, e.g. low, medium, high, extreme - based on your
 individual risk assessment. For example, consider the following risk assessment matrix (obtained from `Wikipedia
 Commons <https://commons.wikimedia.org/wiki/File:IC-Risk-Assessment-Matrix-Template.jpg>`_ under CC BY-SA 4.0 licence).
 
@@ -40,47 +40,47 @@ For events such as the CW or CC, we typically look at the following risk aspects
     * Communication (with various stakeholders)
     * Policies, guidelines and documentation
 
-When identifying risks, bear in mind that they happen at different times in the planning and implementation stages, as well as during and even after the event.
+When identifying risks, bear in mind that they can happen at different times in the planning and implementation stages before the event, as well as during and even after the event.
 
 Here are some examples of risks identified when organising an event such as the CW or CC.
 
     * The main stakeholder
         - Event goals not aligned with the main stakeholder goals
-        - Incidents during the event can damage the Institute's reputation
+        - Incidents during the event can damage the main stakeholder's reputation
         - Loss of money
     * Sponsors
         - Not enough sponsorship
         - Offers made to sponsors that cannot be fulfilled
-        - Sponsor's logo is not appropriately displayed, spelling and branding mistakes occur
+        - Sponsor's logo is not displayed at all at the event (or not displayed appropriately), spelling and branding mistakes occur
     * Keynote speakers
         - Delay in confirmation or dropping out
         - Speakers goes off track in their talk or uses offensive language
     * Attendees
         - Not enough attendees or many dropping out right before the event
-        - Too many participants
-        - Participants complain about a certain aspect of the event
+        - Too many Attendees
+        - Attendees complain about a certain aspect of the event
     * Session chairs
-        - Not enough people to chair session
-        - Session lead fails to show up or unclear on how to chair the session;
+        - Not enough session chairs
+        - Session chair fails to show up or it is unclear to them how to chair a session;
     * Organising committee members
         - Not kept up to date with the progress of event planning
         - Not sure how to contribute or how to share information and coordinate between different organising committee teams
-        - No appropriate access to documentation
+        - Do not have appropriate access to documentation
         - Not completing tasks assigned to them
-        - At the event organising committee members do not know where help is needed and what their duties are at the event
-        - Staff feel unappreciated or excluded;
+        - Do not know where help is needed and what their duties are at the event
+        - Feel unappreciated or excluded
     * Volunteers/helpers at the event
         - Not enough volunteers
         - Volunteers not showing up or not fulfilling the tasks assigned to them
-        - Volunteers feel unappreciated
+        - Feel unappreciated or excluded
     * Budget
-        - Insufficient budget (e.g. registration fees not appropriate)
-        - Unexpected expenses (e.g. extra catering, damage to the venue)
+        - Insufficient budget (e.g. registration fees not set at the appropriate level)
+        - Unexpected expenses (e.g. extra catering, unforeseen or unbudgeted costs, damage to the venue)
         - Overspending
     * Event agenda
-        - Not designing an effective agenda to meet the event's goals
+        - Not designing an effective agenda to meet the event's goals and keep people's interest and focus
         - Speakers dropping out at the last minute
-        - Not fulfilling certain plans (e.g. social activities, venue for conference dinner, etc.)
+        - Not fulfilling certain plans (e.g. social activities, good venue for conference dinner, etc.)
         - Unexpected bad weather so cannot e.g. take group photo or do social activities outdoors
         - Post-event feedback highlights missed opportunities
     * Venue
@@ -93,7 +93,7 @@ Here are some examples of risks identified when organising an event such as the 
         - Lack of certain food of preference, wrong food delivered, missing food items, food not properly labelled for allergens and dietary requirements
     * Communication
         - Lack of transparent, efficient and effective communication with different stakeholders, e.g. not communicating clearly aims, expectations, planning decisions, task delegation
-        - Participants confused about the agenda or not getting information on the right channels
+        - Participants confused about the agenda or not getting information on the right channels and at the appropriate time/frequency
         - During the event - signage not properly placed, people do not know who to contact to address certain queries or concerns
         - Participants do not receive information about what to expect after the event
     * Policies, guidelines and documentation
@@ -107,23 +107,23 @@ See `a more detailed example of risk assessment
 Risk mitigation
 ********************
 
-Based on each individual risk identified during the risk assessment - you need to put a strategy in place to prepare for and lessen the effects of risks if they occur. It is OK to say that you will not take any action on an identified risk, as long as you have taken it into account and assessed. Bellow are some mitigating strategies for risks identified for CW and CC events.
+Based on each individual risk identified during the risk assessment - you need to put a strategy in place to prepare for and lessen the effects of risks if they occur. It is OK to say that you will not take any action for an identified risk, as long as you have taken it into account and assessed. Bellow are some mitigating strategies for risks identified for CW and CC events.
 
     * The main stakeholder
-        - Make sure that the main stakeholder's and event goals are clear and get a sign-off for the event plan from the main stakeholder
+        - Make sure that the main stakeholder's and event goals are clear and aligned, and get a sign-off for the event plan from the main stakeholder
         - Think about the worst case scenario, consult with the legal and communication teams how such incidents could be handled, have a security policy in place that is clearly communicated with everyone
-        - Make sure that the budget is carefully monitored throughout the event planning and implementation stage
+        - Make sure that the budget is carefully monitored throughout the event planning and implementation stages
     * Sponsors
-        - Put sponsorship committee into place to look for sponsorship and focus on those that share your values
+        - Put sponsorship committee into place to look for sponsors and focus on those that share your values
         - Have a range of sponsorship opportunities and levels and clearly communicate them to potential sponsors
         - Make sure it is clear what the sponsorship money can be used for, e.g. whether it is intended for a specific purpose, such as travel grants, dinner sponsorship, coffee break sponsorship, etc. and that it is used as agreed
     * Speakers
         - Make sure that the speaker's needs are discussed ahead of the event and state clearly what is possible and what is not
         - Communicate Code of Conduct clearly before and at the event
-        - Have back-up speakers on stand-by
+        - Have back-up speakers in mind and on stand-by if possible
         - Have time-keeper or session chair signal the time to the speaker
     * Attendees
-        - Define ticket prices based on the expected number of participants and make sure the tickets can cover the basic costs of venue and catering
+        - Define ticket prices based on the expected number of participants and make sure the ticket revenue can cover the basic costs of venue and catering
         - Offer discounted tickets for certain categories, e.g. students or self-funded participants
         - Block registrations after certain number is reached to avoid too many attendees you cannot handle or talk to the venue about increasing capacity
         - Communicate Code of Conduct clearly before and at the event to set the expectations
