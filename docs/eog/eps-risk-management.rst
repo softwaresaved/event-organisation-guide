@@ -47,7 +47,6 @@ Here are some examples of risks identified when organising an event such as the 
     * The main stakeholder
         - Event goals not aligned with the main stakeholder goals
         - Incidents during the event can damage the main stakeholder's reputation
-        - Loss of money
     * Sponsors
         - Not enough sponsorship
         - Offers made to sponsors that cannot be fulfilled
@@ -57,7 +56,7 @@ Here are some examples of risks identified when organising an event such as the 
         - Speakers goes off track in their talk or uses offensive language
     * Attendees
         - Not enough attendees or many dropping out right before the event
-        - Too many Attendees
+        - Too many attendees
         - Attendees complain about a certain aspect of the event
     * Session chairs
         - Not enough session chairs
