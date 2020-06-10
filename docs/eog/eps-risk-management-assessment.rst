@@ -1,6 +1,6 @@
 .. _Risk-Assessment: 
 
-Risk assessment
+Risk Assessment
 ===============
 Typically, risks are assessed against 2 axes - the severity of the impact they have on your event and
 probability of them happening, by placing them on the chart such as the one below. Next, they are classified into
