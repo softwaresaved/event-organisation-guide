@@ -1,7 +1,7 @@
 
 .. _Closing-Down-EPS:
 
-Closing Down The EPS
+Closing Down the EPS
 ====================
 Just because the event is over doesn't mean the event is done. Closing down the EPS is still part of the EPS and it requires effort and planning - it can sometimes not be seen as ‘glamorous’ but it’s certainly important for organisational reputation and following up on commitments, promises and making resources available.
 
