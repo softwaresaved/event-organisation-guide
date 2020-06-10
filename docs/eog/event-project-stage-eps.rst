@@ -22,7 +22,6 @@ The following sections go into these elements of the project in more detail and 
    eps-venue
    eps-catering
    eps-event-roles
-   eps-documentation
    eps-risk-management
    eps-outputs-and-outcomes
    eps-closing-down
