@@ -6,11 +6,11 @@ The EL should consider the goals and objectives and the duration of the event to
 
 The EL may consider the following types of sessions:
 
-* Informing (e.g. Keynotes)
-* Exploring (e.g. Discussion sessions)
-* Creating (e.g. Hackdays/Bring Your Own Data(BYOD))
-* Learning (e.g. Software or Data Carpentry (SWC/DC) or other instructive approaches)
-* Networking (e.g. lunch/coffee and other sessions)
+* Informing (e.g. Keynotes),
+* Exploring (e.g. Discussion sessions),
+* Creating (e.g. Hackdays/Bring Your Own Data(BYOD)),
+* Learning (e.g. Software or Data Carpentry (SWC/DC) or other instructive approaches),
+* Networking (e.g. lunch/coffee and other sessions).
 
 Informing
 *********

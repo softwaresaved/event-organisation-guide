@@ -7,12 +7,12 @@ Committees are great ways to shape the event’s programme and get help with log
 
 As an example for the CW series, there are two committees which offer different types of help and advice.
 
-* A Steering/Programme committee
+* A steering/programme committee
 
-  * For help on the agenda
+  * Help with the agenda
   * Direction of the workshop
   * Publicity contacts
-  * Keynote possibilities
+  * Keynote suggestions
   * Ideas for sponsors
   * Review of contributions or managing reviews of contributions if you have a different set of reviewers (e.g. for mini workshops in the case of CW).
 

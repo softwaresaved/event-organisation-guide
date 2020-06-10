@@ -14,40 +14,37 @@ This is a list of information from the FS stage which is needed for evaluation b
 * **The audience**
      
    * Which groups of people you are planning the event for helps set the goals and objectives in context.
-   * E.g. career stage, geographic location, gender, ethnicity, job roles, organisation types (e.g. funders, publishers, researchers, administrators) should be given some detail.
+   * Consider your target audience's career stage, geographic location, gender, ethnicity, job roles, organisation types (e.g. funders, publishers, researchers, administrators).
    * Prioritising the audience might also help with refining goals and keeping planning on target. If the priority changes then this should be reflected in the goals/objectives. 
     
-      * Although if this does happen, the *Lead Stakeholder* should probably be consulted to make sure it’s ok to carry on if you are in the EPS stage.
+      * Although if this does happen, the *Lead Stakeholder* should probably be consulted to make sure it’s OK to carry on if you are in the EPS stage.
 
 * **A date** 
  
-   * That fits in to the calendar of other events that are likely to affect the audience that are targeted.
-   * That is at a time when accommodation is available. Things to consider here may include:
+   * The date needs to fit into the calendar of other events that are likely to affect the audience that are targeted.
+   * The event should be at a time when accommodation is available. Things to consider here may include:
     
       * Being outside of University term time,
-      * No conflicting local events (e.g. football matches) – these tend to raise accommodation prices -,
+      * No conflicting local events (e.g. football matches) as they tend to raise accommodation prices,
       * Preferably not clashing with primary/high school holidays.
 
-* **A venue**
+* **A venue** (`see an example venue specification <https://docs.google.com/document/d/1BJsjr4Y-cTBeEEjV5A_VVQ2hZIPsgBivhpin8gLJyb4/edit#heading=h.g6gccho600xq>`_)
 
   * A specification of venue requirements should be put together.
+  * Venue visits should be done.
+  
+        * Having an agent local to the event at hand can help a lot when the event is remote to your location.
 
-     * `An example venue specification <https://docs.google.com/document/d/1BJsjr4Y-cTBeEEjV5A_VVQ2hZIPsgBivhpin8gLJyb4/edit#heading=h.g6gccho600xq>`_
+  * Venue should be checked for availability for the preferred dates.
+  * A possible venue should be chosen (or a few choices shortlisted).
 
-  * Venue visits should be done
-
-     * Having a local (to the event) agent helping can help a lot where the event is remote to your location.
-
-  * A possible venue should be chosen.
-  * Dates should be available.
-
-* **A budget** (`see budget example <https://docs.google.com/spreadsheets/d/1aM2pPFgV2kurA4G7L8AT1GTyeWRj2fo3ner_jsTzSEU/edit#gid=0>`_)
+* **A budget** (`see a budget example <https://docs.google.com/spreadsheets/d/1aM2pPFgV2kurA4G7L8AT1GTyeWRj2fo3ner_jsTzSEU/edit#gid=0>`_)
 
   * Showing estimated income lines.
   * Showing estimated outgoing costs lines.
   * Best case, middle case and worst case cost projections should be prepared.
 
-* **Outputs and Outcomes** (`what's the difference <https://hbr.org/2012/11/its-not-just-semantics-managing-outcomes>`_)
+* **Outputs and outcomes** (`what's the difference <https://hbr.org/2012/11/its-not-just-semantics-managing-outcomes>`_)
 
   * These should be linked to the event goals.
   * Some of these will be the same as the objectives of the workshop.
@@ -56,7 +53,7 @@ This is a list of information from the FS stage which is needed for evaluation b
 Assessment
 ----------
 
-The set of information will need to be assessed by the stakeholders and lead to one of the following outcomes from the Lead Stakeholder with regards to proceeding with the event:
+Once collected, the above set of information will need to be assessed by the stakeholders (or the Lead Stakeholder). The assessment should lead to one of the following outcomes with regards to proceeding with the event:
 
 * **Proceed** - the EL can now arrange the event.
 * **More work needed** - there might be more specific items needed to get final approval to proceed (e.g. re-visit the budget).
