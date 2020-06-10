@@ -15,5 +15,7 @@ Other contributors:
 * Raniere Silva `(ORCID) <https://orcid.org/0000-0002-8381-3749>`__
 * Clem Hadfield 
 * Robin Wilson `(ORCID) <https://orcid.org/0000-0001-7352-8912>`__
+* Malvika Sharan `(ORCID) <http://orcid.org/0000-0001-6619-7369>`__
+
 
 
