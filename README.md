@@ -13,7 +13,7 @@ Clone the git repo locally.
 
 `git clone https://github.com/softwaresaved/event-organisation-guide.git`
 
-### setting up sphinx readthedocs theme link
+### Setting up sphinx readthedocs theme link
 This is needed so you can build and test the documentation locally.
 
 `git clone https://github.com/readthedocs/sphinx_rtd_theme.git`
@@ -29,7 +29,8 @@ This is needed so you can build and test the documentation locally.
 `pip install sphinx`
 
 ## Make
-
+From the `docs` folder of the project do:
+`make clean`
 `make html`
 
 ## View
