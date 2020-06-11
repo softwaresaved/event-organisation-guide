@@ -18,7 +18,7 @@ Create a set of packages for sponsors (e.g. the traditional Bronze, Silver, Gold
 sponsorship and be clear about what advantages (e.g. presence on all organiser intro slides) or influence sponsors will
 have (e.g. a talking slot, a workshop slot, a stand). This will  make it easier to approach sponsors.
 
-As mentioned in the section on Infrastructure, the task of attracting sponsorship needs to be assigned to the members of the event team.
-The first contact with sponsors from the event can be different people (e.g. the EL), who then take on the conversation
+As mentioned in the section on :doc:`eps-infrastructure`, the task of attracting sponsorship needs to be assigned to the members of the event team.
+The first contact with sponsors from the event team can be different people (e.g. the EL), who then take on the conversation
 with those interested in supporting the event.
 
