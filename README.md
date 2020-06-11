@@ -44,5 +44,7 @@ Open the file `./_build/html/index.html` in a web-browser.
 
 If you make changes to the .rst files or do a `git pull` to get updates then you need to do a `make clean` before you do a `make html` as otherwise the navigation pages sometimes don't behave or work. 
 
+## Contributing
 
-
+### Style
+Document titles should be in title case (see https://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html). For headings and subheadings please use sentence case (https://proofreadmyessay.co.uk/writing-tips/title-case-sentence-case-headings/).
