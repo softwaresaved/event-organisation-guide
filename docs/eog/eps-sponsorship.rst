@@ -19,6 +19,6 @@ sponsorship and be clear about what advantages (e.g. presence on all organiser i
 have (e.g. a talking slot, a workshop slot, a stand). This will  make it easier to approach sponsors.
 
 As mentioned in the section on :doc:`eps-infrastructure`, the task of attracting sponsorship needs to be assigned to the members of the event team.
-The first contact with sponsors from the event team can be different people (e.g. the EL), who then take on the conversation
+After successful first contact with sponsors by the event team, the EL or designate can then take forward the conversation
 with those interested in supporting the event.
 
