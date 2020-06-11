@@ -47,4 +47,4 @@ If you make changes to the .rst files or do a `git pull` to get updates then you
 ## Contributing
 
 ### Style
-Document titles should be in title case (see https://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html). For headings and subheadings please use sentence case (https://proofreadmyessay.co.uk/writing-tips/title-case-sentence-case-headings/).
+Document titles should be in [title case](https://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html). Headings and subheadings should be in [sentence case](https://proofreadmyessay.co.uk/writing-tips/title-case-sentence-case-headings/).
