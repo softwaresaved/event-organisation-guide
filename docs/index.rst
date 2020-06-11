@@ -26,6 +26,6 @@ About
    :maxdepth: 2
 
    eog/authors
-   eog/license
+   eog/licence
    eog/acknowledgements
 
