@@ -30,8 +30,11 @@ This is needed so you can build and test the documentation locally.
 
 ## Make
 From the `docs` folder of the project do:
-`make clean`
-`make html`
+
+```
+make clean
+make html
+```
 
 ## View
 
