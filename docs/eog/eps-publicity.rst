@@ -14,11 +14,11 @@ It is important to investigate dissemination channels and devise a publicity tim
 
 The publicity timeline should fit into the overall event project timeline, and it should include:
 
-* Who to contact (individuals, groups, press offices)
-* Contact details (individual email, Twitter, mailing lists)
-* Publicity schedule (plan the dates for publishing your event and publicity content)
-* Content (news item, blog posts, press release, tweet)
-* How to measure the success of your campaigns
+- Who to contact (individuals, groups, press offices)
+- Contact details (individual email, Twitter, mailing lists)
+- Publicity schedule (plan the dates for publishing your event and publicity content)
+- Content (news item, blog posts, press release, tweet)
+- How to measure the success of your campaigns
 
 Once you have your timeline ready, you can start writing or requesting the content to have it ready for publishing. Different tools (such as Google Analytics, Twitter Analytics) can be used to keep track of visits and link clicks. This is useful to assess if your campaign is working and if people are interested in your content.
 
@@ -41,10 +41,10 @@ After the event, asking attendees for blog posts to talk about their experiences
 
 There are various outputs produced at the end of a workshop. For Collaborations Workshops, we normally make available:
 
-* Lightning talks
-* Keynote slides
-* Hackday entries
-* Videos of the talks
-* An event report or analysis
+- Lightning talks
+- Keynote slides
+- Hackday entries
+- Videos of the talks
+- An event report or analysis
 
 These are all good times to publicise the fact that resources from a workshop are now available.

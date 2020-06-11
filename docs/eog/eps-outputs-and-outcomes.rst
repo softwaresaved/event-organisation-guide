@@ -6,26 +6,22 @@ Outputs
 *******
 This should be re-visited to put in place what you will make available and what you won’t.  For instance, for a CW type of event this could include:
 
-* Presentations
+- Presentations
+    - From keynotes (slides, videos)
+    - From lightning talks  (slides, videos)
+    - From mini-workshops (slides)
 
-  * From keynotes (slides, videos)
-  * From lightning talks  (slides, videos)
-  * From mini-workshops (slides)
+- Speed blog posts
+    - From discussion sessions
 
-* Speed blog posts
+- Collaborative ideas
+    - Making the final ideas available
 
-  * From discussion sessions
-
-* Collaborative ideas
-
-  * Making the final ideas available
-
-* Hackday
-
-  * Information about entries and winners
-  * Team/Project name
-  * Presentations
-  * Links to the software/output
+- Hackday
+    - Information about entries and winners
+    - Team/Project name
+    - Presentations
+    - Links to the software/output
 
 Outcomes
 ********

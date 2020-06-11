@@ -14,11 +14,11 @@ One should also agree on the probable and maximum number of attendees at the eve
 
 Even at the Idea Exploration Stage, it should be possible to discuss the balance on the type or combination of types of sessions throughout the event in terms of:
 
-* Informing (e.g. Speakers)
-* Exploring (e.g. Discussion session)
-* Creating (e.g. Hackdays, Bring Your Own Data (BYOD))
-* Learning (e.g. Software Carpentry (SWC)/Data Carpentry (DC) or other instructive approaches)
-* Networking (e.g. lunch/coffee and other social sessions)
+- Informing (e.g. Speakers)
+- Exploring (e.g. Discussion session)
+- Creating (e.g. Hackdays, Bring Your Own Data (BYOD))
+- Learning (e.g. Software Carpentry (SWC)/Data Carpentry (DC) or other instructive approaches)
+- Networking (e.g. lunch/coffee and other social sessions)
 
 If this stage is approved, an *Event Lead* (EL) (the person in charge of both the vision and delivery of the event) should be identified, and effort from others should be assigned to form a co-ordinating group during the FS stage. For smaller events, only the EL may be required. The EL is the Project Manager for the event.
 
