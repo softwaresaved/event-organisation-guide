@@ -48,3 +48,9 @@ If you make changes to the .rst files or do a `git pull` to get updates then you
 
 ### Style
 Document titles should be in [title case](https://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html). Headings and subheadings should be in [sentence case](https://proofreadmyessay.co.uk/writing-tips/title-case-sentence-case-headings/).
+
+For bullet pointed lists, use dash ('-') to denote the list items. Sub-lists should be indented with tabs. For example:
+- list item
+  - sub item 1
+  - sub item 2
+  - sub item 3
