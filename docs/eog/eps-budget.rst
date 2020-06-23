@@ -11,9 +11,9 @@ In the early stages, you should focus on the budget lines that
 are absolutely necessary and essential for the event to be delivered, for example:
 
 - estimates for the venue hire and catering
-- keynote speaker fees, travel and accommodation estimate
-- prizes estimate
-- hiring of poster boards costs
+- keynote speaker fees, travel and accommodation estimates (if applicable)
+- prizes estimate (e.g. for best paper, best poster, best hack-day idea)
+- hiring of poster boards (if you are hosting a poster session)
 - lanyards & badges
 - printing programmes (unless you are going paperless)
 - expected income from registrations
