@@ -30,7 +30,7 @@ requirements in general terms:
 - Facilities
     - storage, toilets, fridge for medication/milk, water points, printing, children on site (or nearby nursery), proximity to prayer rooms (if none available on site)
 - Accessibility
-    - of the venue by public transport and within the venue (location of disabled toilets, accessibility of various rooms)
+    - of the venue by public transport and within the venue (location of disabled toilets, accessibility of various rooms, signposting for ease of orientation)
 - Environment sustainability considerations
     - the use of plastic vs sustainable cutlery and crockery for serving food, what happens to the leftover food
 - Conference dinner hosting
