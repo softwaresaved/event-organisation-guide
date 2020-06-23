@@ -20,9 +20,9 @@ are absolutely necessary and essential for the event to be delivered, for exampl
 - expected income from sponsors (may be an unknown at this stage, unless you already have some sponsors confirmed)
 
 Because at this stage you can only estimate, you should prepare the
-best case, middle case and worst case cost projections. Try and get the actual quotes for as many of the above items as
+best case, middle case and worst case cost projections. Try and get actual quotes for as many of the above items as
 possible, as it will make it easier to plan the budget
-and will give you more accurate estimates. For example, at this stage you may already have a few quotes from different
+and will give you more accurate figures. For example, at this stage you may already have a few quotes from different
 venues but may be less able to estimate the fees and travel costs for your keynote speakers as you do not know where
 they will be coming from. In this case, you may decide to put an upper limit on those costs which would also count as
 your worst case cost projection and will also limit you in your keynote search (e.g. you may decide that you can only
