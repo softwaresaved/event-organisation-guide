@@ -37,8 +37,8 @@ sponsorship, for example:
 - registration fee waiver for the members of the organising committee
 - T-shirts for the members of the organising team and local volunteers (to make them stand out from the rest of the audience)
 - conference pack
-- more luxurious food option
+- better food options
 
 As you move into the :doc:`event-project-stage-eps`, you will refine and update your budget periodically with the actual
-costs (e.g. when you sign the contact with the venue or book travel for your speakers)
+costs (e.g. when you sign the contract with the venue or book travel for your speakers)
 or income (e.g. as registrations start coming in) and make decisions on optional/additional costs.
