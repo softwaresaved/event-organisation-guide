@@ -47,7 +47,7 @@ Here are some examples of risks identified when organising an event such as the 
 
 - Keynote speakers
     - Delay in confirmation or dropping out
-    - Speakers goes off track in their talk or uses offensive language
+    - Speaker goes off track in their talk or uses offensive language
 
 - Attendees
     - Not enough attendees or many dropping out right before the event
