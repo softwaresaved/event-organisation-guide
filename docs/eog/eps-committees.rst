@@ -26,7 +26,7 @@ The EL should decide what type, number, size and complexity of committees are ne
 There is useful guidance available for larger conferences and committee roles published by the `IEEE <https://www.ieee.org/conferences/organizers/roles - responsibilities.html>`_. For training focused workshops, `The Carpentries offer some advice <https://docs.carpentries.org/topic_folders/hosts_instructors/index.html>`_.
 The Research Software Engineers annual conference attracts 300+ attendees and offers excellent information on the place
 of `committees in the conference <https://rse.ac.uk/conf2019/>`_ and
-`details of what committee roles entail <https://rse.ac.uk/conf2019/get-involved/>`_.
+`details of what committee roles entail <https://rse.ac.uk/conf2019/get-involved/>`.
 
 Once the EL decides on the committees, they should recruit members for the roles  -  they may do this by using a
 special status (e.g. suitable contacts, sponsors who are willing for the steering committee and local contact who can help with logistics for the organising committee) or they could use a system where people volunteer and a lightweight system of assessment before they are co - opted.
