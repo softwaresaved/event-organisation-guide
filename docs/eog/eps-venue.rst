@@ -3,7 +3,7 @@
 Venue
 =====
 
-Venue is one of the most important aspects of the event and can really make a difference between a good and an
+Securing a good venue is one of the most important aspects of the event and can really make a difference between a good and an
 excellent event. It is also the most expensive line in your :doc:`eps-budget`. 
 
 You can have a look in more detail at various venue
