@@ -66,19 +66,19 @@ Based on each individual risk identified during the risk assessment - a strategy
     - To avoid cases where not enough food is available, discuss portion sizes and quantities with the caterers ahead of the event and consider ordering 10% more or increase quantities for the following day.
 
 - Communication
-    - Asses and prioritise stakeholders (based on their power and interest in your event) to know how to communicate with each of them
-    - Make communication and publicity plans and choose what communications channels you are going to use based on your audience (e.g. news items, emails, blogs, twitter, slack, etc.)
-    - Define privacy policy for handling people's sensitive data and stick to it for any communication with people who registered to attend your event
-    - Communicate the agenda clearly on various channels and in a timely manner
-    - Assign roles to organising committee for communication on different issues during the event (Code of Conduct committee, first point of contact, etc.) and make those roles clear to participants before and at the event
-    - Discuss placing signage with venue
-    - Communicate any follow-ups with participants according to your privacy policy
+    - Assess and prioritise stakeholders (based on their power and interest in your event) to know how to communicate with each of them.
+    - Make communication and publicity plans and choose what communications channels you are going to use based on your audience (e.g. news items, emails, blogs, twitter, slack, etc.).
+    - Define privacy policy for handling people's sensitive data and stick to it for any communication with people who registered to attend your event.
+    - Communicate the agenda clearly on various channels and in a timely manner.
+    - Assign roles to organising committee for communication on different issues during the event (Code of Conduct committee, first point of contact, etc.) and make those roles clear to participants before and at the event.
+    - Discuss placing signage with venue.
+    - Communicate any follow-ups with participants according to your privacy policy.
 
 - Policies, guidelines and documentation
-    - Document the processes, policies and guidelines and make notes of meeting minutes
-    - Make sure everyone knows where documentation is kept and have the correct access rights
-    - If any materials are made available ahead of the event, e.g. speakers presentations, slides, abstracts and talks - make sure they are communicated to the audience in a timely manner
-    - Use cloud infrastructures for storing documents (such as Google docs, GitHub), where document history is preserved and documents are backed up automatically
+    - Document the processes, policies and guidelines and make notes of meeting minutes.
+    - Make sure everyone knows where documentation is kept and have the correct access rights.
+    - If any materials are made available ahead of the event, e.g. speakers presentations, slides, abstracts and talks, make sure they are communicated to the audience in a timely manner.
+    - Use cloud infrastructures for storing documents (such as Google docs, GitHub), where document history is preserved and documents are backed up automatically.
 
 An `example detailed risk mitigation plan
 <https://docs.google.com/spreadsheets/d/1hjlNIL-UbWus8O9raq1OtdvM2v1GECxjOeSegS6rIRM/edit#gid=254036893>`_
