@@ -12,7 +12,7 @@ If there are activities which need any action from event attendees then they sho
 
 Also if you're aware of other events and/or a follow-on event, making attendees aware of these will help meet the wider goals and objectives of your organisation.
 
-A final thanks to sponsors and helpers should also be made.
+Sponsors and volunteers should be thanked again at the end of the event.
 
 After the event
 ***************
