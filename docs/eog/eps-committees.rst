@@ -3,7 +3,7 @@
 Committees
 ==========
 
-Committees are great ways to shape the event’s programme and get help with logistics, while giving people credit for taking parts.
+Committees are great ways to shape the event’s programme and get help with logistics, while giving people credit for taking part.
 
 As an example for the CW series, there are two committees which offer different types of help and advice.
 
@@ -31,5 +31,5 @@ of `committees in the conference <https://rse.ac.uk/conf2019/>`_ and
 Once the EL decides on the committees, they should recruit members for the roles  -  they may do this by using a
 special status (e.g. suitable contacts, sponsors who are willing for the steering committee and local contact who can help with logistics for the organising committee) or they could use a system where people volunteer and a lightweight system of assessment before they are co - opted.
 
-Once committees are organised, the EL has to think of how many meetings and for how long they should be held. Each meeting should have at least a few standing items, key items to resolve and actions points from previous meetings, if applicable.
+Once committees are organised, the EL has to think of how many meetings to have and for how long they should be held. Each meeting should have at least a few standing items, key items to resolve and actions points from previous meetings, if applicable.
 
