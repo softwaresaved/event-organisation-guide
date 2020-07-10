@@ -13,7 +13,7 @@ several categories on a low - high scale, for example:
 .. figure:: ../img/risk-assessment-graph.png
   :alt: Risk assessment chart
 
-You can decide for yourself where to draw the boundaries between the risk categories on your risk chart. It is also OK to classify your risks a more
+You can decide for yourself where to draw the boundaries between the risk categories on your risk chart. It is also OK to classify your risks on a more
 fine-grained scale, e.g. low, medium, high, extreme - based on your
 individual risk assessment. For example, consider the following risk assessment matrix (obtained from `Wikipedia
 Commons <https://commons.wikimedia.org/wiki/File:IC-Risk-Assessment-Matrix-Template.jpg>`_ under CC BY-SA 4.0 licence).
@@ -47,7 +47,7 @@ Here are some examples of risks identified when organising an event such as the 
 
 - Keynote speakers
     - Delay in confirmation or dropping out
-    - Speaker goes off track in their talk or uses offensive language
+    - Speaker go off track in their talk or use offensive language
 
 - Attendees
     - Not enough attendees or many dropping out right before the event
