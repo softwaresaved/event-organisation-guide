@@ -38,7 +38,7 @@ Based on each individual risk identified during the risk assessment - a strategy
 
 - Volunteers/helpers at the event
     - Plan ahead and recruit more local people if needed.
-    - Communicate expectations clearly and make a duty rota for the event to make sure everyone know what they are doing.
+    - Communicate expectations clearly and make a duty rota for the event to make sure everyone knows what they are doing.
     - If budget allows, have special t-shirts for the helpers; thank them in person, make sure they are made known to the audience and feel appreciated; send them 'a 'thank you' note after the event.
 
 - Budget
@@ -56,11 +56,11 @@ Based on each individual risk identified during the risk assessment - a strategy
 
 - Venue
     - Look at several venues, see if dates can be changed, put insurance in place for venue cancellation.
-    - Visit venue ahead and check accessibility, AV equipment, availability of technical support, fire alarm schedule.
+    - Visit venue ahead of booking and check accessibility, AV equipment, availability of technical support, fire alarm schedule.
 
 - Catering
     - Look at several caterers and make sure there are alternatives; put insurance in place for cancellations.
-    - Ahead of the event, communicate clearly to the caterers attendee's dietary requirements. 
+    - Ahead of the event, communicate clearly to the caterers attendees' dietary requirements. 
     - Early on you can discuss potential/expected dietary requirements and check if the caterers can fulfill them all (e.g. gluten-free, vegan, vegetarian, halal, kosher). 
     - Request all food to be labelled.
     - To avoid cases where not enough food is available, discuss portion sizes and quantities with the caterers ahead of the event and consider ordering 10% more or increase quantities for the following day.
@@ -76,8 +76,8 @@ Based on each individual risk identified during the risk assessment - a strategy
 
 - Policies, guidelines and documentation
     - Document the processes, policies and guidelines and make notes of meeting minutes.
-    - Make sure everyone knows where documentation is kept and have the correct access rights.
-    - If any materials are made available ahead of the event, e.g. speakers presentations, slides, abstracts and talks, make sure they are communicated to the audience in a timely manner.
+    - Make sure everyone knows where documentation is kept and has the correct access rights.
+    - If any materials are made available ahead of the event, e.g. speakers' presentations, slides, abstracts and talks, make sure they are communicated to the audience in a timely manner.
     - Use cloud infrastructures for storing documents (such as Google docs, GitHub), where document history is preserved and documents are backed up automatically.
 
 An `example detailed risk mitigation plan
