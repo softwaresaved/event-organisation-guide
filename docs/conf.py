@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Event Organisation Guide'
-copyright = '2019, University of Manchester, University of Edinburgh'
+copyright = '2019-2020, University of Manchester, University of Edinburgh'
 author = 'Shoaib Sufi, Selina Aragon, Aleksandra Nenadic'
 
 # The short X.Y version
-version = ''
+version = '2.0'
 # The full version, including alpha/beta/rc tags
-release = '1.0'
+release = '2.0.0 beta 1'
 
 
 # -- General configuration ---------------------------------------------------
