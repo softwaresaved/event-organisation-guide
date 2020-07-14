@@ -3,7 +3,7 @@
 Venue
 =====
 
-Venue is one of the most important aspects of the event and can really make a difference between a good and an
+Securing a good venue is one of the most important aspects of the event and can really make a difference between a good and an
 excellent event. It is also the most expensive line in your :doc:`eps-budget`. 
 
 You can have a look in more detail at various venue
@@ -15,9 +15,9 @@ really help and what is optional for your particular event instance. Here we out
 requirements which you should consider and prioritise for an event.
 
 - Capacity
-    - the main plenary room's capacity should be double the number of delegates for comfortable fit, there should be enough rooms and spaces to support different event requirementss
+    - the main plenary room's capacity should be double the number of delegates for comfortable fit, there should be enough rooms and spaces to support different event requirements
 - Spaces that support different event requirements
-    - registration space, main plenary room, breakout rooms, communal/break space, poster/sponsor exhibition space, storage space, quiet space, work space, photo taking space, prayer room, etc.
+    - registration, main plenary room, breakout rooms, communal/break space, poster/sponsor exhibition, storage, quiet space, work space, photo taking, prayer room, etc.
 - Location
     - ideally located in a place with some wow factor and easily accessible by public transport (ideally with some nearby parking too)
 - Infrastructure

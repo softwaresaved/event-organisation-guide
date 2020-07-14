@@ -5,8 +5,7 @@ Sponsorship
 
 Sponsorship for events is becoming more important to help make them affordable. We also attract sponsors
 to events to, for example, pay for a student to attend or support the attendance of speakers or people
-outside of the normal remit (e.g. legal staff). This also attracts different audiences to the event and raises the profile of the sponsoring organisations. It can also enrich the experience of those attending by offering free t-shirts, software licences or
-even hardware.
+outside of the normal remit (e.g. legal staff). This in turn attracts different audiences to the event and raises the profile of the sponsoring organisations. Sponsors offering free t-shirts, software licences or even hardware can also enrich the experience of attendees.
 
 One has to be careful with sponsorship – the balance between in-kind and actual cash is important. Sometimes in-kind
 sponsorship can help enrich the programme but it does not help your budget.

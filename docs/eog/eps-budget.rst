@@ -4,7 +4,7 @@ Budget
 ======
 
 It is important to think about the budget very early on and have a budget outline ready in the :doc:`feasibility-stage`
-for the perusal of the (main) stakeholder(s). Such outline should contain estimated income and outcome lines,
+for the perusal of the (main) stakeholder(s). Such an outline should contain estimated income and outcome lines,
 as can be seen in an
 `example budget <https://docs.google.com/spreadsheets/d/1aM2pPFgV2kurA4G7L8AT1GTyeWRj2fo3ner_jsTzSEU/edit#gid=0>`_.
 In the early stages, you should focus on the budget lines that

@@ -17,37 +17,36 @@ This is a list of information from the FS which is needed for evaluation by stak
         - Although if this does happen, the Lead Stakeholder should probably be consulted to make sure it’s OK to carry on if you are in the EPS stage.
 
 - A date
-    - The date needs to fit into the calendar of other events that are likely to affect the audience that are targeted.
+    - The date needs to fit into the calendar of other events that are likely to affect the target audience.
     - The event should be at a time when accommodation is available. Things to consider here may include:
-        - Being outside of University term time
-        - No conflicting local events (e.g. football matches) as they tend to raise accommodation prices
+        - Being outside of University term time,
+        - No other conflicting local events (e.g. football matches) as they tend to raise accommodation prices,
         - Preferably not clashing with primary/high school holidays.
 
 - A venue (`see an example venue specification <https://docs.google.com/document/d/1BJsjr4Y-cTBeEEjV5A_VVQ2hZIPsgBivhpin8gLJyb4/edit#heading=h.g6gccho600xq>`_)
     - A specification of venue requirements should be put together.
-    - Venue visits should be done.
+    - Visits should be carried out before hiring a venue.
         - Having an agent local to the event at hand can help a lot when the event is remote to your location.
-    - Venue should be checked for availability for the preferred dates.
+    - The venue should be checked for availability for the preferred dates.
     - A possible venue should be chosen (or a few choices shortlisted).
 
 - A budget (`see a budget example <https://docs.google.com/spreadsheets/d/1aM2pPFgV2kurA4G7L8AT1GTyeWRj2fo3ner_jsTzSEU/edit#gid=0>`_)
-    - Showing estimated income lines.
-    - Showing estimated outgoing costs lines.
-    - Best case, middle case and worst case cost projections should be prepared.
+    - These should show estimated income lines, and estimated outgoing costs lines.
+    - Best case, middle case and worst case cost projections should also be prepared.
 
 - Outputs and outcomes (`what's the difference <https://hbr.org/2012/11/its-not-just-semantics-managing-outcomes>`_)
-    - Should be linked to the event goals.
+    - These should be linked to the event goals.
     - Some of these will be the same as the objectives of the workshop.
-    - Should include whether you are going to write a report or make videos and other resources from the event available post event.
+    - They should include the type of resources that will be available after the event. That is, whether a report will be written, videos of the sessions or any other resources will be made available.
 
 Assessment
 ----------
 
-Once collected, the above set of information will need to be assessed by the stakeholders (or the Lead Stakeholder). The assessment should lead to one of the following outcomes with regards to proceeding with the event:
+Once collected, the above set of information will need to be assessed by the stakeholders (or the Lead Stakeholder). The assessment should have one of the following outcomes:
 
 - **Proceed** - the EL can now arrange the event.
-- **More work needed** - there might be more specific items needed to get final approval to proceed (e.g. re-visit the budget).
-- **Reject** - it might be decided that it is not worth running the event (this should be rare as most things should be caught at the less expensive IES stage discussions).
+- **More work needed** - More detail might be needed for some aspects of the event before getting final approval (e.g. re-visit the budget).
+- **Reject** - it might be decided that it is not worth running the event (this should be rare at this stage as most things should be caught at the less expensive IES stage discussions).
 
 
 
