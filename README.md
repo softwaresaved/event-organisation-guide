@@ -59,4 +59,4 @@ For bullet pointed lists, use dash ('-') to denote the list items. Sub-lists sho
 
 ## License
 
-The Event Organisation Guide (EOG) material is available under the Creative Commons Attribution-NonCommercial 4.0 Licence. Please see the [human-readable summary](https://creativecommons.org/licenses/by-nc/4.0/) of the CC BY-NC 4.0 and the full [legal text](https://creativecommons.org/licenses/by-nc/4.0/legalcode) for further information.
+The EOG material is available under the Creative Commons Attribution-NonCommercial 4.0 Licence. Please see the [human-readable summary](https://creativecommons.org/licenses/by-nc/4.0/) of the CC BY-NC 4.0 and the full [legal text](https://creativecommons.org/licenses/by-nc/4.0/legalcode) for further information.
