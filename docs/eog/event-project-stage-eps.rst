@@ -15,12 +15,15 @@ The following sections go into these elements of the project in more detail and 
 
    eps-infrastructure
    eps-timeline
+   eps-budget
    eps-committees
    eps-agenda
    eps-publicity
    eps-sponsorship
+   eps-venue
    eps-catering
    eps-event-roles
+   eps-risk-management
    eps-outputs-and-outcomes
    eps-closing-down
 

@@ -8,7 +8,7 @@ Event Organisation Guide
 ========================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    eog/introduction
@@ -26,6 +26,6 @@ About
    :maxdepth: 2
 
    eog/authors
-   eog/license
+   eog/licence
    eog/acknowledgements
 
