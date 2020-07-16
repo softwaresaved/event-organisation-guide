@@ -3,7 +3,14 @@
 CW20 Infrastructure
 ====================
 
-For the in-person event, we had planned to use tools such as `Slack <https://slack.com>`_, `Slido <https://www.sli.do/>`_ and `uCONFLY <http://uconfly.org/>`_, however for the online event we felt that it was important to minimise the number of platforms that participants had to register with and keep track of. 
+We had already organised registration for the in-person event through `Eventbrite <https://www.eventbrite.com/>`_. 
+We sent emails to registrants through Eventbrite to notify them every step of the way and because of the unconference nature of the event, we asked for participant input to our contingency investigation. 
+As we worked to reformat the event and move it online, we gave registrants time to cancel and collect full refunds. 
+We also reduced the cost of the event (from £250 to £50) and issued partial refunds through Eventbrite to participants who wanted to stay and participate in the virtual event. 
+We took the partial refund route in order to maintain continuity with our registrants, but another option could have been to outright cancel the Eventbrite event, issue full refunds and start from scratch. 
+We also provided `guidance <https://software.ac.uk/news/collaborations-workshop-2020-cw20-move-online>`_ and documentation on reclaiming costs to help participants who had already booked their travel to Belfast.
+
+For the in-person event, we had planned to use additional tools such as `Slack <https://slack.com>`_, `Slido <https://www.sli.do/>`_ and `uCONFLY <http://uconfly.org/>`_, however for the online event we felt that it was important to minimise the number of platforms that participants had to register with and keep track of. 
 We narrowed our needs down to platforms for 
 
 1. Video conferencing,
@@ -46,3 +53,8 @@ For CW20, we used uCONFLY purely as an admin tool by creating the templates for 
 We then collated them via Google Sheets (see this `example spreadsheet <https://doi.org/10.6084/m9.figshare.12498278>`_) which we linked to in the day’s collaborative note-taking document/agenda. 
 
 You can find the full collection of `CW20 infrastructure and documentation resources on Figshare <https://doi.org/10.6084/m9.figshare.c.5026400>`_.
+
+In the days before the event, we sent emails to registrants through Eventbrite reminding them to review the Code of Conduct, instructions to install and test the Zoom software, and information about how to prepare for certain sessions. 
+We also stressed that CW20 would be as flexible on the day as possible, as many people were adjusting to a new way of working, caring responsibilities during the day, unstable internet, and to the associated emotional pressures. 
+We provided guidance for everyone to be kind, understanding and flexible. 
+Links to the relevant Zoom room and note-taking document were sent via email through Eventbrite and Slack at the start of each day.
