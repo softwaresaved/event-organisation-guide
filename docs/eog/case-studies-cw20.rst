@@ -2,8 +2,8 @@
 
 .. Comment - `Link text <https://domain.invalid/>`_
 
-Collaborations Workshop 2020 (CW20)
-====================================
+Collaborations Workshop 2020 (CW20) - Online 
+=============================================
 
 The Collaborations Workshop (CW) is the annual flagship event of the Software Sustainability Institute. It brings together researchers, developers, innovators, managers, funders, publishers, leaders, and educators to explore and share best practice.
 
