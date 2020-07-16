@@ -11,6 +11,9 @@ On 5 March - just over three weeks before Collaborations Workshop 2020 (CW20) wa
 
 CW is a highly interactive event with around 80-100 participants, and is designed to facilitate meeting as many new people as possible. With a global pandemic forcing us to stay at home, could we successfully recreate the experience online, and with only three weeks to prepare? Given the amount of work that had already been put into organising the event, the decision was made on 10 March to move the event online and stick with the original dates: 31 March - 2 April.
 
+.. figure:: ../img/CW20_group_photo.png
+  :alt: CW20 group photo
+
 .. toctree::
    :maxdepth: 2
    :caption: Sections:
