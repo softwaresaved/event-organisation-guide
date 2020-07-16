@@ -18,7 +18,7 @@ We narrowed our needs down to platforms for
 3. Collaborative documenting. 
 
 Video conferencing
-*******************
+-------------------
 
 `Zoom <https://zoom.us/>`_ was very quickly identified as the video conferencing platform that we would use because we had the most experience with it and it had the functionality we needed (namely breakout rooms and easy recording of the event). 
 We initially planned to use a single Zoom meeting room to contain the entire event (with breakout rooms used for the Discussion, Collaborative Ideas, and Mini-workshop sessions). 
@@ -26,7 +26,7 @@ However, workshop facilitators also wanted to make use of the breakout room feat
 We therefore obtained five Zoom Host accounts in total to accommodate this: one for the main/plenary room, plus four for the mini-workshops which would take place in parallel. 
 
 Communication channels
-***********************
+----------------------
 
 Although Zoom has chat functionality, it can be distracting for hosts/speakers and difficult to manage when there are many participants using it. 
 We decided to disable the Zoom chat (except for the case where participants could communicate directly with the meeting Host) and direct engagement and communication to the CW20 Slack workspace, as this would allow participants to connect even when the Zoom room is closed. 
@@ -37,7 +37,7 @@ Slack also allowed for a more human and informal engagement through the creation
 
 
 Collaborative documenting
-**************************
+--------------------------
 
 The final resource that we needed to decide on was what platform to use for collaborative note-taking - a method for participant interaction and engagement that we learned from communities such as `Mozilla Open Leaders <https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/>`_, `rOpenSci <https://ropensci.org/commcalls/>`_ and `NL-RSE Meetups <https://nl-rse.org/pages/meetups.html>`_. 
 Google Docs was the obvious choice for CW20, as we generate a lot of Google Docs through uCONFLY for the various sessions, and it also has the lowest barrier to accessibility (no need to log in or register and you do not need to know specific syntax or markdown language such as with `HackMD <https://hackmd.io>`_). 
