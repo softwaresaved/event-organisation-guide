@@ -4,6 +4,7 @@ CW20 Event Roles
 ================
 
 It was clear that additional roles and duties were needed for an online event relative to an in-person event. The roles we needed included: 
+
 - Event Chair/Facilitator
 - A Code of Conduct committee
 - A (Slack) help desk for technical issues
