@@ -34,12 +34,15 @@ Collaborative documenting
 
 The final resource that we needed to decide on was what platform to use for collaborative note-taking - a method for participant interaction and engagement that we learned from communities such as `Mozilla Open Leaders <https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/>`_, `rOpenSci <https://ropensci.org/commcalls/>`_ and `NL-RSE Meetups <https://nl-rse.org/pages/meetups.html>`_. 
 Google Docs was the obvious choice for CW20, as we generate a lot of Google Docs through uCONFLY for the various sessions, and it also has the lowest barrier to accessibility (no need to log in or register and you do not need to know specific syntax or markdown language such as with `HackMD <https://hackmd.io>`_). 
-We created a note-taking document for each day which contained the full agenda and all relevant event information, a space for roll call, instructions and links (links to Zoom rooms for parallel sessions, Discussion group and Collaborative Ideas documents, etc.). 
+We created a note-taking document for each day which contained the full agenda and all relevant event information, a space for roll call, instructions and links (links to Zoom rooms for parallel sessions, Discussion group and Collaborative Ideas documents, etc.) as can be seen in this `example collaborative document <https://doi.org/10.6084/m9.figshare.12498257>`_. 
 There were spaces created within the document for people to take notes during the talks and to ask any questions; all of which could be preserved and referred back to in the future. 
 Crucially, general guidance was included at the top of the document reminding participants of the Code of Conduct (and reporting procedure), that the event was being recorded (so to mute any audio/video as necessary), security precautions (warned not to share any of the links publicly to avoid the meeting getting sabotaged by “Zoom-bombers”), and all the pathways to engagement (notes documents, Slack workspace, etc.). 
-We also provided space for feedback at the end of the document on what worked well during the workshop and what didn’t so that we could adapt for the next day.
+We also provided space for feedback at the end of the document on what worked well during the workshop and what didn’t so that we could adapt for the next day. 
+
 
 Normally, we require CW participants to register on the SSI’s unconference resource management system uCONFLY, which allows them to request instances of Google Docs for their group sessions and vote for the best Collaborative Ideas. 
 It also allows all of the outputs from CW to be centralised. 
 For CW20, we used uCONFLY purely as an admin tool by creating the templates for the Discussion, Collaborative Ideas and Mini-workshop sessions, and generated all of the needed instances ahead of time ourselves. 
-We then collated them via Google Sheets which we linked to in the day’s collaborative note-taking document/agenda. 
+We then collated them via Google Sheets (see this `example spreadsheet <https://doi.org/10.6084/m9.figshare.12498278>`_) which we linked to in the day’s collaborative note-taking document/agenda. 
+
+You can find the full collection of `CW20 infrastructure and documentation resources on Figshare <https://doi.org/10.6084/m9.figshare.c.5026400>`_.
