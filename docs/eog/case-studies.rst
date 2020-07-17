@@ -6,7 +6,7 @@ Case Studies
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Sections:
 
    case-studies-cw20
