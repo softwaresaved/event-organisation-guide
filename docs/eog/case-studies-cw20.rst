@@ -18,10 +18,10 @@ CW is a highly interactive event with around 80-100 participants, and is designe
    :maxdepth: 2
    :caption: Sections:
 
-   case-studies-cw20-agenda
    case-studies-cw20-infrastructure
-   case-studies-cw20-event-roles
+   case-studies-cw20-agenda
    case-studies-cw20-sponsorship
+   case-studies-cw20-event-roles
 
    
 
