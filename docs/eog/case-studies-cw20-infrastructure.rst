@@ -4,29 +4,29 @@ CW20 Infrastructure
 ====================
 
 We had already organised registration for the in-person event through `Eventbrite <https://www.eventbrite.com/>`_. 
-We sent emails to registrants through Eventbrite to notify them every step of the way and because of the unconference nature of the event, we asked for participant input to our contingency investigation. 
+We sent emails to registrants through Eventbrite to notify them of our decision making every step of the way. 
+Because of the unconference nature of the event, we even asked for participant input to our contingency investigation. 
 As we worked to reformat the event and move it online, we gave registrants time to cancel and collect full refunds. 
 We also reduced the cost of the event (from £250 to £50) and issued partial refunds through Eventbrite to participants who wanted to stay and participate in the virtual event. 
 We took the partial refund route in order to maintain continuity with our registrants, but another option could have been to outright cancel the Eventbrite event, issue full refunds and start from scratch. 
 We also provided `guidance <https://software.ac.uk/news/collaborations-workshop-2020-cw20-move-online>`_ and documentation on reclaiming costs to help participants who had already booked their travel to Belfast.
 
 For the in-person event, we had planned to use additional tools such as `Slack <https://slack.com>`_, `Slido <https://www.sli.do/>`_ and `uCONFLY <http://uconfly.org/>`_, however for the online event we felt that it was important to minimise the number of platforms that participants had to register with and keep track of. 
-We narrowed our needs down to platforms for 
+We narrowed our needs down to platforms for video conferencing, a chat system for sharing information and community engagement, and a tool for collaborative note-taking to keep everyone synchronised. 
 
-1. Video conferencing,
-2. Communication channels, and
-3. Collaborative documenting. 
+Platforms
+----------
 
 Video conferencing
--------------------
+^^^^^^^^^^^^^^^^^^^
 
 `Zoom <https://zoom.us/>`_ was very quickly identified as the video conferencing platform that we would use because we had the most experience with it and it had the functionality we needed (namely breakout rooms and easy recording of the event). 
 We initially planned to use a single Zoom meeting room to contain the entire event (with breakout rooms used for the Discussion, Collaborative Ideas, and Mini-workshop sessions). 
 However, workshop facilitators also wanted to make use of the breakout room feature for their sessions, which wouldn’t be possible if they were *already in* breakout rooms. 
 We therefore obtained five Zoom Host accounts in total to accommodate this: one for the main/plenary room, plus four for the mini-workshops which would take place in parallel. 
 
-Communication channels
-----------------------
+Chat system
+^^^^^^^^^^^^
 
 Although Zoom has chat functionality, it can be distracting for hosts/speakers and difficult to manage when there are many participants using it. 
 We decided to disable the Zoom chat (except for the case where participants could communicate directly with the meeting Host) and direct engagement and communication to the CW20 Slack workspace, as this would allow participants to connect even when the Zoom room is closed. 
@@ -37,7 +37,7 @@ Slack also allowed for a more human and informal engagement through the creation
 
 
 Collaborative documenting
---------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The final resource that we needed to decide on was what platform to use for collaborative note-taking - a method for participant interaction and engagement that we learned from communities such as `Mozilla Open Leaders <https://foundation.mozilla.org/en/initiatives/mozilla-open-leaders/>`_, `rOpenSci <https://ropensci.org/commcalls/>`_ and `NL-RSE Meetups <https://nl-rse.org/pages/meetups.html>`_. 
 Google Docs was the obvious choice for CW20, as we generate a lot of Google Docs through uCONFLY for the various sessions, and it also has the lowest barrier to accessibility (no need to log in or register and you do not need to know specific syntax or markdown language such as with `HackMD <https://hackmd.io>`_). 
