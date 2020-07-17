@@ -14,8 +14,8 @@ Because we were now unable to carry out the planned social programme (activities
 We did not organise online social activities during the breaks because the days were still quite long and we thought people would need time away from their screens, but this was ultimately something that participants missed the most from the in-person event. 
 Breaks were also scheduled in such a way to allow time for the creation of breakout rooms for the next session.
 
-CW20 Sessions
---------------
+Sessions
+---------
 
 Icebreakers (Networking)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
