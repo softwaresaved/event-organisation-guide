@@ -15,22 +15,22 @@ really help and what is optional for your particular event instance. Here we out
 requirements which you should consider and prioritise for an event.
 
 - Capacity
-    - The main plenary room's capacity should be double the number of delegates for comfortable fit, there should be enough rooms and spaces to support different event requirements.
+    - The main plenary room's capacity should be double the number of delegates for comfortable fit, there should be enough rooms and spaces to support different event requirements
 - Spaces that support different event requirements
-    - Registration, main plenary room, breakout rooms, communal/break space, poster/sponsor exhibition, storage, quiet space, work space, photo taking, prayer room, etc.
+    - Registration, main plenary room, breakout rooms, communal/break space, poster/sponsor exhibition, storage, quiet space, work space, photo taking, prayer room, etc
 - Location
-    - Ideally located in a place with some wow factor and easily accessible by public transport (ideally with some nearby parking too).
+    - Ideally located in a place with some wow factor and easily accessible by public transport (ideally with some nearby parking too)
 - Infrastructure
-    - WiFi, A/V, video streaming/recording, power points, sound and portable microphones.
+    - WiFi, A/V, video streaming/recording, power points, sound and portable microphones
 - Catering at the main event
-    - Catering for people with different dietary needs and food allergies, clear labelling of food.
+    - Catering for people with different dietary needs and food allergies, clear labelling of food
 - Facilities
-    - Storage, toilets, fridge for medication/milk, water points, printing, children on site (or nearby nursery), proximity to prayer rooms (if none available on site).
+    - Storage, toilets, fridge for medication/milk, water points, printing, children on site (or nearby nursery), proximity to prayer rooms (if none available on site)
 - Accessibility 
-    - Accessibility of the venue by public transport and within the venue (location of disabled toilets, accessibility of various rooms, signposting for ease of orientation).
+    - Accessibility of the venue by public transport and within the venue (location of disabled toilets, accessibility of various rooms, signposting for ease of orientation)
 - Environment sustainability considerations
-    - The use of plastic vs sustainable cutlery and crockery for serving food, what happens to the leftover food.
+    - The use of plastic vs sustainable cutlery and crockery for serving food, what happens to the leftover food
 - Conference dinner hosting
-    - The possibility of hosting the conference dinner at the venue.
+    - The possibility of hosting the conference dinner at the venue
 
 
