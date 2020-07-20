@@ -2,7 +2,7 @@
 
 ## Tl;dr
 
-"Be excellent to each other." Bill & Ted
+"Be excellent to each other." [Bill & Ted](https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Excellent_Adventure)
 
 Further details below.
 
