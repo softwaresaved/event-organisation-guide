@@ -6,7 +6,7 @@ Idea Exploration Stage (IES)
 At this stage, the event is just an idea. The idea is explored further to see if more investigation is warranted to perform a formal Feasibility Stage (FS), which comes next.
 
 An overall goal and aim should crystallise by the end of the IES stage, but this is more formally detailed as part of the FS stage.
-Think about the target audience before deciding on the goals and aims of the event. An initial understanding of who the audience will be defined at this stage - i.e. which section of the a particular community are you targeting by running this event. This is paramount to develop the next stages of the event: what sessions to run, type of content for each session, publicity, and outputs.
+Think about the target audience before deciding on the goals and aims of the event. An initial understanding of who the audience will be defined at this stage - i.e. which section of a particular community are you targeting by running this event. This is paramount to develop the next stages of the event: what sessions to run, type of content for each session, publicity, and outputs.
 
 This is also the stage at which the financial parameters should be agreed. For example, will the event make a profit, break even, run as a free event, or is it allowed to make a loss? If the event is allowed to make a financial loss (e.g. a pump-priming event), then the limits of that loss need to be agreed.
 

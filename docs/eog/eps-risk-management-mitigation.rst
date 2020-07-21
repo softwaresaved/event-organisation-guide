@@ -67,8 +67,8 @@ Based on each individual risk identified during the risk assessment - a strategy
 
 - Communication
     - Assess and prioritise stakeholders (based on their power and interest in your event) to know how to communicate with each of them.
-    - Make communication and publicity plans and choose what communications channels you are going to use based on your audience (e.g. news items, emails, blogs, twitter, slack, etc.).
-    - Define privacy policy for handling people's sensitive data and stick to it for any communication with people who registered to attend your event.
+    - Make communication and publicity plans and choose what communication channels you are going to use based on your audience (e.g. news items, emails, blogs, Twitter, Slack, etc.).
+    - Define a privacy policy for handling people's sensitive data and stick to it for any communication with people who registered to attend your event.
     - Communicate the agenda clearly on various channels and in a timely manner.
     - Assign roles to organising committee for communication on different issues during the event (Code of Conduct committee, first point of contact, etc.) and make those roles clear to participants before and at the event.
     - Discuss placing signage with venue.
