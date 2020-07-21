@@ -11,7 +11,7 @@ Please see the the [contributing guidelines](https://github.com/softwaresaved/ev
 We have a [Code of Conduct](https://github.com/softwaresaved/event-organisation-guide/blob/master/CODE_OF_CONDUCT.md), please adhere to this in your interactions on this project.
 
 ## Technical matters
-Please read (Technical Matters)(https://github.com/softwaresaved/event-organisation-guide/blob/master/TECHNICAL_MATTERS.md) to help you get setup for local development of the EOG.
+Please read [Technical Matters](https://github.com/softwaresaved/event-organisation-guide/blob/master/TECHNICAL_MATTERS.md) to help you get setup for local development of the EOG.
 
 ## License
 The EOG material is available under the Creative Commons Attribution-NonCommercial 4.0 Licence. Please see the [human-readable summary](https://creativecommons.org/licenses/by-nc/4.0/) of the CC BY-NC 4.0 and the full [legal text](https://creativecommons.org/licenses/by-nc/4.0/legalcode) for further information.
