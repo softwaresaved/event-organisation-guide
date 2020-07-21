@@ -28,7 +28,8 @@ What is out of scope for the EOG:
 + I found this link - you should refer to it from the EOG (see 3. above - tell us in which section and why)
 
 ## Pull Request Process
-
 1. Ensure any install or build dependencies are removed.
-2. Reference the Issue which this Pull Request (PR) is associated with.
-3. We will use the [GitHub Flow](https://guides.github.com/introduction/flow/) pattern for working with and accepting changes. Review and any merges will be performed by @shoaibsufi in the first instance, or @rainsworth if @shoaibsufi is not available.
+2. Make sure contributions follow the EOG [Style](https://github.com/softwaresaved/event-organisation-guide/blob/master/STYLE.md) considerations.
+3. Reference the Issue which this Pull Request (PR) is associated with.
+4. Make a Pull Request
+5. We will use the [GitHub Flow](https://guides.github.com/introduction/flow/) pattern for working with and accepting changes. Review and any merges of the PR will be performed by @shoaibsufi in the first instance, or @rainsworth if @shoaibsufi is not available.
