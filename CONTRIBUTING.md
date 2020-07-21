@@ -1,8 +1,9 @@
 # Contributing
-
 When contributing to this repository, please first discuss the change you wish to make via an issue, email, or any other method with the owners of this repository before investing a lot of time in writing changes. 
 
 Please note we have a [code of conduct](https://github.com/softwaresaved/event-organisation-guide/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+
+Please make sure any contributions also adhere to the EOG [Style](https://github.com/softwaresaved/event-organisation-guide/blob/master/STYLE.md) guide. 
 
 ## What's the purpose of the EOG
 The purpose of the SSI EOG is to document how the [SSI](https://www.software.ac.uk), related individual's (e.g. the [SSI Fellows](https://www.software.ac.uk/about/fellows)) and the wider research software community organise events.
