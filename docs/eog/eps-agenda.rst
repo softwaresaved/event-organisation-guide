@@ -28,7 +28,7 @@ Exploring
 This includes sessions that aid people working together to explore solutions or identify problems:
 
 * Collaborative ideas or hackday ideas sessions,
-* Discussion sessions & speed blogging,
+* Discussion sessions and speed blogging,
 * Q & A panels.
 
 Creating
@@ -36,7 +36,7 @@ Creating
 
 This includes building things together:
 
-* Hack days,
+* Hackdays,
 * Bring your own data sessions,
 * Paper/Standards generation.
 
@@ -53,14 +53,14 @@ Networking
 
 This includes sessions for building relationships between people:
 
-* Around food (e.g. lunch/coffee, conference/workshop dinner, lunch):
+* Around food (e.g. lunch/coffee, conference/workshop dinner):
 
   * Protecting these times is important to allow networking to take place.
 
 * Other social programmes:
 
-  * Guided walks or/and
-  * Museum or visits to other points of interest nearby.
+  * Guided walks,
+  * Visits to museums or other points of interest nearby.
 
     * At the end of the day or first thing in the morning can be a good time for these to be scheduled.
 

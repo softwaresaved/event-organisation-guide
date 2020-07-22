@@ -3,7 +3,7 @@
 Feasibility Stage (FS)
 ======================
 
-The Feasibility Stage (FS) comes after the :doc:`ideas-exploration-stage` stage is signed off by all necessary stakeholders. Now, the event idea is being explored more thoroughly. The FS is akin to a pre-planning or early-planning stage. At this stage, various things are needed before a formal sign-off and progression to the :doc:`event-project-stage-eps` (i.e. before the Institute/the main stakeholder agrees to take on the staff effort, financial risk and opportunities afforded by running the event).
+The Feasibility Stage (FS) comes after the :doc:`ideas-exploration-stage` is signed off by all necessary stakeholders. Now, the event idea is being explored more thoroughly. The FS is akin to a pre-planning or early-planning stage. At this stage, various things are needed before a formal sign-off and progression to the :doc:`event-project-stage-eps` (i.e. before the Institute/main stakeholder agrees to take on the staff effort, financial risk and opportunities afforded by running the event).
 
 This is a list of information from the FS which is needed for evaluation by stakeholders. Successful evaluation will move us into the EPS stage:
 

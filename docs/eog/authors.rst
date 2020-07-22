@@ -17,6 +17,7 @@ Other contributors:
 - Robin Wilson `(ORCID) <https://orcid.org/0000-0001-7352-8912>`__
 - Malvika Sharan `(ORCID) <http://orcid.org/0000-0001-6619-7369>`__
 - Jacalyn Lairn
+- Rachael Ainsworth `(ORCID) <http://orcid.org/0000-0003-2591-9462>`__
 
 
 
