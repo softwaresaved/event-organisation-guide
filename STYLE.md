@@ -14,4 +14,4 @@ For bullet pointed lists, use dash ('-') to denote the list items. Sub-lists sho
   - sub item 3
   
 ## Bulleted lists punctuation
-If your bulleted lists contain sentence fragments, as a style choice we require capitalisation but no full stop at the end. See [this for reference] (https://www.grammarly.com/blog/bullet-points/).
+If your bulleted lists contain sentence fragments, as a style choice we require capitalisation but no full stop at the end. See [this for reference](https://www.grammarly.com/blog/bullet-points/).
