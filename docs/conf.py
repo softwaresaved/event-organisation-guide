@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Event Organisation Guide'
-copyright = '2019-2020, University of Manchester, University of Edinburgh'
+copyright = '2019-2020, University of Manchester, University of Edinburgh; on behalf of the Software Sustainability Institute.'
 author = 'Shoaib Sufi, Selina Aragon, Aleksandra Nenadic'
 
 # The short X.Y version
