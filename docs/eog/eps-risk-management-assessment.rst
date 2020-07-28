@@ -21,7 +21,7 @@ Commons <https://commons.wikimedia.org/wiki/File:IC-Risk-Assessment-Matrix-Templ
 .. figure:: ../img/536px-IC-Risk-Assessment-Matrix-Template.jpg
   :alt: Risk assessment matrix
 
-For events such as the Collaborations Workshop (`CW <https://www.software.ac.uk/programmes-and-events/collaborations-workshops>`_ ) or Carpentry Connect (`CC <https://software.ac.uk/ccmcr19`_), we typically look at the following risk aspects:
+For events such as the Collaborations Workshop (`CW <https://www.software.ac.uk/programmes-and-events/collaborations-workshops>`_ ) or Carpentry Connect (`CC <https://software.ac.uk/ccmcr19>`_), we typically look at the following risk aspects:
 
 - The main stakeholder and funder (the Software Sustainability Institute)
 - Other stakeholders (sponsors, keynote speakers, attendees, session chairs, organising committee members, volunteers/helpers at the event)
