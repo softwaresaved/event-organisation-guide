@@ -28,16 +28,35 @@ What is out of scope for the EOG:
 + Theorectical event planning is out of scope - we are after experiential knowledge in the EOG
 + I found this link - you should refer to it from the EOG (see 3. above - tell us in which section and why)
 
-## Pull Request Process (preferred)
+## Processes for contributing changes
+
+### Pull Request Process (preferred)
 1. Ensure any install or build dependencies are removed.
 2. Make sure contributions follow the EOG [Style](https://github.com/softwaresaved/event-organisation-guide/blob/master/STYLE.md) considerations.
 3. Reference the Issue which this Pull Request (PR) is associated with.
 4. Make a Pull Request
 5. We will use the [GitHub Flow](https://guides.github.com/introduction/flow/) pattern for working with and accepting changes. Review and any merges of the PR will be performed by @shoaibsufi in the first instance, or @rainsworth if @shoaibsufi is not available.
 
-## Document Based Process (acceptable)
+### Document Based Process (acceptable)
 1. Copy the text from the section of the EOG that you are modifying into a Google Document, Word file, Office 365, or OpenOffice (or LibreOffice) Writer
 2. Use track change or suggesting functionailty to make changes and additions
 3. Raise an [issue](https://github.com/softwaresaved/event-organisation-guide/issues) and explain the changes and additions you have made
 4. Attach the link to the Google Document or Office 365 Word or attach the Word or OpenOffice(LibreOffice) file to the issue - note you must have all changes in track changes or suggesting format
 5. @shoaibsufi will check the changes you are suggesting and discuss matters with you in the issue you have raised, @rainsworth will proceed matters if @shoaibsufi is not available.
+
+## Authorship and Acknowledgement
+
+### Authorship
+If you are offering substantial changes to a section or additional sections (e.g. case studies) then if your porposed contributions are accepted you will be listed as an [Author](https://github.com/softwaresaved/event-organisation-guide/blob/master/docs/eog/authors.rst).
+
+### Acknowledgement
+If you are for example offer:
+
+1. Offer numberous typographical corrections which are accepted
+2. Review comments which are later actioned
+3. Previously published reference material which you allow us to include and it is included
+4. Other contributions which are deemed as substantive by the repository owners
+
+You will be acknowledged as a [Contributor](https://github.com/softwaresaved/event-organisation-guide/blob/master/docs/eog/authors.rst).
+
+If you offer the odd typographical correction, suggest a link to include or some re-wording then we thank you but you won't make the Contributor list.
