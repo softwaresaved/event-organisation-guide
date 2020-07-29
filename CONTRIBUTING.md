@@ -50,10 +50,10 @@ What is out of scope for the EOG:
 If you are offering substantial changes to a section or additional sections (e.g. case studies) then if your porposed contributions are accepted you will be listed as an [Author](https://github.com/softwaresaved/event-organisation-guide/blob/master/docs/eog/authors.rst).
 
 ### Acknowledgement
-If you are for example offer:
+If you offer:
 
 1. Offer numberous typographical corrections which are accepted
-2. Review comments which are later actioned
+2. Substantive review comments which are later actioned
 3. Previously published reference material which you allow us to include and it is included
 4. Other contributions which are deemed as substantive by the repository owners
 
