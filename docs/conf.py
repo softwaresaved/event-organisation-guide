@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Event Organisation Guide'
+project = 'The Software Sustainability Institute\'s Event Organisation Guide (SSI-EOG)'
 copyright = '2019-2020, University of Manchester, University of Edinburgh; on behalf of the Software Sustainability Institute.'
 author = 'Shoaib Sufi, Selina Aragon, Aleksandra Nenadic'
 
 # The short X.Y version
-version = '1.0'
+version = '1.1'
 # The full version, including alpha/beta/rc tags
-release = '1.1.1 beta 1'
+release = '1.1.3 beta 1'
 
 
 # -- General configuration ---------------------------------------------------
