@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'The Software Sustainability Institute\'s Event Organisation Guide (SSI-EOG)'
+project = 'Event Organisation Guide (SSI-EOG)'
 copyright = '2019-2020, University of Manchester, University of Edinburgh; on behalf of the Software Sustainability Institute.'
 author = 'Shoaib Sufi, Selina Aragon, Aleksandra Nenadic'
 
