@@ -54,7 +54,3 @@ We then collated them via Google Sheets (see this `example spreadsheet <https://
 
 You can find the full collection of `CW20 infrastructure and documentation resources on Figshare <https://doi.org/10.6084/m9.figshare.c.5026400>`_.
 
-In the days before the event, we sent emails to registrants through Eventbrite reminding them to review the Code of Conduct, instructions to install and test the Zoom software, and information about how to prepare for certain sessions. 
-We also stressed that CW20 would be as flexible on the day as possible, as many people were adjusting to a new way of working, caring responsibilities during the day, unstable internet, and to the associated emotional pressures. 
-We provided guidance for everyone to be kind, understanding and flexible. 
-Links to the relevant Zoom room and note-taking document were sent via email through Eventbrite and Slack at the start of each day.
