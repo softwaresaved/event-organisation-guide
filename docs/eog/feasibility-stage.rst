@@ -1,11 +1,11 @@
 .. Feasibility-Stage:
 
-Feasibility Stage (FS)
-======================
+Feasibility Stage 
+=================
 
-The Feasibility Stage (FS) comes after the :doc:`ideas-exploration-stage` is signed off by all necessary stakeholders. Now, the event idea is being explored more thoroughly. The FS is akin to a pre-planning or early-planning stage. At this stage, various things are needed before a formal sign-off and progression to the :doc:`event-project-stage-eps` (i.e. before the Institute/main stakeholder agrees to take on the staff effort, financial risk and opportunities afforded by running the event).
+The Feasibility Stage comes after the :doc:`ideas-exploration-stage` is signed off by all necessary stakeholders. Now, the event idea is being explored more thoroughly. The Feasibility Stage is akin to a pre-planning or early-planning stage. At this stage, various things are needed before a formal sign-off and progression to the :doc:`event-project-stage-eps` (i.e. before the Institute/main stakeholder agrees to take on the staff effort, financial risk and opportunities afforded by running the event).
 
-This is a list of information from the FS which is needed for evaluation by stakeholders. Successful evaluation will move us into the EPS stage:
+This is a list of information from the Feasibility Stage which is needed for evaluation by stakeholders. Successful evaluation will move us into the Event Project Stage:
 
 - Goals & objectives
     - What we hope to achieve by running the event (goals) and a set of measurable steps towards achieving our goals (objectives).
@@ -14,7 +14,7 @@ This is a list of information from the FS which is needed for evaluation by stak
     - Which groups of people you are planning the event for helps set the goals and objectives in context.
     - Consider your target audience's career stage, geographic location, gender, ethnicity, job roles, organisation types (e.g. funders, publishers, researchers, administrators).
     - Prioritising the audience might also help with refining goals and keeping planning on target. If the priority changes then this should be reflected in the goals/objectives.
-        - Although if this does happen, the Lead Stakeholder should probably be consulted to make sure it’s OK to carry on if you are in the EPS stage.
+        - Although if this does happen, the Lead Stakeholder should probably be consulted to make sure it’s OK to carry on if you are in the Event Project Stage.
 
 - A date
     - The date needs to fit into the calendar of other events that are likely to affect the target audience.
@@ -46,7 +46,7 @@ Once collected, the above set of information will need to be assessed by the sta
 
 - **Proceed** - the EL can now arrange the event.
 - **More work needed** - More detail might be needed for some aspects of the event before getting final approval (e.g. re-visit the budget).
-- **Reject** - it might be decided that it is not worth running the event (this should be rare at this stage as most things should be caught at the less expensive IES stage discussions).
+- **Reject** - it might be decided that it is not worth running the event (this should be rare at this stage as most things should be caught at the less expensive Idea Exploration Stage discussions).
 
 
 

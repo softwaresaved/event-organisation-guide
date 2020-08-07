@@ -1,9 +1,9 @@
 
 .. _Closing-Down-EPS:
 
-Closing Down the EPS
-====================
-Just because the event is over doesn't mean the event is done. Closing down the EPS is still part of the EPS and it requires effort and planning - it can sometimes not be seen as ‘glamorous’ but it’s certainly important for organisational reputation and following up on commitments, promises and making resources available.
+Closing Down the Event Project Stage
+====================================
+Just because the event is over doesn't mean the event is done. Closing down the Event Project Stage is still part of the Event Project Stage and it requires effort and planning - it can sometimes not be seen as ‘glamorous’ but it’s certainly important for organisational reputation and following up on commitments, promises and making resources available.
 
 At the end of the event
 ***********************

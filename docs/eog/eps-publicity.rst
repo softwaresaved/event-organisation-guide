@@ -8,7 +8,7 @@ Publicity is key if you are to attract your audience to the event and meet your 
 Before the event
 ****************
 
-Having a publicity plan for an event is vital. As the EL, you will want to reach existing audiences, as well as new audiences or underrepresented groups (e.g. by age, gender, career stage, ethnicity, etc.). The publicity plan should be based on the goals and aims of the event developed as part of the FS.
+Having a publicity plan for an event is vital. As the EL, you will want to reach existing audiences, as well as new audiences or underrepresented groups (e.g. by age, gender, career stage, ethnicity, etc.). The publicity plan should be based on the goals and aims of the event developed as part of the Feasibility Stage.
 
 It is important to investigate dissemination channels and devise a publicity timeline, which references a content plan – the different types of content you will publish throughout the timeline to encourage potential delegates to register for the event. For example, publishing a draft agenda/programme or a call for participation as far in advance as possible will give potential attendees an overview of the event, while keynote speakers will attract different audiences depending on their interests. Sharing experiences from past attendees in the form of blog posts can also encourage people to attend as it might clarify what to expect.
 
