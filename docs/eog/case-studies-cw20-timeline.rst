@@ -12,7 +12,7 @@ Event Project Stage
 --------------------
 
 Month -1 (March 2020)
-^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 
 - Agenda
 
@@ -92,7 +92,7 @@ Event Running Stage
 --------------------
 
 Month 0
-^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 
 - Ran event!
 
@@ -100,7 +100,7 @@ Post event Stage
 --------------------
 
 Month 1 (April 2020)
-^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 
 - Agenda
 
@@ -132,7 +132,7 @@ Month 1 (April 2020)
 
 
 Month 2 (May 2020)
-^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 
 - Publicity
 
@@ -142,7 +142,7 @@ Month 2 (May 2020)
   - 9/12 speed blogs published.
 
 Month 3 (June 2020)
-^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 
 - Publicity
 
@@ -155,7 +155,7 @@ Month 3 (June 2020)
 
 
 Month 4 (July 2020)
-^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 
 - Publicity
 
