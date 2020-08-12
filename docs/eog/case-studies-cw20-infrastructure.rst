@@ -52,5 +52,15 @@ It also allows all of the outputs from CW to be centralised.
 For CW20, we used uCONFLY purely as an admin tool by creating the templates for the Discussion, Collaborative Ideas and Mini-workshop sessions, and generated all of the needed instances ahead of time ourselves. 
 We then collated them via Google Sheets (see this `example spreadsheet <https://doi.org/10.6084/m9.figshare.12498278>`_) which we linked to in the day’s collaborative note-taking document/agenda. 
 
-You can find the full collection of `CW20 infrastructure and documentation resources on Figshare <https://doi.org/10.6084/m9.figshare.c.5026400>`_.
+Resources
+----------
+
+You can find the full collection of `CW20 infrastructure and documentation resources on Figshare <https://doi.org/10.6084/m9.figshare.c.5026400>`_, including:
+- An index of links to documentation and event resources for organisers to easily navigate on the day.
+- A duties roster with lists and descriptions of the extra roles we needed for our online event.
+- A spreadsheet for the mini-workshop and demo sessions assignments to demonstrate how we organised parallel sessions.
+- Zoom instructions for events with parallel sessions to make sure all account hosts are on the same page.
+- A start of event checklist to remind the event chair what tasks need to be done before and at the start of the event (such as a reminder to send the connection details, assign co-hosts, record the event and take a “group photo”). 
+- An example collaborative notes document (with agenda) to guide participants through the event, provide another pathway to engagement and compile questions, notes and outputs from the event.
+- The spreadsheets which we used to facilitate our unconference sessions (Discussion Groups, Collaborative Ideas and Hack Day).
 
