@@ -21,6 +21,7 @@ Here is how we did it.
    :caption: Sections:
 
    case-studies-cw20-infrastructure
+   case-studies-cw20-timeline
    case-studies-cw20-agenda
    case-studies-cw20-sponsorship
    case-studies-cw20-event-roles
