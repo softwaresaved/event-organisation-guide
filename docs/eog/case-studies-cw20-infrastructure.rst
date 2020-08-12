@@ -56,6 +56,7 @@ Resources
 ----------
 
 You can find the full collection of `CW20 infrastructure and documentation resources on Figshare <https://doi.org/10.6084/m9.figshare.c.5026400>`_, including:
+
 - An index of links to documentation and event resources for organisers to easily navigate on the day.
 - A duties roster with lists and descriptions of the extra roles we needed for our online event.
 - A spreadsheet for the mini-workshop and demo sessions assignments to demonstrate how we organised parallel sessions.
