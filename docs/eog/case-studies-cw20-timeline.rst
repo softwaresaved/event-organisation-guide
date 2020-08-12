@@ -15,12 +15,12 @@ Month -1 (March 2020)
 ^^^^^^^^^
 
 - Agenda
-   - We reorganised agenda for online format by
-      - Removing in-person social programme (walk in Belfast Botanical Gardens, visit to Ulster Museum, Drinks Reception, Conference Dinner).
-      - Adding breaks and buffer time.
-      - Adjusting timings of sessions and rearranging order. 
-   - Confirmed lightning talk schedule.
-   - Made the final agenda available.
+   * We reorganised agenda for online format by
+      + Removing in-person social programme (walk in Belfast Botanical Gardens, visit to Ulster Museum, Drinks Reception, Conference Dinner).
+      + Adding breaks and buffer time.
+      + Adjusting timings of sessions and rearranging order. 
+   * Confirmed lightning talk schedule.
+   * Made the final agenda available.
 - Communication
    - We contacted registrants through Eventbrite as soon as the decision was made that the event would be moving online to notify them, and included information on
       - The reduced cost of tickets and how they would be refunded.
