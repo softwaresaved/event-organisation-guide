@@ -27,10 +27,10 @@ Month -1 (March 2020)
    
 - Communication
 
-  - We contacted registrants through Eventbrite as soon as the decision was made that the event would be moving online to notify them, and included information on
+  - We closed registration and contacted registrants through Eventbrite as soon as the decision was made that the event would be moving online to notify them, and included information on
    
-    - The reduced cost of tickets and how they would be refunded.
-    - The full refund policy if they were no longer able to attend the event.
+    - The full refund policy if they were no longer able to attend the event (the deadline for a full refund was 7 days before the event start date).
+    - The reduced cost of tickets and how they would be refunded if they still wanted to attend (partial refunds for the difference would be issued during the week before the event, after the deadline for full refunds passed).
     - Guidance on how to claim back travel and accommodation costs.
       
   - We had discussions with the venue and accommodation about postponing the in-person arrangements to a future date.
@@ -71,21 +71,13 @@ Month -1 (March 2020)
   
 - Event run up actions
 
-  - Closed registrations immediately upon decision to move event online
-  - Confirm numbers and dietary requirements for dinner, catering and pizzas
-  - Plan break-out groups distribution
-  - Have prizes delivered
-  - Ongoing: update the CW planner spreadsheet
-  - Wi-Fi access-codes
-  - Video-recording infrastructure
-  - List of participants for local organisers to contact (to remind about the event locally)
-  - Logistics: signposts, directions on car parks, train stations, taxis, etc.
-  - Someone from SSI goes to Leeds to help set up the venue
-  - Assigning activities and roles to SSI Staff in advance
-   
-    - Code of Conduct contact points need briefing
-      
-  - Construct feedback form draft (pre-test/review if possible)
+  - Closed registration immediately upon decision to move event online.
+  - Issued full refunds to registrants who were no longer able to attend up to 7 days before the event start date.
+  - Issued partial refunds for the difference between the original priced and the new reduced price to registrants who still wanted to attend.
+  - Planned break-out groups distribution (sign up sheet for Discussion Groups session, randomly assigned for Collaborative Ideas session).
+  - Planned for video recording infrastructure (easy recording of sessions via Zoom).
+  - Had a Code of Conduct committee pre-event meeting.
+  - Constructed feedback form draft.
 
 
 Event Running Stage
@@ -126,9 +118,9 @@ Month 1 (April 2020)
   - Prepared videos for editing by
    
     - Organising files.
-    - Updating processing instructions.
+    - Updating processing instructions for Events Team.
       
-  - Followed up with speed-blog authors and connecting them with the Communications Team for publication to the SSI blog.
+  - Followed up with speed-blog authors and connected them with the Communications Team for publication to the SSI blog.
 
 
 Month 2 (May 2020)
