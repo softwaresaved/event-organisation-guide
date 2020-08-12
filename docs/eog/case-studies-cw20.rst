@@ -22,6 +22,7 @@ Here is how we did it.
 
    case-studies-cw20-infrastructure
    case-studies-cw20-timeline
+   case-studies-cw20-budget
    case-studies-cw20-agenda
    case-studies-cw20-sponsorship
    case-studies-cw20-event-roles
