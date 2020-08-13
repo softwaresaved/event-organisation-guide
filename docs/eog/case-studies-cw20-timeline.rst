@@ -14,8 +14,7 @@ Event Project Stage
 Month -1 (March 2020)
 ^^^^^^^^^^^^^^^^^^^^^^
 
-- Agenda
-
+Agenda
   - We reorganised agenda for online format by
    
     - Removing in-person social programme (walk in Belfast Botanical Gardens, visit to Ulster Museum, Drinks Reception, Conference Dinner).
@@ -25,8 +24,7 @@ Month -1 (March 2020)
   - Confirmed lightning talk schedule.
   - Made the final agenda available.
    
-- Communication
-
+Communication
   - We closed registration and contacted registrants through Eventbrite as soon as the decision was made that the event would be moving online to notify them, and included information on
    
     - The full refund policy if they were no longer able to attend the event (the deadline for a full refund was 7 days before the event start date).
@@ -47,8 +45,7 @@ Month -1 (March 2020)
       
   - Links to the relevant Zoom room and note-taking document were sent via email through Eventbrite and Slack at the start of each day.
    
-- Resources
-
+Resources
   - We set up a uCONFLY instance for management of Discussion Group Reports, Mini-workship and Demo session notes, Collaborative Ideas and Hack Day ideas which also involved
    
     - Creating Google Doc templates for each of these document types.
@@ -69,8 +66,7 @@ Month -1 (March 2020)
       
   - Made organiser slide deck.
   
-- Event run up actions
-
+Event run up actions
   - Closed registration immediately upon decision to move event online.
   - Issued full refunds to registrants who were no longer able to attend up to 7 days before the event start date.
   - Issued partial refunds for the difference between the original priced and the new reduced price to registrants who still wanted to attend.
@@ -86,7 +82,7 @@ Event Running Stage
 Month 0
 ^^^^^^^^^^^^^^^^^^^^^^
 
-- Ran event!
+Ran event!
 
 Post event Stage
 --------------------
@@ -94,23 +90,19 @@ Post event Stage
 Month 1 (April 2020)
 ^^^^^^^^^^^^^^^^^^^^^^
 
-- Agenda
-
+Agenda
   - Updated the agenda with links to resources.
   
-- Feedback
-
+Feedback
   - Emailed participants with a feedback form within a week after the event.
   - Sent a reminder email a few days later.
   - Held a feedback prize draw to thank them for taking the time.
   
-- Publicity
-
+Publicity
   - Published a `blog post with highlights <https://software.ac.uk/blog/2020-04-21-highlights-collaborations-workshop-2020>`_ from the event.
   - Published a `participant's experience of CW20 <https://software.ac.uk/blog/2020-04-29-ssi-collaborations-workshop-2020-remote-unconference-experience-and-notes>`_.
   
-- Resources
-
+Resources
   - Updated language of event website to show that it was in the past.
   - Created a `Figshare portal <https://cw20.figshare.com/>`_ to share CW20 outputs
   - Chased speakers for any un-captured resources.
@@ -126,22 +118,19 @@ Month 1 (April 2020)
 Month 2 (May 2020)
 ^^^^^^^^^^^^^^^^^^^^^^
 
-- Publicity
-
+Publicity
   - Published a reflections blog post about `how we moved the event online in three weeks <https://software.ac.uk/blog/2020-05-18-cw20-how-move-event-online-three-weeks>`_.
   
-- Resources
+Resources
   - 9/12 speed blogs published.
 
 Month 3 (June 2020)
 ^^^^^^^^^^^^^^^^^^^^^^
 
-- Publicity
-
+Publicity
   - Announced availability of `Infrastructure resources <https://software.ac.uk/news/collaborations-workshop-2020-resources-now-available>`_.
   
-- Resources
-
+Resources
   - 10/12 speed blogs published.
   - Infrastructure resources sanitised and shared.
 
@@ -149,10 +138,8 @@ Month 3 (June 2020)
 Month 4 (July 2020)
 ^^^^^^^^^^^^^^^^^^^^
 
-- Publicity
-
+Publicity
   - Announced availability of `session recordings <https://software.ac.uk/news/collaborations-workshop-2020-session-recordings-now-available>`_.
   
-- Resources
-
+Resources
   - 100% of videos processed and uploaded.
