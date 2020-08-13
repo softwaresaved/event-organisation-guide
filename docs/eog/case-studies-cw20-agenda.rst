@@ -62,6 +62,8 @@ The `Collaborative Ideas <https://www.software.ac.uk/cw20/collaborative-ideas-an
 This time the Group IDs were kept as numerics, so the group that was assigned Breakout Room 1 retrieved their Collaborative Ideas document for Idea Group 1 in the associated spreadsheet (`example spreadsheet <https://doi.org/10.6084/m9.figshare.12500768>`_), and so on. 
 Normally, voting for the best Collaborative Ideas takes place on uCONFLY, but to streamline things we added a “Voting” tab to the spreadsheet and asked participants to simply add their names to the ideas that they wanted to vote for and tallied these up at the end.
 
+You can read more details about how we ran the Collaborative Ideas session in the Collaborations Workshop section of the [CSCCE's guide to Using virtual events to facilitate community building: event formats](https://doi.org/10.5281/zenodo.3934384).
+
 Mini-workshops and Demos (Teaching)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
