@@ -26,6 +26,7 @@ Here is how we did it.
    case-studies-cw20-agenda
    case-studies-cw20-sponsorship
    case-studies-cw20-event-roles
+   case-studies-cw20-risk-management
 
    
 
