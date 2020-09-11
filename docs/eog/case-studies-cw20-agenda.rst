@@ -6,7 +6,7 @@ CW20 Agenda
 For in-person CWs, the days are long to maximise the opportunities for networking, collaboration, discussions, and solving problems across the research software landscape. 
 The agenda that we had spent months organising was packed full of talks, group sessions, social activities and mini-workshops - we originally had 18 mini-workshops scheduled to take place across five sessions.
 
-If we had organised CW20 as an online event from the beginning, there are many things we would have done differently - but since we found ourselves in the position of having to transition from an in-person event to an online one, we still wanted to incorporate as much of the original programme as possible. 
+If we had organised CW20 as an online event from the beginning, there are many things we would have done differently - but since we found ourselves in the position of having to transition from an in-person event to an online one at short notice, we still wanted to incorporate as much of the original programme as possible. 
 We contacted speakers and workshop facilitators to ask if they were still able to deliver in the online setting. 
 In the end, two of the workshops dropped out and we were therefore able to shift the others around so that we had 16 workshops across four sessions (with four workshops in parallel for each session). 
 
@@ -73,4 +73,3 @@ We pointed people to the different Zoom room links in the day’s collaborative 
 A lesson learned is to provide guidance to workshop facilitators that the workshops should include participant interaction for at least half of the time, and not just one long presentation. 
 
 You can find the full collection of `CW20 infrastructure and documentation resources on Figshare <https://doi.org/10.6084/m9.figshare.c.5026400>`_.
-
