@@ -20,7 +20,7 @@ Platforms
 Video conferencing
 ^^^^^^^^^^^^^^^^^^^
 
-`Zoom <https://zoom.us/>`_ was very quickly identified as the video conferencing platform that we would use because we had the most experience with it and it had the functionality we needed (namely breakout rooms and easy recording of the event). 
+`Zoom <https://zoom.us/>`_ was very quickly identified as the video conferencing platform that we would use because we had the most experience with it and it had the functionality we needed (scaling and stability with many video-based participants, breakout rooms and easy recording of the event). 
 We initially planned to use a single Zoom meeting room to contain the entire event (with breakout rooms used for the Discussion, Collaborative Ideas, and Mini-workshop sessions). 
 However, workshop facilitators also wanted to make use of the breakout room feature for their sessions, which wouldn’t be possible if they were *already in* breakout rooms. 
 We therefore obtained five Zoom Host accounts in total to accommodate this: one for the main/plenary room, plus four for the mini-workshops which would take place in parallel. 
