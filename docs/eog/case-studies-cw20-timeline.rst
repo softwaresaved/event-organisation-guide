@@ -68,7 +68,7 @@ Resources
   
 Event run up actions
   - Closed registration immediately upon decision to move event online.
-  - Issued full refunds to registrants who were no longer able to attend up to 7 days before the event start date.
+  - Issued full refunds to registrants who were no longer able to attend and informed us at least 7 days before the event start date.
   - Issued partial refunds for the difference between the original priced and the new reduced price to registrants who still wanted to attend.
   - Planned break-out groups distribution (sign up sheet for Discussion Groups session, randomly assigned for Collaborative Ideas session).
   - Planned for video recording infrastructure (easy recording of sessions via Zoom).
