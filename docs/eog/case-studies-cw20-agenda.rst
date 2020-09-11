@@ -34,7 +34,7 @@ Keynote Talks (Informing)
 Keynote speakers were contacted prior to the event to confirm the time of their talk and its format, and enable no additional time keeper being needed for their session on the day. 
 The Chair of the session introduced the speaker and reminded the participants that they could take notes and ask questions within the session’s section of the day’s collaborative notes where a link to the slides was also shared. 
 The speaker shared their presentation slides via `Screen Share in Zoom <https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen>`_, and the Host set `Spotlight Video <https://support.zoom.us/hc/en-us/articles/201362653-Spotlight-Video>`_ for the speaker so that they would be visible to all participants and in the recording. 
-During the Q&A, the Chair then relayed some of the questions from the notes to the speaker, and the remainder of the questions were answered in-line within the note-taking document.
+During the Q&A, the Chair then relayed some of the questions from the notes to the speaker, and the remainder of the questions were answered in-line within the note-taking document after the session.
 
 Lightning Talks (Informing)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
