@@ -7,7 +7,7 @@ We were extremely lucky that there were no additional costs for moving the event
 There were enough UoM staff members on the CW20 delivery team that we had enough Zoom Host accounts for the main plenary room plus 4 additional rooms in parallel for the Mini-workshop and demo sessions. 
 
 We did reduce the cost of registration from £250 to £50 as there would be no catering or physical venue involved in an online event. 
-The reasons we didn't make the event free included the staff time that had gone into organising the event, to prevent a large number of no-shows on the day and because there were prizes involved in the Hack Day.
+The reasons we didn't make the event free included the staff time that had gone into organising the event, to prevent a large number of no-shows on the day and because there were prizes involved.
 This caused a significant loss of income but the burden of any costs lost due to the pandemic should not be placed on the registrants.
 
 
