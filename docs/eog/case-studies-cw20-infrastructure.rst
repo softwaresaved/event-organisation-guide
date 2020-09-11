@@ -5,7 +5,7 @@ CW20 Infrastructure
 
 We had already organised registration for the in-person event through `Eventbrite <https://www.eventbrite.com/>`_. 
 We emailed registrants through Eventbrite to notify them of the decisions that we were making and thereby keep them informed. 
-Because of the unconference nature of the event, we even asked for participant input to our contingency investigation. 
+Because of the unconference nature of the event, we even asked for participant input to our contingency investigation; surveying them to see if they preferred the event to stay as an in person event, move to online or be cancelled. 
 As we worked to reformat the event and move it online, we gave registrants time to cancel and collect full refunds. 
 We also reduced the cost of the event (from £250 to £50) and issued partial refunds through Eventbrite to participants who wanted to stay and participate in the virtual event. 
 We took the partial refund route in order to maintain continuity with our registrants, but another option could have been to outright cancel the Eventbrite event, issue full refunds and start from scratch. 
