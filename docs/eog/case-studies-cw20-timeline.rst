@@ -49,7 +49,7 @@ Resources
   - We set up a uCONFLY instance for management of Discussion Group Reports, Mini-workship and Demo session notes, Collaborative Ideas and Hack Day ideas which also involved
    
     - Creating Google Doc templates for each of these document types.
-    - Generating a number of each document type for dissemination during CW20 so that participants would not be responsible for yet another platform.
+    - Generating a number of each document type for dissemination during CW20 so that participants would not have to login and use yet another platform.
       
   - Built the infrastructure needed to synchronise participants and run the unconference sessions such as
    
