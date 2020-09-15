@@ -32,7 +32,7 @@ Here is how we did it.
    case-studies-cw20-event-roles
    case-studies-cw20-risk-management
    case-studies-cw20-outputs-and-outcomes-plan 
-   case-studies-cw20-closing-down-the-eps
+   case-studies-cw20-closing-down
 
    
 
