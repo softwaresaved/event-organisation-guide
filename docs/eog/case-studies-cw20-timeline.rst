@@ -76,16 +76,11 @@ Event run up actions
   - Constructed feedback form draft.
 
 
-Event Running Stage
---------------------
-
 Month 0
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Ran event!
 
-Post event Stage
---------------------
 
 Month 1 (April 2020)
 ^^^^^^^^^^^^^^^^^^^^^^
