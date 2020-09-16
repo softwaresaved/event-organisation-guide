@@ -8,6 +8,7 @@ Authors
 - Shoaib Sufi (lead/maintainer) `(ORCID) <https://orcid.org/0000-0001-6390-2616>`__
 - Selina Aragon `(ORCID) <https://orcid.org/0000-0001-9938-0522>`__
 - Aleksandra Nenadic `(ORCID) <https://orcid.org/0000-0002-2269-3894>`__
+- Rachael Ainsworth `(ORCID) <http://orcid.org/0000-0003-2591-9462>`__
 
 Other contributors:
 
@@ -17,7 +18,6 @@ Other contributors:
 - Robin Wilson `(ORCID) <https://orcid.org/0000-0001-7352-8912>`__
 - Malvika Sharan `(ORCID) <http://orcid.org/0000-0001-6619-7369>`__
 - Jacalyn Lairn
-- Rachael Ainsworth `(ORCID) <http://orcid.org/0000-0003-2591-9462>`__
 
 
 
