@@ -117,7 +117,7 @@ Publicity
   - Published a reflections blog post about `how we moved the event online in three weeks <https://software.ac.uk/blog/2020-05-18-cw20-how-move-event-online-three-weeks>`_.
   
 Resources
-  - 9/12 speed blogs published.
+  - 9/12 discussion groups' `speed blogs published<https://software.ac.uk/tags/cw20-speed-blog-posts>`_.
 
 Month 3 (June 2020)
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -126,8 +126,8 @@ Publicity
   - Announced availability of `Infrastructure resources <https://software.ac.uk/news/collaborations-workshop-2020-resources-now-available>`_.
   
 Resources
-  - 10/12 speed blogs published.
-  - Infrastructure resources sanitised and shared.
+  - 10/12 discussion groups' `speed blogs published<https://software.ac.uk/tags/cw20-speed-blog-posts>`_.
+  - Infrastructure resources sanitised and `shared <https://doi.org/10.6084/m9.figshare.c.5026400.v3>`_.
 
 
 Month 4 (July 2020)
@@ -137,4 +137,11 @@ Publicity
   - Announced availability of `session recordings <https://software.ac.uk/news/collaborations-workshop-2020-session-recordings-now-available>`_.
   
 Resources
-  - 100% of videos processed and uploaded.
+  - 100% of videos processed and `uploaded <https://www.youtube.com/playlist?list=PLpX1jXuNTXGoVHrK6IPrn4Ymwaj6l4KLJ>`_.
+
+
+Month 5 (August 2020)
+^^^^^^^^^^^^^^^^^^^^
+
+- 11/12 discussion groups' `speed blogs published<https://software.ac.uk/tags/cw20-speed-blog-posts>`_ - the last one may be published in the future if the group members decide to.
+
