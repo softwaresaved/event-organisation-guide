@@ -5,7 +5,7 @@
 Collaborations Workshop 2020 (CW20) - Online 
 =============================================
 
-Case study author: Rachael Ainsworth (`ORCID <http://orcid.org/0000-0003-2591-9462>`__)
+Case study authors: Rachael Ainsworth (`ORCID <http://orcid.org/0000-0003-2591-9462>`__) and Shoaib Sufi (`ORCID <https://orcid.org/0000-0001-6390-2616>`__)
 
 The Collaborations Workshop (CW) is the annual flagship event of the Software Sustainability Institute. It brings together researchers, developers, innovators, managers, funders, publishers, leaders, and educators to explore and share best practice.
 
