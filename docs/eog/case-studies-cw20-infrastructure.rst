@@ -49,6 +49,8 @@ There were spaces created within the document for people to take notes during th
 Crucially, general guidance was included at the top of the document reminding participants of the Code of Conduct (and reporting procedure), that the event was being recorded (so to mute any audio/video as necessary), security precautions (warned not to share any of the links publicly to avoid the meeting getting sabotaged by “Zoom-bombers”), and all the pathways to engagement (notes documents, Slack workspace, etc.). 
 We also provided space for feedback at the end of the document on what worked well during the workshop and what didn’t so that we could adapt for the next day. 
 
+One limitation of using Google Docs is that up to 100 people can edit and comment at the same time - which we experienced at the start of the event. 
+Although it requires some knowledge of markdown syntax, HackMD can support 200+ concurrent people accessing a document.
 
 Normally, we require CW participants to register on the SSI’s unconference resource management system uCONFLY, which allows them to request instances of Google Docs for their group sessions and vote for the best Collaborative Ideas. 
 It also allows all of the outputs from CW to be centralised. 
