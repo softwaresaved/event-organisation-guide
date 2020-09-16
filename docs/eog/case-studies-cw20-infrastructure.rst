@@ -9,6 +9,8 @@ Because of the unconference nature of the event, we even asked for participant i
 As we worked to reformat the event and move it online, we gave registrants time to cancel and collect full refunds. 
 We also reduced the cost of the event (from £250 to £50) and issued partial refunds through Eventbrite to participants who wanted to stay and participate in the virtual event. 
 We took the partial refund route in order to maintain continuity with our registrants, but another option could have been to outright cancel the Eventbrite event, issue full refunds and start from scratch. 
+The option to outright cancel the Eventbrite event was worth considering, as an Eventbrite fee would be imposed on registrants if they requested refunds for no longer being able to attend as per the refund policy.
+(Although we note that Eventbrite eventually added a COVID-19 option as a reason for cancelling registration and requesting a refund, which did not impose a fee on the registrant or organiser.)
 We also provided `guidance <https://software.ac.uk/news/collaborations-workshop-2020-cw20-move-online>`_ and documentation on reclaiming costs to help participants who had already booked their travel to Belfast.
 
 For the in-person event, we had planned to use additional tools such as `Slack <https://slack.com>`_, `Slido <https://www.sli.do/>`_ and `uCONFLY <http://uconfly.org/>`_, however for the online event we felt that it was important to minimise the number of platforms that participants had to register with and keep track of. 
