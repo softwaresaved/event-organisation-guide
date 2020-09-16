@@ -58,12 +58,17 @@ We then collated them via Google Sheets (see this `example spreadsheet <https://
 Resources
 ----------
 
-You can find the full collection of `CW20 infrastructure and documentation resources on Figshare <https://doi.org/10.6084/m9.figshare.c.5026400>`_, including:
+You can find the full collection of `CW20 infrastructure and documentation resources on Figshare <https://doi.org/10.6084/m9.figshare.c.5026400>`_.
+
+Resources included that were used behind-the-scenes:
 
 - An index of links to documentation and event resources for organisers to easily navigate on the day.
 - A duties roster with lists and descriptions of the extra roles we needed for our online event.
 - A spreadsheet for the mini-workshop and demo sessions assignments to demonstrate how we organised parallel sessions.
 - Zoom instructions for events with parallel sessions to make sure all account hosts are on the same page.
 - A start of event checklist to remind the event chair what tasks need to be done before and at the start of the event (such as a reminder to send the connection details, assign co-hosts, record the event and take a “group photo”). 
+
+Resources included that were participant-facing:
+
 - An example collaborative notes document (with agenda) to guide participants through the event, provide another pathway to engagement and compile questions, notes and outputs from the event.
 - The spreadsheets which we used to facilitate our unconference sessions (Discussion Groups, Collaborative Ideas and Hack Day).
