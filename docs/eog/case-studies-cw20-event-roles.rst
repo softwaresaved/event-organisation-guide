@@ -3,7 +3,9 @@
 CW20 Event Roles
 ================
 
-It was clear that additional roles and duties were needed for an online event relative to an in-person event. The roles we needed included: 
+It was clear that additional roles and duties were needed for an online event relative to an in-person event. 
+
+In addition to the following roles we typically have for an in-person CW event:
 
 - Event Chair/Facilitator (filled in this case by the Event Lead)
 - A Code of Conduct committee
@@ -11,9 +13,12 @@ It was clear that additional roles and duties were needed for an online event re
 - A general Slack monitor for questions and engagement
 - A Twitter monitor for tweeting about the event
 - Session chairs
+- Hack Day judges
+
+we also needed the roles below for our online event:
+ 
 - Zoom participant managers for un/muting, creating/assigning breakout rooms, keeping an eye on hand raising, etc.
 - Four sets of Hosts and Co-hosts for the parallel Mini-workshop and demo sessions
-- Hackday judges
 
 What wasn’t initially clear, was the effect that the government response to COVID-19 would have on how staff could participate in the event. 
 Parents now had to factor in homeschooling kids and other caring responsibilities during the day. 
