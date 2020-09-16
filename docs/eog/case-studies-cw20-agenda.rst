@@ -72,4 +72,3 @@ We used a separate Zoom account for each of the four parallel workshops in each 
 We pointed people to the different Zoom room links in the day’s collaborative notes and in the Slack channel, and someone stayed in the main room to help people get to where they wanted to go. 
 A lesson learned is to provide guidance to workshop facilitators that the workshops should include participant interaction for at least half of the time, and not just one long presentation. 
 
-You can find the full collection of `CW20 infrastructure and documentation resources on Figshare <https://doi.org/10.6084/m9.figshare.c.5026400>`_.

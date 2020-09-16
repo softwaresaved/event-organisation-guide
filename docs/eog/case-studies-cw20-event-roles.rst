@@ -29,4 +29,3 @@ We organised test calls for CW20 helpers and Zoom Hosts to make sure all the nec
 We also scheduled Zoom “Office Hours” for workshop facilitators to join and test the functionality of Zoom in preparation for their sessions and to ask any questions. 
 Finally, we had a Code of Conduct Committee call to walk through the incident response procedure, discuss potential violations that may occur during an online event and any additional risk mitigation we could put in place to prevent them. 
 
-You can find the full collection of `CW20 infrastructure and documentation resources on Figshare <https://doi.org/10.6084/m9.figshare.c.5026400>`_.
