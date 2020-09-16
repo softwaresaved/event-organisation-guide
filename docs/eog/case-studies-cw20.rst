@@ -5,6 +5,8 @@
 Collaborations Workshop 2020 (CW20) - Online 
 =============================================
 
+Case study author: Rachael Ainsworth (`ORCID <http://orcid.org/0000-0003-2591-9462>`__)
+
 The Collaborations Workshop (CW) is the annual flagship event of the Software Sustainability Institute. It brings together researchers, developers, innovators, managers, funders, publishers, leaders, and educators to explore and share best practice.
 
 On 5 March - just over three weeks before `Collaborations Workshop 2020 (CW20) <https://software.ac.uk/cw20>`_ was due to start in Belfast, Northern Ireland - everything was in place. The programme had been finalised, keynote speakers announced, catering booked and accommodation assigned. There had been some issues - a group from Northern Italy had cancelled because they had been quarantined due to an outbreak of a novel coronavirus. At this point the number of reported cases in the UK was small, but things were moving rapidly. The clear message was that we couldn’t run the event as planned. 
