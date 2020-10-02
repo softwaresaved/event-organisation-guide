@@ -43,7 +43,7 @@ We published several blog posts after the event, including:
 
 - `Highlights from Collaborations Workshop 2020 <https://software.ac.uk/blog/2020-04-21-highlights-collaborations-workshop-2020>`_: a short reflection post 
 - `SSI Collaborations Workshop 2020: Remote unconference experience and notes <https://software.ac.uk/blog/2020-04-29-ssi-collaborations-workshop-2020-remote-unconference-experience-and-notes>`_: a participant's experience of CW20
-- `CW20: how to move an event online in three weeks <https://software.ac.uk/blog/2020-05-18-cw20-how-move-event-online-three-weeks>`_: a longer reflection post 
+- `CW20: how to move an event online in three weeks <https://software.ac.uk/blog/2020-05-18-cw20-how-move-event-online-three-weeks>`_: a longer reflective piece 
 - The `speed blogs <https://software.ac.uk/tags/cw20-speed-blog-posts>`_ from the Discussion session  
 
 We made the keynote presentation slides, lightning talk presentation slides, and infrastructure resources available through a `CW20 conference portal on Figshare <https://cw20.figshare.com/>`_ and announced their availability through a `news item <https://software.ac.uk/news/collaborations-workshop-2020-resources-now-available>`_ after the event.
