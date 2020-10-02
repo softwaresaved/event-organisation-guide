@@ -188,6 +188,7 @@ As part of our contingency assessment, we calculated the financial risk and proj
    - We might lose some registrations
    - We would have to change what we charge from £250 for a full in-person ticket to £50 for an online pass to attend (to go towards invested staff time and prizes)
    - There would be no additional costs as we already had the video conferencing infrastructure in place
+   - We could potentially lose a significant amount of money from cancelling the venue, accommodation and reimbursing travel costs that we had agreed
 
 3. Cancel event outright
 
