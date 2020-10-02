@@ -145,3 +145,8 @@ Month 5 (August 2020)
 
 - 11/12 discussion groups' `speed blogs published <https://software.ac.uk/tags/cw20-speed-blog-posts>`_ - the last one may be published in the future if the group members decide to.
 
+
+Month 6 (September 2020)
+^^^^^^^^^^^^^^^^^^^^
+
+- EOG case study completed and reviewed
