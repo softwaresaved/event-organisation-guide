@@ -13,7 +13,7 @@ On 5 March - just over three weeks before `Collaborations Workshop 2020 (CW20) <
 
 CW is a highly interactive event with around 80-100 participants, and is designed to facilitate meeting as many new people as possible. With a global pandemic forcing us to stay at home, could we successfully recreate the experience online, and with only three weeks to prepare? Given the amount of work that had already been put into organising the event, the decision was made on 10 March to move the event online and stick with the original dates: 31 March - 2 April.
 
-Here is how we did it.
+Here is how we did it. Note, the case study takes place just before our decision to go online and covers the steps in the Event Project Stage of the main EOG. We do not go into details about the face to face CW20 event that was planned. The case study runs until the resources after the workshop are were made available. 
 
 .. figure:: ../img/CW20_group_photo.png
   :alt: CW20 group photo
@@ -37,7 +37,6 @@ Here is how we did it.
    case-studies-cw20-closing-down
 
    
-
 
 
 
