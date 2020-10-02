@@ -3,12 +3,12 @@
 Venue
 =====
 
-Securing a good venue is one of the most important aspects of the event and can really make a difference between a good and an
-excellent event. It is also the most expensive line in your :doc:`eps-budget`. 
+Securing a good venue is one of the most important aspects of an event and can really make a difference between a good and an
+excellent event. It is also (normally) the most expensive line in your :doc:`eps-budget`. 
 
 You can have a look in more detail at various venue
-requirements you should consider in `our example venue
-requirements template document <https://docs.google.com/document/d/1BJsjr4Y-cTBeEEjV5A_VVQ2hZIPsgBivhpin8gLJyb4/edit>`_
+requirements you should consider in the `venue
+requirements template document <https://zenodo.org/record/4064079>`_
 and adjust it based on your own capacity and programme needs. Remember that no single
 venue will satisfy all your needs and you will have to prioritise your requirements in terms what is a must, what would
 really help and what is optional for your particular event instance. Here we outline various aspects of venue
