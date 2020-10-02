@@ -41,7 +41,7 @@ Overall, we received very positive feedback regarding the general structure, org
 
 We published several blog posts after the event, including:
 
-- `Highlights from Collaborations Workshop 2020 <https://software.ac.uk/blog/2020-04-21-highlights-collaborations-workshop-2020>`_: a short reflection post 
+- `Highlights from Collaborations Workshop 2020 <https://software.ac.uk/blog/2020-04-21-highlights-collaborations-workshop-2020>`_: a short reflective piece 
 - `SSI Collaborations Workshop 2020: Remote unconference experience and notes <https://software.ac.uk/blog/2020-04-29-ssi-collaborations-workshop-2020-remote-unconference-experience-and-notes>`_: a participant's experience of CW20
 - `CW20: how to move an event online in three weeks <https://software.ac.uk/blog/2020-05-18-cw20-how-move-event-online-three-weeks>`_: a longer reflective piece 
 - The `speed blogs <https://software.ac.uk/tags/cw20-speed-blog-posts>`_ from the Discussion session  
