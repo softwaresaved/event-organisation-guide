@@ -35,17 +35,23 @@ In general, participants were more confident about their understanding of Open R
 .. figure:: ../img/CW20_OpenResearchAfter.png
   :alt: CW20 feedback
 
+On average, CW20 improved attendees confidence about their understanding of Open Research from 3.6/5 to 4.2/5, a 17% increase.
+
 .. figure:: ../img/CW20_DataPrivacyBefore.png
   :alt: CW20 feedback
 
 .. figure:: ../img/CW20_DataPrivacyAfter.png
   :alt: CW20 feedback
 
+On average, CW20 improved attendees confidence about their understanding of Data Privacy from 3.1/5 to 3.7/5, a 19% increase.
+
 .. figure:: ../img/CW20_SoftwareSustainabilityBefore.png
   :alt: CW20 feedback
 
 .. figure:: ../img/CW20_SoftwareSustainabilityAfter.png
   :alt: CW20 feedback
+
+On average, CW20 improved attendees confidence about their understanding of Software Sustainability from 4/5 to 4.3/5, an 8% increase.
 
 As CW20 took place online relatively early on in the pandemic, it had an impact on virtual events run by others, and the Institute was often consulted regarding the use of Zoom.
 
