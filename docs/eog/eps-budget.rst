@@ -6,7 +6,7 @@ Budget
 It is important to think about the budget very early on and have a budget outline ready in the :doc:`feasibility-stage`
 for the perusal of the (main) stakeholder(s). Such an outline should contain estimated income and outcome lines,
 as can be seen in an
-`example budget <https://docs.google.com/spreadsheets/d/1aM2pPFgV2kurA4G7L8AT1GTyeWRj2fo3ner_jsTzSEU/edit#gid=0>`_.
+`example budget <https://zenodo.org/record/4071896>`_.
 In the early stages, you should focus on the budget lines that
 are absolutely necessary and essential for the event to be delivered, for example:
 
@@ -26,7 +26,7 @@ and will give you more accurate figures. For example, at this stage you may alre
 venues but may be less able to estimate the fees and travel costs for your keynote speakers as you do not know where
 they will be coming from. In this case, you may decide to put an upper limit on those costs which would also count as
 your worst case cost projection and will also limit you in your keynote search (e.g. you may decide that you can only
-afford speakers from the UK or Europe).
+afford speakers from a particular geographic area).
 
 You should also estimate a number of optional costs, which you can decide to incur should you attract enough
 sponsorship, for example:
@@ -40,6 +40,6 @@ sponsorship, for example:
 - better food options
 - childcare 
 
-As you move into the :doc:`event-project-stage-eps`, you will refine and update your budget periodically with the actual
+As you move further into the :doc:`event-project-stage-eps`, you will refine and update your budget periodically with the actual
 costs (e.g. when you sign the contract with the venue or book travel for your speakers)
 or income (e.g. as registrations start coming in) and make decisions on optional/additional costs.
