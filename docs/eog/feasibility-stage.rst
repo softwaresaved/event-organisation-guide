@@ -30,7 +30,7 @@ This is a list of information from the Feasibility Stage which is needed for eva
     - The venue should be checked for availability for the preferred dates.
     - A possible venue should be chosen (or a few choices shortlisted).
 
-- A budget (`see a budget example <https://docs.google.com/spreadsheets/d/1aM2pPFgV2kurA4G7L8AT1GTyeWRj2fo3ner_jsTzSEU/edit#gid=0>`_)
+- A budget (`see a budget example <https://zenodo.org/record/4071896>`_)
     - These should show estimated income lines, and estimated outgoing costs lines.
     - Best case, middle case and worst case cost projections should also be prepared.
 
