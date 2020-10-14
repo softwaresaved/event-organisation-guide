@@ -104,6 +104,5 @@ Here are some examples of risks identified when organising an event such as the 
     - Lack of clearly stated policies and guidelines (e.g. Code of Conduct policy and breach reporting and handling procedures, privacy policy, contribution guide)
     - Certain documentation gets lost or corrupted
 
-See `a more detailed example of risk assessment
-<https://docs.google.com/spreadsheets/d/1hjlNIL-UbWus8O9raq1OtdvM2v1GECxjOeSegS6rIRM/edit#gid=0>`_ along with risk rating.
+See `a more detailed example of risk assessment <https://zenodo.org/record/4088024>`_ along with risk rating.
 

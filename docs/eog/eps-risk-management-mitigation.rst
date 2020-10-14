@@ -80,7 +80,6 @@ Based on each individual risk identified during the risk assessment - a strategy
     - If any materials are made available ahead of the event, e.g. speakers' presentations, slides, abstracts and talks, make sure they are communicated to the audience in a timely manner.
     - Use cloud infrastructures for storing documents (such as Google docs, GitHub), where document history is preserved and documents are backed up automatically.
 
-An `example detailed risk mitigation plan
-<https://docs.google.com/spreadsheets/d/1hjlNIL-UbWus8O9raq1OtdvM2v1GECxjOeSegS6rIRM/edit#gid=254036893>`_
+An `example detailed risk mitigation plan <https://zenodo.org/record/4088024>`_
 for each identified risk from the :doc:`eps-risk-management-assessment` section is available online.
 
