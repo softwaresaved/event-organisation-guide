@@ -15,7 +15,7 @@ CW is a highly interactive event with around 80-100 participants, and is designe
 
 Here is how we did it. Note, the case study takes place just before our decision to go online and covers the steps in the Event Project Stage of the main EOG. We do not go into details about the face to face CW20 event that was planned. The case study runs until the resources after the workshop are were made available. 
 
-.. figure:: ../img/CW20_group_photo.png
+.. figure:: img/CW20_group_photo.png
   :alt: CW20 group photo
 
 .. toctree::

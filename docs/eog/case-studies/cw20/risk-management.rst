@@ -69,7 +69,7 @@ We asked participants what their preferred course of action would be for CW20 in
 
 We received 48 responses, with 37.5% indicating to carry on as planned with the event in person, 47.9% indicating to move event fully online and 14.6% indicating to cancel the event outright. 
 
-.. figure:: ../img/CW20_participant_input.png
+.. figure:: img/CW20_participant_input.png
   :alt: CW20 Participant Input
 
 It was clear that participants preferred to not travel and attend the event in person. 

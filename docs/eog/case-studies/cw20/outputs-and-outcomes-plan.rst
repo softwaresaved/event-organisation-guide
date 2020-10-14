@@ -29,26 +29,26 @@ Outcomes
 As part of our post-event feedback survey, we asked participants how confident their understanding was of each of the CW20 themes in the context of their research/work, both before and after the event. 
 In general, participants were more confident about their understanding of Open Research, Data Privacy and Software Sustainability after attending CW20.
 
-.. figure:: ../img/CW20_OpenResearchBefore.png
+.. figure:: img/CW20_OpenResearchBefore.png
   :alt: CW20 feedback
 
-.. figure:: ../img/CW20_OpenResearchAfter.png
+.. figure:: img/CW20_OpenResearchAfter.png
   :alt: CW20 feedback
 
 On average, CW20 improved attendees confidence about their understanding of Open Research from 3.6/5 to 4.2/5, a 17% increase.
 
-.. figure:: ../img/CW20_DataPrivacyBefore.png
+.. figure:: img/CW20_DataPrivacyBefore.png
   :alt: CW20 feedback
 
-.. figure:: ../img/CW20_DataPrivacyAfter.png
+.. figure:: img/CW20_DataPrivacyAfter.png
   :alt: CW20 feedback
 
 On average, CW20 improved attendees confidence about their understanding of Data Privacy from 3.1/5 to 3.7/5, a 19% increase.
 
-.. figure:: ../img/CW20_SoftwareSustainabilityBefore.png
+.. figure:: img/CW20_SoftwareSustainabilityBefore.png
   :alt: CW20 feedback
 
-.. figure:: ../img/CW20_SoftwareSustainabilityAfter.png
+.. figure:: img/CW20_SoftwareSustainabilityAfter.png
   :alt: CW20 feedback
 
 On average, CW20 improved attendees confidence about their understanding of Software Sustainability from 4/5 to 4.3/5, an 8% increase.

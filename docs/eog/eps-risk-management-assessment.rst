@@ -10,7 +10,7 @@ several categories on a low - high scale, for example:
 - medium risk - the risk needs to be addressed and mitigation strategy put in place;
 - high risk - the risk is critical and may have an adverse effect on your event and stakeholders; you may even have to rethink if the event should go ahead.
 
-.. figure:: ../img/risk-assessment-graph.png
+.. figure:: img/risk-assessment-graph.png
   :alt: Risk assessment chart
 
 You can decide for yourself where to draw the boundaries between the risk categories on your risk chart. It is also OK to classify your risks on a more
@@ -18,7 +18,7 @@ fine-grained scale, e.g. low, medium, high, extreme - based on your
 individual risk assessment. For example, consider the following risk assessment matrix (obtained from `Wikipedia
 Commons <https://commons.wikimedia.org/wiki/File:IC-Risk-Assessment-Matrix-Template.jpg>`_ under CC BY-SA 4.0 licence).
 
-.. figure:: ../img/536px-IC-Risk-Assessment-Matrix-Template.jpg
+.. figure:: img/536px-IC-Risk-Assessment-Matrix-Template.jpg
   :alt: Risk assessment matrix
 
 For events such as the Collaborations Workshop (`CW <https://www.software.ac.uk/programmes-and-events/collaborations-workshops>`_ ) or Carpentry Connect (`CC <https://software.ac.uk/ccmcr19>`_), we typically look at the following risk aspects:
