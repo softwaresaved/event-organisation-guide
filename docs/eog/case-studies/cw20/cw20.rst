@@ -22,19 +22,19 @@ Here is how we did it. Note, the case study takes place just before our decision
    :maxdepth: 1
    :caption: Sections:
 
-   case-studies-cw20-infrastructure
-   case-studies-cw20-timeline
-   case-studies-cw20-budget
-   case-studies-cw20-committees
-   case-studies-cw20-agenda
-   case-studies-cw20-publicity
-   case-studies-cw20-sponsorship
-   case-studies-cw20-venue
-   case-studies-cw20-catering 
-   case-studies-cw20-event-roles
-   case-studies-cw20-risk-management
-   case-studies-cw20-outputs-and-outcomes-plan 
-   case-studies-cw20-closing-down
+   infrastructure
+   timeline
+   budget
+   committees
+   agenda
+   publicity
+   sponsorship
+   venue
+   catering 
+   event-roles
+   risk-management
+   outputs-and-outcomes-plan 
+   closing-down
 
    
 

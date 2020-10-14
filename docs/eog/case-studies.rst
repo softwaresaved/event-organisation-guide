@@ -9,4 +9,4 @@ Case Studies
    :maxdepth: 1
    :caption: Sections:
 
-   case-studies-cw20
+   case-studies/cw20/cw20
