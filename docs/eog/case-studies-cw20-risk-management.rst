@@ -106,7 +106,7 @@ The strategy we took to mitigate these risks was to contact the sponsors immedia
 
 
 Keynote speakers
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 
 The risks identified regarding the keynote speakers were that they may pull out of the event if we made any last minute changes. 
 The strategy we took to mitigate this risk was to contact the speakers immediately after the decision was made to notify them that the event would be moving online and provide support and opportunities for testing their presentation setup before the event. 
@@ -116,7 +116,7 @@ We did not have backup keynote speakers in place, and would have provided a brea
 
 
 Session chairs
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^
 
 The risks identified regarding the session chairs included connection or other technical issues. 
 The strategy we took to mitigate this risk was to have backups for every event role. 
@@ -125,7 +125,7 @@ Risks that we hadn't considered but that could have been an issue included sickn
 
 
 Organising Committee members
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The risks identified regarding the Organising Committee members included:
 - Not kept up to date with the progress of event planning
@@ -146,7 +146,7 @@ Risks that we hadn't considered but that could have been an issue included sickn
 
 
 Volunteers/helpers at the event
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The risks identified regarding volunteers/helpers at the event included:
 
@@ -247,7 +247,7 @@ The strategy we took to mitigate these risks included:
 
 
 Policies, guidelines and documentation
---------------------
+---------------------------------------
 
 The risks identified regarding policies, guidelines and documentation included:
 
