@@ -9,8 +9,8 @@ Outputs
 - Presentations
 
     - From keynotes (`slides <https://cw20.figshare.com/>`_, `videos <https://www.youtube.com/playlist?list=PLpX1jXuNTXGrAZr9I-jo0TNYNpfa5gpji>`_)
-    - From lightning talks  (`slides <https://cw20.figshare.com/>`_, `videos <https://www.youtube.com/playlist?list=PLpX1jXuNTXGqsMGvMAQQSpCCpbwu1Th7a>`_)
-    - From mini-workshops and demo sessions (`videos <https://www.youtube.com/playlist?list=PLpX1jXuNTXGqYOz7idfOVp6KfBTrjWlWS>`_)
+    - From lightning talks  (`slides <https://cw20.figshare.com/>`_, `videos <https://www.youtube.com/playlist?list=PLpX1jXuNTXGqsMGvMAQQSpCCpbwu1Th7a>`__)
+    - From mini-workshops and demo sessions (`videos <https://www.youtube.com/playlist?list=PLpX1jXuNTXGqYOz7idfOVp6KfBTrjWlWS>`__)
 
 - `Speed blog posts <https://software.ac.uk/tags/cw20-speed-blog-posts>`_ from the discussion sessions
 - `Collaborative Ideas <https://software.ac.uk/cw20/collaborative-ideas-group>`_

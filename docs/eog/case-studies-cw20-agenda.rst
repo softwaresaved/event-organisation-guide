@@ -50,7 +50,7 @@ Discussion Groups (Exploring)
 
 The `Discussion <https://software.ac.uk/cw20/Discussion-sessions>`_ session was conducted in breakout rooms. 
 We were worried that the nascent process of participants determining which discussion topics are chosen and which rooms the groups meet in could be difficult to manage online, but it went much smoother than anticipated. 
-Participants suggested and signed up to the topics that they wanted to discuss in a spreadsheet (`example spreadsheet <https://doi.org/10.6084/m9.figshare.12498278>`_). 
+Participants suggested and signed up to the topics that they wanted to discuss in a spreadsheet (`example spreadsheet <https://doi.org/10.6084/m9.figshare.12498278>`__). 
 The topics that people signed up to were then assigned a Group ID - in this case using the letters of the alphabet. 
 The Zoom Host then created breakout rooms named Group A, Group B, etc. and assigned the people who signed up to those groups to the associated breakout rooms during the lunch break. 
 The groups were pointed to their discussion group reporting document via the “Groups” tab in the spreadsheet, in which they worked together on their `speed blog <http://bit.ly/ssi-speed-blogging>`_.
