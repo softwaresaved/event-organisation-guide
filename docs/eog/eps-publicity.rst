@@ -8,7 +8,7 @@ Publicity is key if you are to attract your audience to the event and meet your 
 Before the event
 ****************
 
-Having a publicity plan for an event is vital. As the EL, you will want to reach existing audiences, as well as new audiences or underrepresented groups (e.g. by age, gender, career stage, ethnicity, etc.). The publicity plan should be based on the goals and aims of the event developed as part of the Feasibility Stage.
+Having a publicity plan for an event is vital. The Event Lead will want to reach existing audiences, as well as new audiences or underrepresented groups (e.g. by age, gender, career stage, ethnicity, etc.). The publicity plan should be based on the goals and aims of the event developed as part of the Feasibility Stage.
 
 It is important to investigate dissemination channels and devise a publicity timeline, which references a content plan – the different types of content you will publish throughout the timeline to encourage potential delegates to register for the event. For example, publishing a draft agenda/programme or a call for participation as far in advance as possible will give potential attendees an overview of the event, while keynote speakers will attract different audiences depending on their interests. Sharing experiences from past attendees in the form of blog posts can also encourage people to attend as it might clarify what to expect.
 
@@ -22,6 +22,8 @@ The publicity timeline should fit into the overall event project timeline, and i
 
 Once you have your timeline ready, you can start writing or requesting the content to have it ready for publishing. Different tools (such as Google Analytics, Twitter Analytics) can be used to keep track of visits and link clicks. This is useful to assess if your campaign is working and if people are interested in your content.
 
+Photography at the event should also be considered and whether a professional, volunteer or one of the organisers are taking the photos, conversatoin should be had before the event about synchronisation between the photographer and those doing social media amplification; this should also take into consideration any preferences (e.g. via name badge stickers) of whether people approve of or disaaprove of their photo being taken or used. As well as recording sessions for reasons of publicity you may plan to record a short promotional video with different participants talking about the event, this should be planned before the event and potential interviewees contacted before the event; An exmaple of such video is one produced at `CW19 <https://www.software.ac.uk/cw19>`_ which focuses on `Why people like attending <https://www.youtube.com/watch?v=_olNuVusJzU>`_.
+
 During the event
 ****************
 
@@ -30,7 +32,7 @@ A `Twitter hashtag <https://journals.plos.org/ploscompbiol/article?id=10.1371/jo
 This can stimulate conversation in a space that involves attendees and those who are following along but not attending. If there is a member of staff or volunteer in charge of event amplification, they can also surface some of the outside questions back into the workshop at the appropriate time. It’s useful to have a list of
 pre-prepared tweets ready for the social engagement team to send out on the day at specified times.
 
-If it’s possible to stream talks, then this can also aid in promoting the event.
+If it’s possible to stream talks, then this can also aid in promoting the event. The official photography taking place should take into consideration any preference around photos being taken or used and the person handling the social media should have good communication with the photographer and access to photos as soon as possible (e.g. within minutes) for timely use. If you are producing promotional videos make sure there is a space where this can take place and participants are informed ahead of time and know what you will be asking them.
 
 After the event
 ***************
