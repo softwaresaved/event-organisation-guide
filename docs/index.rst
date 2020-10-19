@@ -29,4 +29,5 @@ About
    eog/authors
    eog/licence
    eog/acknowledgements
+   eog/cite
 
