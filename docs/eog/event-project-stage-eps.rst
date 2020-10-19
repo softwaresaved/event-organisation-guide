@@ -16,6 +16,7 @@ The following sections go into these elements of the project in more detail and 
    eps-infrastructure
    eps-timeline
    eps-budget
+   eps-finance
    eps-committees
    eps-agenda
    eps-publicity
