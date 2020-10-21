@@ -28,5 +28,5 @@ As well as medical and security matters which will be governned by institutional
 The CoC should come as set of documents that cover:
 - The CoC itself (e.g the `CW19 Code of Conduct <https://software.ac.uk/cw19/code-conduct>`_)
 - How to report a CoC violation (e.g. the `CW19 - Attendee Procedure For Reporting Harassment <https://software.ac.uk/cw19/code-of-conduct/harassment-reporting-procedure>`_)
-- The approach the CoC committee for the event will hand reports (e.g. the `CW19 - Staff Procedure For Handling Reported Harassment <https://www.software.ac.uk/cw19/code-of-conduct/staff-procedure-handling-reported-harassment`_)
+- The approach the CoC committee for the event will hand reports (e.g. the `CW19 - Staff Procedure For Handling Reported Harassment <https://www.software.ac.uk/cw19/code-of-conduct/staff-procedure-handling-reported-harassment>`_)
 
