@@ -25,6 +25,7 @@ The following sections go into these elements of the project in more detail and 
    eps-catering
    eps-accommodation
    eps-event-roles
+   eps-event-safety
    eps-risk-management
    eps-outputs-and-outcomes
    eps-closing-down
