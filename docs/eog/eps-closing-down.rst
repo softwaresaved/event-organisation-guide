@@ -24,13 +24,17 @@ For larger events, the EL may solicit blog posts about people's experiences at t
 
 A report summarising what happened at the event can be quite time-consuming to produce and it’s worth thinking about which type of report you want; e.g. a paper on major themes, an event report that has a ‘being there’ style, or a summary of resources produced and available from the event. From experience, producing the report can take up to four months after an event like CW, as the content is dependent on reviewing what happened and other resources being made available.
 
-If resources (such as presentations, video recordings, speed blog posts and outputs from a Hackday) are going to made available then these need to be commissioned or collected. From experience, preparing a video of the event, which may include watching, editing, adding a cover, uploading (e.g. to YouTube) and updating pages, takes a long time. You also have to decide when to publicise the materials (e.g. as they are made available or when they are all ready) - this should be part of your publicity plan.
+If resources (such as presentations, video recordings, speed blog posts and outputs from a Hackday) are going to be made available then these need to be commissioned or collected. From experience, preparing a video of the event, which may include watching, editing, adding a cover, uploading (e.g. to YouTube) and updating pages, takes a long time. You also have to decide when to publicise the materials (e.g. as they are made available or when they are all ready) - this should be part of your publicity plan.
+
+You should also take the time to make sure that the financial side of the event is completed. Ensure that all income from registrations is recorded, collected by the platform you are using to handle this, and paid out / transferred to the (e.g. institutional) account you’re using for event finances. Invoice any remaining sponsors and check that they have paid. Make sure that all invoices from suppliers are received, checked and paid. Check that there are no outstanding items or liabilities to be discharged (e.g. refunds). Once this has been done you can update your event accounts to provide a final statement for the event, that indicated the surplus or deficit that was made on the event. This can be used to compare against your initial budget and help plan subsequent events.
 
 When are you done?
 ******************
 When all of the outputs you planned to produce are available, you can consider the output side of the event done.
 
-For outcomes, the EL may want to track longer-term changes – for example, a longer-term survey (~after six months or a year) for attendees might be useful to assess the impact of your event.
+For outcomes, the EL may want to track longer-term changes – for example, a longer-term survey (~after six months or a year) for attendees might be useful to assess the impact of your event.o
+
+For finance, once you have produced your final accounts for the event, you can consider the financial aspects complete.
 
 If this is all you planned for, then the event is done.
 
