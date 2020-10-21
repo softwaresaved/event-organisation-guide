@@ -12,7 +12,7 @@ As a minimum there is various information which should be available and at hand 
 - Venue contacts
    - Medical emergency number
    - Site security number 
-   - Fire warden number or help number (e.g. evacuation of disabled participants)
+   - Fire warden number or help number (e.g. for evacuation of disabled participants)
 
 - City contacts
    - Medical emergency number (e.g. 999 in the UK)
