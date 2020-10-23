@@ -20,4 +20,4 @@ If your bulleted lists contain sentence fragments, as a style choice we require 
 Look at how links are contructed in different scenarios and copy their usage
 - external links (see [external links](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#hyperlinks) in the Sphinx documentation), see [introduction](docs/eog/introduction.rst) in the EOG
    - if the same link text is used multiple times in one file then you need to us __ as the target, see [authors](docs/eog/authors.rst) in the EOG
-- internal / relative links (see [internal links](https://www.sphinx-doc.org/en/master/usage/restructuredtext/roles.html#ref-role) in the Sphinx documentation, see [finance](docs/eog/eps-finance.rst) for other documents or [risk assessment](docs/eog/eps-risk-assessment.rst] for figures in the EOG
+- internal / relative links (see [internal links](https://www.sphinx-doc.org/en/master/usage/restructuredtext/roles.html#ref-role) in the Sphinx documentation), see [finance](docs/eog/eps-finance.rst) for other documents or [risk assessment](docs/eog/eps-risk-assessment.rst) for figures in the EOG
