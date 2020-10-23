@@ -2,7 +2,7 @@
 
 Risk Identification
 ===================
-The first stage of risk management is identifying risks. Note that as risk management is an ongoing activity, new risks will be identified as the event organisation proceed, existing risks will be re-phrases and some will be deleted. Risk management will take place until the :doc:`eps-closing-down.rst`.
+The first stage of risk management is identifying risks. Note that as risk management is an ongoing activity, new risks will be identified as the event organisation proceed, existing risks will be re-phrases and some will be deleted. Risk management will take place until the :doc:`eps-closing-down`.
 
 Here are some examples of risks identified when organising an event such as the `Collaborations Workshop <https://software.ac.uk/programmes-and-events/collaborations-workshops>`_ or `CarpentryConnect <https://software.ac.uk/ccmcr19>`_.
 
