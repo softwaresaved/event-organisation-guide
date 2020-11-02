@@ -22,8 +22,8 @@ This is a list of information from the Feasibility Stage which is needed for eva
     - The event should be at a time when accommodation is available. Things to consider here may include:
 
         - Being outside of University term time,
-        - No other conflicting local events (e.g. football matches) as they tend to raise accommodation prices,
-        - Preferably not clashing with primary/high school holidays.
+        - no other conflicting local events (e.g. football matches) as they tend to raise accommodation prices, and
+        - preferably not clashing with primary/high school holidays.
 
 - A venue (`see an example venue specification <https://docs.google.com/document/d/1BJsjr4Y-cTBeEEjV5A_VVQ2hZIPsgBivhpin8gLJyb4/edit#heading=h.g6gccho600xq>`_)
     - A specification of venue requirements should be put together.
