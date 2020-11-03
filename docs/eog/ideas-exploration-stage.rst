@@ -20,9 +20,9 @@ Even at the Idea Exploration Stage, it should be possible to discuss the balance
 - Learning (e.g. Software Carpentry/Data Carpentry or other instructive approaches)
 - Networking (e.g. lunch/coffee and other social sessions)
 
-If this stage is approved, an *Event Lead* (EL) should be identified to manage the vision and delivery of the event, and effort from others should be assigned to form a co-ordinating group during the Feasibility Stage. For smaller events, only the EL may be required.
+If this stage is approved, an *Event Lead* should be identified to manage the vision and delivery of the event, and effort from others should be assigned to form a co-ordinating group during the Feasibility Stage. For smaller events, only the EL may be required.
 
-The EL should ideally have experience organising events. If they don't, then they should have a mentor assigned so they can learn as they go along. The mentor and the main stakeholder do not have to be the same person and often won’t be.
+The Event Lead should ideally have experience organising events. If they don't, then they should have a mentor assigned so they can learn as they go along. The mentor and the main stakeholder do not have to be the same person and often won’t be.
 
-The EL is answerable to the stakeholders - if there is more than one stakeholder, there should be a *Lead Stakeholder* (LS) who can make the final decisions.
+The Event Lead is answerable to the stakeholders - if there is more than one stakeholder, there should be a *Lead Stakeholder* who can make the final decisions.
 
