@@ -27,7 +27,7 @@ Here are some common points that can appear during such conversations:
 
    - Make sure you understand whether the purchase is liable for VAT. Some small suppliers may be VAT exempt, and some activities are zero VAT. Consult your finance team for help if you are unsure.
 
-   - Note that PO are not always used for foreign suppliers - in this case an agreement or contract is normally used instead.
+   - Note that POs are not always used for foreign suppliers - in this case an agreement or contract is normally used instead.
 
 - Once the goods or services have been delivered, the supplier will send an invoice. This should quote the matching purchase order (PO), with any discrepancy in value explained.
 
@@ -35,12 +35,12 @@ Here are some common points that can appear during such conversations:
 
    - In some cases, e.g. venue hire, you may be asked to pay a deposit in advance. These should be associated with the same PO, to avoid double payment.
 
-There may be other, non-procurement, requirements from an institution relating to use of suppliers. These can include Data Protection Impact Assessments, e.g. when personal information will be passed to or provided by a supplier and whether suppliers have statement detailing their approach to the problem of `Modern Slavery <https://www.gov.uk/government/collections/modern-slavery>`_.
+There may be other, non-procurement, requirements from an institution relating to use of suppliers. These can include Data Protection Impact Assessments, e.g. when personal information will be passed to or provided by a supplier and whether suppliers have a statement detailing their approach to the problem of `Modern Slavery <https://www.gov.uk/government/collections/modern-slavery>`_.
 
 
 Income
 ------
-If the financials are being run through and institution it is also important to think about how income is handled. 
+If the financials are being run through an institution it is also important to think about how income is handled. 
 
 Some considerations include:
 
