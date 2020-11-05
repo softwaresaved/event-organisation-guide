@@ -5,7 +5,7 @@ Finance
 
 Procurement
 -----------
-Procurement needs to be well managed throughout the project. If costs are being met by an institution then the rules and regulations of the institution need to be followed, otherwise you risk delays or even not being able to pay suppliers leading to a real loss of reputation as well as a lot of aggravation and potential personal liability. Thus, some due diligence here can pay dividends. Have a meeting with your institutional finance people, talk to them about some of the lines in your :doc:`eps-budget` and get their view on how they should be managed.
+Procurement needs to be well managed throughout the project. If costs are being met by an institution then the rules and regulations of the institution need to be followed; otherwise, you risk delays or even not being able to pay suppliers leading to a real loss of reputation as well as a lot of aggravation and potential personal liability. Thus, some due diligence here can pay dividends. Have a meeting with your institutional finance people, talk to them about some of the lines in your :doc:`eps-budget` and get their view on how they should be managed.
 
 Here are some common points that can appear during such conversations:
 
@@ -23,11 +23,11 @@ Here are some common points that can appear during such conversations:
 
    - Sometimes one-off use of a supplier can be done using a different mechanism that does not require registration; check to see if this is an option.
 
-- A Purchase Order (PO) sets out the detail of the goods or services you’re buying from the supplier along with the price, and is created once the supplier has been chosen and the details confirmed. This must be done before the date on which the goods/services are supplied, and must be done before an invoice can be paid.
+- A Purchase Order (PO) sets out the detail of the goods or services you’re buying from the supplier along with the price and is created once the supplier has been chosen and the details confirmed. This must be done before the date on which the goods/services are supplied, and must be done before an invoice can be paid.
 
    - Make sure you understand whether the purchase is liable for VAT. Some small suppliers may be VAT exempt, and some activities are zero VAT. Consult your finance team for help if you are unsure.
 
-   - Note that POs are not always used for foreign suppliers - in this case an agreement or contract is normally used instead.
+   - Note that POs are not always used for foreign suppliers - in this case, an agreement or contract is normally used instead.
 
 - Once the goods or services have been delivered, the supplier will send an invoice. This should quote the matching purchase order (PO), with any discrepancy in value explained.
 
@@ -35,12 +35,12 @@ Here are some common points that can appear during such conversations:
 
    - In some cases, e.g. venue hire, you may be asked to pay a deposit in advance. These should be associated with the same PO, to avoid double payment.
 
-There may be other, non-procurement, requirements from an institution relating to use of suppliers. These can include Data Protection Impact Assessments, e.g. when personal information will be passed to or provided by a supplier and whether suppliers have a statement detailing their approach to the problem of `Modern Slavery <https://www.gov.uk/government/collections/modern-slavery>`_.
+There may be other, non-procurement, requirements from an institution relating to the use of suppliers. These can include Data Protection Impact Assessments, e.g. when personal information will be passed to or provided by a supplier and whether suppliers have a statement detailing their approach to the problem of `Modern Slavery <https://www.gov.uk/government/collections/modern-slavery>`_.
 
 
 Income
 ------
-If the financials are being run through an institution it is also important to think about how income is handled. 
+If the financials are being run through an institution, it is also important to think about how income is handled. 
 
 Some considerations include:
 
