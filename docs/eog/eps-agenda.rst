@@ -2,7 +2,7 @@
 
 Agenda
 ======
-The Event Lead should consider the goals, objectives and the duration of the event to decide the agenda and details, such as type and duration of particular sessions. The agenda and reasoning around balance of timings and session types should then be discussed with the steering committee (or equivalent) for comment.
+The Event Lead should consider the goals, objectives and the duration of the event to decide the agenda and details, such as the type and duration of particular sessions. The agenda and reasoning around a balance of timings and session types should then be discussed with the steering committee (or equivalent) for comment.
 
 The Event Lead may consider the following types of sessions:
 
@@ -25,7 +25,7 @@ This includes sessions that inform and inspire:
 Exploring
 *********
 
-This includes sessions that aid people working together to explore solutions or identify problems:
+This includes sessions that help people work together to explore solutions or identify problems:
 
 * Collaborative ideas or hackday ideas sessions,
 * Discussion sessions and speed blogging,
