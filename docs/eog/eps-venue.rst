@@ -29,7 +29,8 @@ requirements which you should consider and prioritise for an event.
 - Accessibility 
     - Accessibility within the venue (location of disabled toilets, accessibility of various rooms, signposting for ease of orientation)
 - Environment sustainability considerations
-    - The use of plastic vs sustainable cutlery and crockery for serving food (guests can be encouraged to label and reuse their cups throughout the day if disposable), what happens to the leftover food, consider serving only vegetarian food or having guests opt-in for meat options
+    - The use of plastic vs sustainable cutlery and crockery for serving food (guests can be encouraged to label and reuse their cups throughout the day if disposable), consider serving only vegetarian food or having guests opt-in for meat options, what happens to the leftover food?
+    - Minimise printed materials e.g. make slides available digitally
 - Conference dinner hosting
     - The possibility of hosting the conference dinner at the venue
 
