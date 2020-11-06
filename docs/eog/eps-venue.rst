@@ -9,9 +9,9 @@ excellent event. It is also (normally) the most expensive line in your :doc:`eps
 You can have a look in more detail at various venue
 requirements you should consider in the `venue
 requirements template document <https://zenodo.org/record/4064079>`_
-and adjust it based on your own capacity and programme needs. Remember that no single
-venue will satisfy all your needs and you will have to prioritise your requirements in terms what is a must, what would
-really help and what is optional for your particular event instance. Here we outline various aspects of venue
+and adjust it based on your own capacity and programme needs. Remember that venues may not
+meet all of your ideal requirements and you will have to prioritise what is a must, what would
+really help and what is optional for your particular event. Here we outline various aspects of venue
 requirements which you should consider and prioritise for an event.
 
 - Capacity
@@ -19,17 +19,17 @@ requirements which you should consider and prioritise for an event.
 - Spaces that support different event requirements
     - Registration, main plenary room, breakout rooms, communal/break space, poster/sponsor exhibition, storage, quiet space, work space, photo taking, prayer room, etc
 - Location
-    - Ideally located in a place with some wow factor and easily accessible by public transport (ideally with some nearby parking too)
+    - Ideally located in a place with some wow factor and easily accessible by public transport (ideally with some nearby parking and cycle parking too)
 - Infrastructure
-    - WiFi, A/V, video streaming/recording, power points, sound and portable microphones
+    - WiFi, A/V, video streaming/recording, power points and portable microphones
 - Catering at the main event
     - Catering for people with different dietary needs and food allergies, clear labelling of food
 - Facilities
     - Storage, toilets, fridge for medication/milk, water points, printing, children on site (or nearby nursery), proximity to prayer rooms (if none available on site)
 - Accessibility 
-    - Accessibility of the venue by public transport and within the venue (location of disabled toilets, accessibility of various rooms, signposting for ease of orientation)
+    - Accessibility within the venue (location of disabled toilets, accessibility of various rooms, signposting for ease of orientation)
 - Environment sustainability considerations
-    - The use of plastic vs sustainable cutlery and crockery for serving food, what happens to the leftover food
+    - The use of plastic vs sustainable cutlery and crockery for serving food (guests can be encouraged to label and reuse their cups throughout the day if disposable), what happens to the leftover food, consider serving only vegetarian food or having guests opt-in for meat options
 - Conference dinner hosting
     - The possibility of hosting the conference dinner at the venue
 
