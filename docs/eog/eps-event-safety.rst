@@ -17,13 +17,13 @@ A minimum of information should be available and at hand for organisers and part
 - City contacts
    - Medical emergency number (e.g. 999 in the UK)
    - Security emergency number (e.g. for the Police)
-   - Address of the nearest Accident and Emergency equipped Hospital
-   - Address of Medical practitioners who offer walk-in services
+   - Address of the nearest accident and emergency equipped hospital
+   - Address of medical practitioners who offer walk-in services
    - Address of the nearest pharmacy
 
 Code of Conduct
 ---------------
-As well as medical and security matters, governed by the institutional and legal authority of the venue, a Code of Conduct (CoC) will mandate standards of behaviour and interaction expected from organisers and participants. These are becoming increasingly common at events and show a commitment to running a safe event. In some cases, they need to be in place before potential sponsors agree to sponsor the event.
+As well as medical and security matters, governed by the institutional and legal authority of the venue, a Code of Conduct will mandate standards of behaviour and interaction expected from organisers and participants. These are becoming increasingly common at events and show a commitment to running a safe event. In some cases, they need to be in place before potential sponsors agree to sponsor the event.
 
 The Code of Conduct should come as a set of documents:
 
