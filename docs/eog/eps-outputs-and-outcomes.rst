@@ -4,7 +4,7 @@ Outputs and Outcomes Plan
 =========================
 Outputs
 *******
-Identify what you will make available after the event.  For instance, for a CW type of event this could include:
+Identify what you will make available after the event.  For instance, for a Collaborations Workshop type of event this could include:
 
 - Presentations
     - From keynotes (slides, videos)
