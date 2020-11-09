@@ -3,33 +3,33 @@
 Event Safety
 ============
 
-The safety and comfort of participants is paramount at the actual event, this requires information and processes to be available and in place.
+The safety and comfort of participants at the event are paramount. To make sure the event will be safe and comfortable, information and processes need to be available and in place.
 
 Safety information
 ------------------
-As a minimum there is various information which should be available and at hand for organisers and participants to make use of if the need arises. This includes:
+A minimum of information should be available and at hand for organisers and participants, including:
 
 - Venue contacts
    - Medical emergency number
    - Site security number 
-   - Fire warden number or help number (e.g. for evacuation of disabled participants)
+   - Fire warden number or help number
 
 - City contacts
    - Medical emergency number (e.g. 999 in the UK)
    - Security emergency number (e.g. for the Police)
    - Address of the nearest Accident and Emergency equipped Hospital
-   - Address of Medical practioners who offer walk-in services
+   - Address of Medical practitioners who offer walk-in services
    - Address of the nearest pharmacy
 
 Code of Conduct
 ---------------
-As well as medical and security matters which will be governned by institutional and legal authority under which the venue operates. A Code of Conduct (CoC) goes further to mandate standards of behaviour and interaction expected from organisers and participants. These are becoming increasingly common at events and show a commitment to running a safe event. In some cases they need to be in place before potential sponsors will agree to sponser event.
+As well as medical and security matters, governed by the institutional and legal authority of the venue, a Code of Conduct (CoC) will mandate standards of behaviour and interaction expected from organisers and participants. These are becoming increasingly common at events and show a commitment to running a safe event. In some cases, they need to be in place before potential sponsors agree to sponsor event.
 
-The CoC should come as set of documents that cover:
+The Code of Conduct should come as a set of documents:
 
-- The CoC itself (e.g the `CW19 Code of Conduct <https://software.ac.uk/cw19/code-conduct>`_)
+- The Code of Conduct itself (e.g the `CW19 Code of Conduct <https://software.ac.uk/cw19/code-conduct>`_)
 
 - How to report a violation (e.g. the `CW19 - Attendee Procedure For Reporting Harassment <https://software.ac.uk/cw19/code-of-conduct/harassment-reporting-procedure>`_)
 
-- The approach the CoC committee for the event will hand reports (e.g. the `CW19 - Staff Procedure For Handling Reported Harassment <https://www.software.ac.uk/cw19/code-of-conduct/staff-procedure-handling-reported-harassment>`_)
+- How the Code of Conduct committee will handle harrassment reports (e.g. the `CW19 - Staff Procedure For Handling Reported Harassment <https://www.software.ac.uk/cw19/code-of-conduct/staff-procedure-handling-reported-harassment>`_)
 
