@@ -25,7 +25,7 @@ This is a list of information from the Feasibility Stage which is needed for eva
         - no other conflicting local events (e.g. football matches) as they tend to raise accommodation prices, and
         - preferably not clashing with school holidays.
 
-- A venue (`see an example venue specification <https://docs.google.com/document/d/1BJsjr4Y-cTBeEEjV5A_VVQ2hZIPsgBivhpin8gLJyb4/edit#heading=h.g6gccho600xq>`_)
+- A venue (`see an example venue specification <https://zenodo.org/record/4064079#.X6lf05P7Tlw>`_)
     - A specification of venue requirements should be put together.
     - Visits should be carried out before hiring a venue.
 
