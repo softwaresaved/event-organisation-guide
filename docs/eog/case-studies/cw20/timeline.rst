@@ -15,7 +15,7 @@ Month -1 (March 2020)
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Agenda
-  - We reorganised agenda for online format by
+  - We reorganised agenda for online format by:
    
     - Removing in-person social programme (walk in Belfast Botanical Gardens, visit to Ulster Museum, Drinks Reception, Conference Dinner)
     - Adding breaks and buffer time
@@ -25,7 +25,7 @@ Agenda
   - Made the final agenda available
    
 Communication
-  - We closed registration and contacted registrants through Eventbrite as soon as the decision was made that the event would be moving online to notify them, and included information on
+  - We closed registration and contacted registrants through Eventbrite as soon as the decision was made that the event would be moving online to notify them, and included information on:
    
     - The full refund policy if they were no longer able to attend the event (the deadline for a full refund was 7 days before the event start date)
     - The reduced cost of tickets and how they would be refunded if they still wanted to attend (partial refunds for the difference would be issued during the week before the event, after the deadline for full refunds passed)
@@ -33,7 +33,7 @@ Communication
       
   - We had discussions with the venue and accommodation about postponing the in-person arrangements to a future date
    
-    - We were able to rearrange everything (venue, catering, accommodation) except for one of the hotels who were unable to refund/reschedule our reservation under the circumstances
+    - We were able to rearrange everything (venue, catering, accommodation) except for one of the hotels which was unable to refund/reschedule our reservation under the circumstances
       
   - Followed up with sponsors and offered to renegotiate packages
   - Followed up with speakers and workshop facilitators, confirming any changes to their sessions, and provided office hours to test their setup and answer any questions
@@ -46,17 +46,17 @@ Communication
   - Links to the relevant Zoom room and note-taking document were sent via email through Eventbrite and Slack at the start of each day
    
 Resources
-  - We set up a uCONFLY instance for management of Discussion Group Reports, Mini-workship and Demo session notes, Collaborative Ideas and Hack Day ideas which also involved
+  - We set up a uCONFLY instance for management of discussion group reports, mini-workship and demo session notes, collaborative ideas and Hackday ideas which also involved:
    
     - Creating Google Doc templates for each of these document types
     - Generating a number of each document type for dissemination during CW20 so that participants would not have to login and use yet another platform
       
-  - Built the infrastructure needed to synchronise participants and run the unconference sessions such as
+  - Built the infrastructure needed to synchronise participants and run the unconference sessions such as:
    
     - Collaborative notes documents with agenda and relevant links
     - Spreadsheets to disseminate the uCONFLY generated documents 
       
-  - Wrote documentation for the delivery team including
+  - Wrote documentation for the delivery team including:
    
     - Zoom instructions 
     - Duties roster
@@ -70,7 +70,7 @@ Event run up actions
   - Closed registration immediately upon decision to move event online
   - Issued full refunds to registrants who were no longer able to attend and informed us at least 7 days before the event start date
   - Issued partial refunds for the difference between the original priced and the new reduced price to registrants who still wanted to attend
-  - Planned break-out groups distribution (sign up sheet for Discussion Groups session, randomly assigned for Collaborative Ideas session)
+  - Planned break-out groups distribution (sign up sheet for discussion groups session, randomly assigned for collaborative ideas session)
   - Planned for video recording infrastructure (easy recording of sessions via Zoom)
   - Had a Code of Conduct committee pre-event meeting
   - Constructed feedback form draft
@@ -83,7 +83,7 @@ Ran event!
   - Overall, CW20 ran smoothly according to plan
   - Places where we feel we can improve include: 
   
-    - A smoother running of the Hack Day: assigning co-host privileges to Hack Day participants to allow them to move around breakout rooms was cumbersome  (although we note that as of Zoom version 5.3.1, there is now the option to allow participants to choose their breakout rooms) and participants found it difficult to break into sub-teams
+    - A smoother running of the Hackday: assigning co-host privileges to Hackday participants to allow them to move around breakout rooms was cumbersome  (although we note that as of Zoom version 5.3.1, there is now the option to allow participants to choose their breakout rooms) and participants found it difficult to break into sub-teams
     - Mingling, socialising and "hallway conversations" in online workshops 
 
 
@@ -154,4 +154,4 @@ Month 5 (August 2020)
 Month 6 (September 2020)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- EOG case study completed and reviewed
+- Event Organisation Guide case study completed and reviewed
