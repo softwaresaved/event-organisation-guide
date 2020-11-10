@@ -10,7 +10,7 @@ If we had organised CW20 as an online event from the beginning, there are many t
 We contacted speakers and workshop facilitators to ask if they were still able to deliver in the online setting. 
 In the end, two of the workshops dropped out and we were therefore able to shift the others around so that we had 16 workshops across four sessions (with four workshops in parallel for each session). 
 
-Because we were now unable to carry out the planned social programme (activities such visiting the Ulster Museum, a walk around the Belfast Botanic Gardens and of course the conference dinner), we were able to shorten the days and add in further breaks and changeover/buffer time. 
+Because we were now unable to carry out the planned social programme (activities such as visiting the Ulster Museum, a walk around the Belfast Botanic Gardens and of course the conference dinner), we were able to shorten the days and add in further breaks and changeover/buffer time. 
 We did not organise online social activities during the breaks because the days were still quite long and we thought people would need time away from their screens, but this was ultimately something that participants missed the most from the in-person event. 
 Breaks were also scheduled in such a way to allow time for the creation of breakout rooms for the next session.
 
@@ -32,7 +32,7 @@ Keynote Talks (Informing)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Keynote speakers were contacted prior to the event to confirm the time of their talk and its format, and enable no additional time keeper being needed for their session on the day. 
-The Chair of the session introduced the speaker and reminded the participants that they could take notes and ask questions within the session’s section of the day’s collaborative notes where a link to the slides was also shared. 
+The Chair of the session introduced the speaker and reminded the participants that they could take notes and ask questions in the collaborative notes. A link to the slides was also shared here.
 The speaker shared their presentation slides via `Screen Share in Zoom <https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen>`_, and the Host set `Spotlight Video <https://support.zoom.us/hc/en-us/articles/201362653-Spotlight-Video>`_ for the speaker so that they would be visible to all participants and in the recording. 
 During the Q&A, the Chair then relayed some of the questions from the notes to the speaker, and the remainder of the questions were answered in-line within the note-taking document after the session.
 
