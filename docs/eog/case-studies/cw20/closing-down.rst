@@ -24,4 +24,4 @@ You can see the details of the CW20 outputs in the :ref:`CW20-Outputs-and-Outcom
 When are you done?
 -------------------------
 
-Once this case study is published, all of the outputs that we planned to produce will be available and the event will be done.
+Once this case study is published, all of the outputs that we planned to produce will be available, and the event will be done.
