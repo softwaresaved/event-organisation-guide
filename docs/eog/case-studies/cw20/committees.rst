@@ -28,7 +28,7 @@ Once the decision was made to cancel the in-person event in Belfast and move CW2
 Code of Conduct Committee
 --------------------------
 
-The CW20 Code of Conduct (CoC) Committee comprised of three members who were Institute staff and one member who was external. 
+The CW20 Code of Conduct (CoC) Committee comprised of three members who were Institute staff and one external. 
 There was a mix of gender, race and career stage within the Committee to provide a range of options for participants to choose who they felt most comfortable reporting to.
 
 Before the event, we held a meeting for CoC Committee members to read through and discuss
