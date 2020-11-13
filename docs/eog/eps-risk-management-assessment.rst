@@ -19,5 +19,5 @@ The following is an example risk matrix from the `Wikimedia Commons <https://com
 The event team can then decide which part of the matrix is above or below the project risk threshold. The risk threshold can be set according to the experience of the team or the degree of change in the type of event compared to others. New, complex and larger scale events will probably call for a lower risk threshold. The risks above the threshold will be considered as mitigated risks. 
 
 
-See `the disk management template  <https://zenodo.org/record/4088024>`_ for an example that includes a risk matrix.
+See `the risk management template  <https://zenodo.org/record/4088024>`_ for an example that includes a risk matrix.
 
