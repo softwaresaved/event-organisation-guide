@@ -26,7 +26,7 @@ requirements which you should consider and prioritise for an event.
 - Facilities
     - Storage, toilets, fridge for medication/milk, water points, printing, childcare on-site (or nearby nursery), proximity to prayer rooms (if none available on site)
 - Accessibility 
-    - Accessibility of the venue by public transport and within the venue ( consider, for example, thelocation of accessible toilets, the accessibility of various rooms, and signposting clearly for ease of orientation)
+    - Accessibility of the venue by public transport and within the venue ( consider, for example, the location of accessible toilets, the accessibility of various rooms, and signposting clearly for ease of orientation)
 - Environment sustainability considerations
     - The use of plastic vs sustainable cutlery and crockery for serving food, what happens to the leftover food
 - Conference dinner hosting
