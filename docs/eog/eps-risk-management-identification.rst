@@ -2,7 +2,7 @@
 
 Risk Identification
 ===================
-The first stage of risk management is identifying risks. Note that as risk management is an ongoing activity, new risks will be identified as the event organisation proceed, existing risks will be re-phrases and some will be deleted. Risk management will take place until the :doc:`eps-closing-down`.
+The first stage of risk management is identifying risks. Note that as risk management is an ongoing activity, new threats will come up as the event organisation proceeds, existing potential issues will be re-phrased, and some others will be deleted. Risk management will take place until the :doc:`eps-closing-down`.
 
 Here are some examples of risks identified when organising an event such as the `Collaborations Workshop <https://software.ac.uk/programmes-and-events/collaborations-workshops>`_ or `CarpentryConnect <https://software.ac.uk/ccmcr19>`_.
 
@@ -17,7 +17,7 @@ Here are some examples of risks identified when organising an event such as the 
 
 - Keynote speakers
     - Delay in confirmation or dropping out
-    - Speaker go off track in their talk or use offensive language
+    - Speaker goes off track in their talk or uses offensive language
 
 - Attendees
     - Not enough attendees or many dropping out right before the event
@@ -25,7 +25,7 @@ Here are some examples of risks identified when organising an event such as the 
 
 - Session chairs
     - Not enough session chairs
-    - Session chair fails to show up or it is unclear to them how to chair a session
+    - Ineffective chairing of the sessions
 
 - Organising committee members
     - Not kept up to date with the progress of event planning
@@ -36,26 +36,26 @@ Here are some examples of risks identified when organising an event such as the 
 
 - Volunteers/helpers at the event
     - Not enough volunteers
-    - Volunteers not showing up or not fulfilling the tasks assigned to them
+    - Volunteers not fulfilling the tasks assigned to them
     - Feel unappreciated or excluded
 
 - Budget
     - Insufficient budget (e.g. registration fees not set at the appropriate level)
-    - Unexpected expenses (e.g. extra catering, unforeseen or unbudgeted costs, damage to the venue)
+    - Unexpected expenses (e.g. extra catering, damage to the venue)
     - Overspending
 
 - Event agenda
     - Not designing an effective agenda to meet the event's goals and keep people's interest and focus
-    - Not fulfilling certain plans (e.g. social activities, good venue for conference dinner, etc.)
-    - Unexpected bad weather so cannot e.g. take group photo or do social activities outdoors
+    - Not fulfilling specific plans (e.g. social activities, good venue for conference dinner, etc.)
+    - Unexpected bad weather so cannot do activities outdoors
 
 - Venue
     - Venue cancels before the event
-    - Problems at the venue (accessibility, AV, etc.), fire tests, real fire alarm, venue needs to be evacuated
+    - Problems at the venue (accessibility, AV, fire alarm etc.)
 
 - Catering
     - Catering cancels before the event
-    - Lack of certain food of preference, wrong food delivered, missing food items, food not properly labelled for allergens and dietary requirements
+    - Lack of a particular food of preference, wrong food delivered, food not adequately labelled for allergens and dietary requirements
 
 - Communication
     - Participants confused about the agenda or not getting information on the right channels and at the appropriate time/frequency
@@ -66,5 +66,5 @@ Here are some examples of risks identified when organising an event such as the 
     - Lack of information or information dispersed at various locations
     - Lack of clearly stated policies and guidelines (e.g. Code of Conduct policy and breach reporting and handling procedures, privacy policy, contribution guide)
 
-See `the example risk management template <https://zenodo.org/record/4088024>`_ for more details on how to specify identified risk, e.g. using the `if-then method for specifying risks <https://projectriskcoach.com/the-power-of-if-then-risk-statements/>`_ can help to formulate and infer mitigation plans.
+See `the example risk management template <https://zenodo.org/record/4088024>`_ for more information on how to elaborate on identified risks, e.g. using the `if-then method for writing up risks <https://projectriskcoach.com/the-power-of-if-then-risk-statements/>`_ can help to formulate and infer mitigation plans.
 

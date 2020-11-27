@@ -3,21 +3,19 @@
 Catering
 ========
 
-Prices for catering should have been used for the budget projection at the Feasibility Stage.
-
-When submitting an order for the workshop, the EL or their designate in this matter should take into consideration
-people's dietary requirements which should have been asked at registration time.
-
-The EL (or designate) should find out from the caterers when is the latest date to submit an order. It might be worth ordering
-5%-10% extra meals if you envisage extra registrations between ordering the food and the event. This should be factored
-into the budget preferably at the Feasibility Stage (the `budget template
+The budget projection at the Feasibility Stage should already reflect catering prices, including any added expenditure that might incur from late registrations. The `budget template
 <https://docs.google.com/spreadsheets/d/1aM2pPFgV2kurA4G7L8AT1GTyeWRj2fo3ner_jsTzSEU/edit#gid=0>`_ shows an example
-of this).
+of a catering order.
 
-It might be tempting to order the cheapest things on the menu to meet the budget but having
-variety, quality and reasonable portions at a multi-day event can help keep the participants fuelled for learning and interaction. If you
-are charging your audience to attend the event then it is best to give careful consideration to catering and order something reasonable.
+The Event Lead or designate should ask for the delegates' dietary requirements in advance, preferably at registration time. These requirements should inform the catering order for the workshop. 
 
-It can be time-consuming to arrange catering so this might be best assigned as a task to someone during resource
-allocation.
+The Event Lead (or designate) should find out from the caterers the latest date to submit an order. It might be worth ordering
+5%-10% extra meals to allow for late registrations between ordering the food and the event. 
+
+It's tempting to order the cheapest things on the menu to meet the budget, but having
+variety, quality, and reasonable portions (especially at a multi-day event) can help keep the participants fuelled for learning and interaction. If you
+are charging your audience to attend the event, then it is best to give careful consideration to catering.
+
+It can be time-consuming to arrange catering so this might be best assigned to another member of staff during the task
+allocation process.
 

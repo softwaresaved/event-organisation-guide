@@ -2,9 +2,9 @@
 
 Agenda
 ======
-The EL should consider the goals and objectives and the duration of the event to decide the agenda and details such as type and duration of particular sessions. The agenda and reasoning around balance of timings and session types should then be discussed with the steering committee (or equivalent) for comment.
+The Event Lead should consider the goals, objectives and the duration of the event to decide the agenda and details, such as the type and duration of particular sessions. The agenda and reasoning around a balance of timings and session types should then be discussed with the steering committee (or equivalent) for comment.
 
-The EL may consider the following types of sessions:
+The Event Lead may consider the following types of sessions:
 
 * Informing,
 * Exploring,
@@ -25,7 +25,7 @@ This includes sessions that inform and inspire:
 Exploring
 *********
 
-This includes sessions that aid people working together to explore solutions or identify problems:
+This includes sessions that help people work together to explore solutions or identify problems:
 
 * Collaborative ideas or hackday ideas sessions,
 * Discussion sessions and speed blogging,
@@ -38,7 +38,7 @@ This includes building things together:
 
 * Hackdays,
 * Bring your own data sessions,
-* Paper/Standards generation.
+* Paper/standards generation.
 
 Teaching
 ********
@@ -53,11 +53,11 @@ Networking
 
 This includes sessions for building relationships between people:
 
-* Around food (e.g. lunch/coffee, conference/workshop dinner):
+* Around food (e.g. lunch/coffee, conference/workshop dinner)
 
   * Protecting these times is important to allow networking to take place.
 
-* Other social programmes:
+* Other social programmes
 
   * Guided walks,
   * Visits to museums or other points of interest nearby.

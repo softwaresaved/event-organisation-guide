@@ -20,12 +20,12 @@ we also needed the roles below for our online event:
 - Zoom participant managers for un/muting, creating/assigning breakout rooms, keeping an eye on hand raising, etc.
 - Four sets of Hosts and Co-hosts for the parallel Mini-workshop and demo sessions
 
-What wasn’t initially clear, was the effect that the government response to COVID-19 would have on how staff could participate in the event. 
+What wasn’t initially clear was the effect the government response to COVID-19 had on how staff could participate in the event. 
 Parents now had to factor in homeschooling kids and other caring responsibilities during the day. 
 Other team members had limited or unstable internet, and therefore wouldn’t be able to have prominent Zoom responsibilities. 
 Some members became ill. 
-We therefore ensured that we had two people assigned for each role/duty, as contingency for if someone had to drop out of the event for any reason. 
-This required us to reach out to our network, as there weren’t enough SSI staff available to cover every role and backup. 
+We therefore ensured that we had two people assigned for each role/duty, as contingency in case someone had to drop out of the event for any reason. 
+This required us to reach out to our network, as there weren’t enough SSI staff members available to cover every role and backup. 
 Luckily, the research software community has no shortage of virtual event experts, so we reached out to our SSI Fellows in the `Open Life Science <https://openlifesci.org/>`_ community to help us manage the parallel mini-workshop and demo sessions.
 
 We documented everything to make sure that everyone knew their roles and responsibilities: we created a `duties roster <https://doi.org/10.6084/m9.figshare.12498122>`_, wrote `instructions for Zoom Hosts and Co-hosts <https://doi.org/10.6084/m9.figshare.12498191>`_, created a `spreadsheet of the various roles and Zoom room links for the parallel sessions <https://doi.org/10.6084/m9.figshare.12498164>`_, and provided an `index of links <https://doi.org/10.6084/m9.figshare.12459656>`_ to point to all these documents and to help people find anything else related to CW20 that they would need (links to each day’s notes, Zoom rooms, communication channels, session information, etc.).

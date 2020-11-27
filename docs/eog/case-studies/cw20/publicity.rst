@@ -3,7 +3,7 @@
 CW20 Publicity
 =====================
 
-Publicity and clear communication were key for transitioning CW20 from an in-person to virtual event within three weeks. 
+Publicity and clear communication were key for transitioning CW20 from an in-person to a virtual event within three weeks. 
 
 
 
@@ -19,7 +19,7 @@ We updated the Eventbrite page description to include our response to the situat
 We edited the `CW20 website <https://software.ac.uk/cw20>`_ to:
 
 - Update the workshop description and image to reflect that it would now take place online.
-- Add a Response to Coronavirus (COVID-19) section notifying the community of the decisions being made around the event. 
+- Add a Response to Coronavirus (COVID-19) section notifying the community of the decisions made around the event. 
 - Update the agenda with the reformatted programme.
 - Update the venue information with instructions on installing and using Zoom.
 - Update the Code of Conduct to include additional online interactions and reporting.
@@ -30,7 +30,7 @@ During the event
 --------------------
 
 We used the Twitter hashtag `#CollabW20 <https://twitter.com/hashtag/CollabW20>`_ to promote the event on social media, following the convention of previous CW events.
-We assigned a staff member as Twitter Monitor to Tweet throughout the event and amplify the Tweets of participants. 
+We assigned a staff member as Twitter Monitor to tweet throughout and amplify the event. 
 
 
 After the event
