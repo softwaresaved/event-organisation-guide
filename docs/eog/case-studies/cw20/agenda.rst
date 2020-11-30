@@ -33,7 +33,7 @@ We then asked participants to write down their answers in the note-taking docume
 Keynote Talks (Informing)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Keynote speakers were contacted prior to the event to confirm the time of their talk and its format, and enable no additional time keeper being needed for their session on the day. 
+Keynote speakers were contacted prior to the event to confirm the time of their talk and its format.
 
 The Chair of the session introduced the speaker and reminded the participants that they could take notes and ask questions in the collaborative notes. A link to the slides was also shared here.
 
