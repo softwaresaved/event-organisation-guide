@@ -29,8 +29,7 @@ Here is how we did it. Note, the case study takes place just before our decision
    agenda
    publicity
    sponsorship
-   venue
-   catering 
+   venue-and-catering
    event-roles
    risk-management
    outputs-and-outcomes-plan 
