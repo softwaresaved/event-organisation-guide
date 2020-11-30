@@ -6,7 +6,7 @@ Event Roles
 Certain roles
 (see `examples roles <https://zenodo.org/record/3967427>`_)
 are needed before, during and after the event. These roles can vary
-depending on the balance of the event and some of the roles naturally go together. Role allocations should be done carefully as some combinations of roles might be incompatible or require local knowledge or skills, so they would only be suitable for certain people.
+depending on the types of sessions and activities at the event and some of the roles naturally go together. Role allocations should be done carefully as some combinations of roles might be incompatible or require local knowledge or skills, so they would only be suitable for certain people.
 
 A duties roster
 ***************
