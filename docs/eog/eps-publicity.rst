@@ -16,6 +16,9 @@ The publicity timeline should fit into the overall event project timeline, and i
 
 - Who to contact (individuals, groups, press offices)
 - Contact details (individual email, Twitter, mailing lists)
+
+    - **Note** : Contact details should be stored securely and only accessible to those who need them
+
 - Publicity schedule (plan the dates for publishing your event and publicity content)
 - Content (news items, blog posts, press release, tweet)
 - How to measure the success of your campaigns
