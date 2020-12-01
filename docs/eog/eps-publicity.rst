@@ -51,4 +51,3 @@ There are various outputs produced at the end of a workshop. For Collaborations 
 - Videos of the talks
 - An event report or analysis
 
-These are all good times to publicise the fact that resources from a workshop are available at that time.
