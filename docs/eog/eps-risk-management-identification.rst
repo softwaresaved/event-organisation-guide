@@ -26,6 +26,7 @@ Here are some examples of risks identified when organising an event such as the 
 - Session chairs
     - Not enough session chairs
     - Ineffective chairing of the sessions
+    - Do not turn up on the day
 
 - Organising committee members
     - Not kept up to date with the progress of event planning
@@ -38,6 +39,7 @@ Here are some examples of risks identified when organising an event such as the 
     - Not enough volunteers
     - Volunteers not fulfilling the tasks assigned to them
     - Feel unappreciated or excluded
+    - Do not turn up on the day
 
 - Budget
     - Insufficient budget (e.g. registration fees not set at the appropriate level)
