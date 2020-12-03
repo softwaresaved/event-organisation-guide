@@ -17,7 +17,7 @@ Event Organisation Guide
    eog/ideas-exploration-stage
    eog/feasibility-stage
    eog/event-project-stage-eps
-   eog/case-studies
+   eog/eog-in-practice
 
 =====
 About
