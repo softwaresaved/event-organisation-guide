@@ -8,7 +8,7 @@ Securing a suitable venue is one of the most critical aspects of an event and ca
 You can have a look in more detail at various venue requirements you should consider in the `venue requirements template document <https://doi.org/10.5281/zenodo.4064078>`_ and adjust it based on your own capacity and programme needs. Remember that venues may not meet all of your ideal requirements and you will have to prioritise what is a must, what would really help and what is optional for your particular event. Here we outline various aspects of venue requirements which you should consider and prioritise for an event.
 
 - Capacity
-    - The main plenary room's capacity should be double the number of delegates for a comfortable fit, and there should be enough rooms and spaces to support different event requirements
+    - The main plenary room's capacity should be sufficient to comfortably fit the number of delegates, and there should be enough rooms and spaces to support different event requirements
 - Areas that support additional event requirements
     - Registration, main plenary room, breakout rooms, communal/break space, poster/sponsor exhibition, storage, quiet space, workspace, video and photography, prayer room, etc.
 - Location
