@@ -68,5 +68,5 @@ Here are some examples of risks identified when organising an event such as the 
     - Lack of information or information dispersed at various locations
     - Lack of clearly stated policies and guidelines (e.g. Code of Conduct policy and breach reporting and handling procedures, privacy policy, contribution guide)
 
-See `the example risk management template <https://zenodo.org/record/4088024>`_ for more information on how to elaborate on identified risks, e.g. using the `if-then method for writing up risks <https://projectriskcoach.com/the-power-of-if-then-risk-statements/>`_ can help to formulate and infer mitigation plans.
+See `the example risk management template <https://doi.org/10.5281/zenodo.4088023>`_ for more information on how to elaborate on identified risks, e.g. using the `if-then method for writing up risks <https://projectriskcoach.com/the-power-of-if-then-risk-statements/>`_ can help to formulate and infer mitigation plans.
 

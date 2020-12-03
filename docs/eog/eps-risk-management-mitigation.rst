@@ -15,5 +15,5 @@ Common mitigations strategies fall into the following categories:
 - Limitation 
    - Plans are in place to limit the likelihood or impacts of the risk identified
 
-The `example risk template <https://zenodo.org/record/4088024>`_ contains risk mitigation plans for risks above the risk threshold in the example event.
+The `example risk template <https://doi.org/10.5281/zenodo.4088023>`_ contains risk mitigation plans for risks above the risk threshold in the example event.
 

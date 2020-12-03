@@ -5,7 +5,7 @@ Venue
 
 Securing a suitable venue is one of the most critical aspects of an event and can make the difference between a good and an excellent event. It is also (typically) the most expensive line in your :doc:`eps-budget`. 
 
-You can have a look in more detail at various venue requirements you should consider in the `venue requirements template document <https://zenodo.org/record/4064079>`_ and adjust it based on your own capacity and programme needs. Remember that venues may not meet all of your ideal requirements and you will have to prioritise what is a must, what would really help and what is optional for your particular event. Here we outline various aspects of venue requirements which you should consider and prioritise for an event.
+You can have a look in more detail at various venue requirements you should consider in the `venue requirements template document <https://doi.org/10.5281/zenodo.4064078>`_ and adjust it based on your own capacity and programme needs. Remember that venues may not meet all of your ideal requirements and you will have to prioritise what is a must, what would really help and what is optional for your particular event. Here we outline various aspects of venue requirements which you should consider and prioritise for an event.
 
 - Capacity
     - The main plenary room's capacity should be double the number of delegates for a comfortable fit, and there should be enough rooms and spaces to support different event requirements

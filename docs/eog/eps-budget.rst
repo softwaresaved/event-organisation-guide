@@ -4,9 +4,9 @@ Budget
 ======
 
 It is important to think about the budget very early on and have a budget outline ready in the :doc:`feasibility-stage`
-for the perusal of the (main) stakeholder(s). Such an outline should contain estimated income and outcome lines,
+for the perusal of the (main) stakeholder(s). Such an outline should contain estimated income and cost lines,
 as can be seen in an
-`example budget <https://zenodo.org/record/4071896>`_.
+`example budget <https://doi.org/10.5281/zenodo.4071895>`_.
 In the early stages, you should focus on the budget lines that
 are absolutely necessary and essential for the event to be delivered, for example:
 
