@@ -12,7 +12,7 @@ are absolutely necessary and essential for the event to be delivered, for exampl
 
 - estimates for the venue hire and catering
 - keynote speaker fees, travel and accommodation estimates (if applicable)
-- prizes estimate (e.g. for best paper, best poster, best hackday idea)
+- prizes estimate (e.g. for best paper, best poster, best hack day idea)
 - hiring poster boards (if you are hosting a poster session)
 - lanyards and badges
 - printing programmes (unless you are going paperless)

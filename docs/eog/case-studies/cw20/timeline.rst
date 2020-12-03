@@ -46,7 +46,7 @@ Communication
   - Links to the relevant Zoom room and note-taking document were sent via email through Eventbrite and Slack at the start of each day
    
 Resources
-  - We set up a uCONFLY instance for management of discussion group reports, mini-workship and demo session notes, collaborative ideas and Hackday ideas which also involved:
+  - We set up a uCONFLY instance for management of discussion group reports, mini-workship and demo session notes, collaborative ideas and hack day ideas which also involved:
    
     - Creating Google Doc templates for each of these document types
     - Generating a number of each document type for dissemination during CW20 so that participants would not have to login and use yet another platform
@@ -83,7 +83,7 @@ Ran event!
   - Overall, CW20 ran smoothly according to plan
   - Places where we feel we can improve include: 
   
-    - A smoother running of the Hackday: assigning co-host privileges to Hackday participants to allow them to move around breakout rooms was cumbersome  (although we note that as of Zoom version 5.3.1, there is now the option to allow participants to choose their breakout rooms) and participants found it difficult to break into sub-teams
+    - A smoother running of the Hack Day: assigning co-host privileges to Hack Day participants to allow them to move around breakout rooms was cumbersome  (although we note that as of Zoom version 5.3.1, there is now the option to allow participants to choose their breakout rooms) and participants found it difficult to break into sub-teams
     - Mingling, socialising and "hallway conversations" in online workshops 
 
 

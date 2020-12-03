@@ -17,7 +17,7 @@ It's important to plan what you will make available after the event.  For instan
 - Collaborative ideas
     - Making the final ideas available
 
-- Hackday
+- Hack day
     - Information about entries and winners
     - Team/Project name
     - Presentations

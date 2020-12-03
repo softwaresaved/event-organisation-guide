@@ -47,7 +47,7 @@ There are various outputs produced at the end of a workshop. For Collaborations 
 
 - Lightning talks
 - Keynote slides
-- Hackday entries
+- Hack day entries
 - Videos of the talks
 - An event report or analysis
 

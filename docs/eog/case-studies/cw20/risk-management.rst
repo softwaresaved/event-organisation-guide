@@ -214,7 +214,7 @@ The strategy we took to mitigate these risks included:
 - Add more breaks into the schedule
 - Add an icebreaker session each morning to allow participants to meet new people
 - Provide guidance for mini-workshop sessions, although we note to ask for more interaction in the future (and not comprise solely of presentation)
-- Reformulate Hackday and judging process
+- Reformulate Hack Day and judging process
 
 
 Venue and catering

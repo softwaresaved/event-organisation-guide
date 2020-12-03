@@ -14,7 +14,7 @@ Outputs
 
 - `Speed blog posts <https://software.ac.uk/tags/cw20-speed-blog-posts>`_ from the discussion sessions
 - `Collaborative ideas <https://software.ac.uk/cw20/collaborative-ideas-group>`_
-- Hackday
+- Hack day
 
     - `Information about entries and winners <https://software.ac.uk/cw20/hackday-entries-and-winners>`_
     - `Presentations <https://www.youtube.com/playlist?list=PLpX1jXuNTXGpBBfpZ93Uwas7FimQC2l1H>`_
