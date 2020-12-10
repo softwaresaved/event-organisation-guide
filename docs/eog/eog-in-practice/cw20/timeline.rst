@@ -154,4 +154,4 @@ Month 5 (August 2020)
 Month 6 (September 2020)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Event Organisation Guide In Practice indepth write up completed and reviewed
+- Event Organisation Guide In Practice in-depth write up completed and reviewed
