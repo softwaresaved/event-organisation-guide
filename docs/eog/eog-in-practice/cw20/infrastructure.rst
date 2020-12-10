@@ -75,4 +75,4 @@ Resources included that were used behind-the-scenes:
 Resources included that were participant-facing:
 
 - An example collaborative notes document (with agenda) to guide participants through the event, provide another pathway to engagement and compile questions, notes and outputs from the event.
-- The spreadsheets which we used to facilitate our unconference sessions (discussion groups, collaborative ideas and hack day).
+- The spreadsheets which we used to facilitate our unconference sessions (discussion groups, collaborative ideas and Hack Day).
