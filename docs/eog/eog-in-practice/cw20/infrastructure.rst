@@ -36,7 +36,7 @@ We decided to disable the Zoom chat (except for the case where participants coul
 A communication channel that persists outside the meeting is helpful for maintaining access to resources shared, referencing discussions and facilitating community engagement. 
 
 We created practical channels for event organisation and communication, such as a ``#help-desk`` channel for participants to direct their technical issues to, and private backchannels for the organisers, helpers, and Code of Conduct committee. 
-Participants were able to create channels for their discussion groups and hack day teams. 
+Participants were able to create channels for their discussion groups and Hack Day teams. 
 Slack also allowed for a more human and informal engagement through the creation of channels such as ``#pets-at-cw20``, ``#kids-at-cw20`` and ``#outside-my-window-cw20`` for sharing photos of our pets, children and working from home environment during lockdown.
 
 
