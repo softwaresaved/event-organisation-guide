@@ -46,7 +46,7 @@ Communication
   - Links to the relevant Zoom room and note-taking document were sent via email through Eventbrite and Slack at the start of each day
    
 Resources
-  - We set up a uCONFLY instance for management of discussion group reports, mini-workship and demo session notes, collaborative ideas and hack day ideas which also involved:
+  - We set up a uCONFLY instance for management of discussion group reports, mini-workshop and demo session notes, collaborative ideas and Hack Day ideas which also involved:
    
     - Creating Google Doc templates for each of these document types
     - Generating a number of each document type for dissemination during CW20 so that participants would not have to login and use yet another platform
