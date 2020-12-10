@@ -2,7 +2,7 @@
 
 Risk Assessment
 ===============
-At the time of evaluation, the risks identified should be ranked by their likelihood and impact. The likelihood refers to the probability of risks actually happening, while impact is the consequences if a potential risk happened.
+At the time of evaluation, the risks identified should be ranked by their likelihood and impact. The likelihood refers to the probability of risks actually happening, while impact is the consequences if a potential risk happens.
 
 The figure below illustrates the conceptual relationship between likelihood, impact and risk.
 
