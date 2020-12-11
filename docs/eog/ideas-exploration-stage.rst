@@ -16,7 +16,7 @@ Even at the Idea Exploration Stage, it should be possible to discuss the balance
 
 - Informing (e.g. speakers)
 - Exploring (e.g. discussion session)
-- Creating (e.g. Hackdays, Bring Your Own Data)
+- Creating (e.g. hack days, Bring Your Own Data)
 - Learning (e.g. Software Carpentry/Data Carpentry or other instructive approaches)
 - Networking (e.g. lunch/coffee and other social sessions)
 

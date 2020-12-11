@@ -5,7 +5,7 @@
 Collaborations Workshop 2020 (CW20) - Online 
 =============================================
 
-Case study authors: Rachael Ainsworth (`ORCID <http://orcid.org/0000-0003-2591-9462>`__) and Shoaib Sufi (`ORCID <https://orcid.org/0000-0001-6390-2616>`__)
+In Practice authors: Rachael Ainsworth (`ORCID <http://orcid.org/0000-0003-2591-9462>`__) and Shoaib Sufi (`ORCID <https://orcid.org/0000-0001-6390-2616>`__)
 
 The Collaborations Workshop (CW) is the annual flagship event of the `Software Sustainability Institute <www.software.ac.uk>`_. It brings together researchers, developers, innovators, managers, funders, publishers, leaders, and educators to explore and share best practice.
 
@@ -13,7 +13,9 @@ On 5 March - just over three weeks before `Collaborations Workshop 2020 (CW20) <
 
 CW is a highly interactive event with around 80-100 participants, designed to facilitate meeting as many new people as possible. With a global pandemic forcing us to stay at home, could we successfully recreate the experience online and with only three weeks to prepare? Given the amount of work that had already been put into organising the event, the decision was made on 10 March to move the event online and stick with the original dates: 31 March - 2 April.
 
-Here is how we did it. Note, the case study takes place just before our decision to go online and covers the steps in the Event Project Stage of the main Event Organisation Guide. We do not go into details about the face to face CW20 event that was planned. The case study runs until the resources after the workshop were made available. 
+Here is how we did it. Note, this Event Organisation Guide In Practice write up takes place just before our decision to go online and covers the steps in the Event Project Stage of the main Event Organisation Guide. We do not go into details about the face to face CW20 event that was planned. This indepth write up runs until the resources after the workshop were made available. 
+
+For a shorter case study that covers the move in summary please refer to the blog post `CW20: how to move an event online in three weeks <https://software.ac.uk/blog/2020-05-18-cw20-how-move-event-online-three-weeks>`_. 
 
 .. figure:: img/CW20_group_photo.png
   :alt: CW20 group photo
@@ -29,8 +31,7 @@ Here is how we did it. Note, the case study takes place just before our decision
    agenda
    publicity
    sponsorship
-   venue
-   catering 
+   venue-and-catering
    event-roles
    risk-management
    outputs-and-outcomes-plan 

@@ -21,11 +21,11 @@ This is a list of information from the Feasibility Stage which is needed for eva
     - The date needs to fit into the calendar of other events that are likely to affect the target audience.
     - The event should be at a time when accommodation is available. Things to consider here may include:
 
-        - Being outside of University term time,
-        - no other conflicting local events (e.g. football matches) as they tend to raise accommodation prices, and
-        - preferably not clashing with school holidays.
+        - Being outside of University term time
+        - Avoiding conflicts with local events (e.g. football matches) as they tend to raise accommodation prices
+        - Avoiding clashing with school holidays
 
-- A venue (`see an example venue specification <https://zenodo.org/record/4064079#.X6lf05P7Tlw>`_)
+- A venue (`see an example venue specification <https://doi.org/10.5281/zenodo.4064078>`_)
     - A specification of venue requirements should be put together.
     - Visits should be carried out before hiring a venue.
 
@@ -34,7 +34,7 @@ This is a list of information from the Feasibility Stage which is needed for eva
     - The venue should be checked for availability for the preferred dates.
     - A possible venue should be chosen (or a few choices shortlisted).
 
-- A budget (`see a budget example <https://zenodo.org/record/4071896>`_)
+- A budget (`see a budget example <https://doi.org/10.5281/zenodo.4071895>`_)
     - These should show estimated income lines, and estimated outgoing costs lines.
     - Best case, middle case and worst case cost projections should also be prepared.
 

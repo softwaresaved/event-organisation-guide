@@ -12,7 +12,7 @@ This caused a significant loss of income but the burden of any costs lost due to
 
 Costs for things that we had already paid for that would carry over into the virtual event:
 
-- Prizes for Collaborative Ideas and Hackday
+- Prizes for Collaborative Ideas and Hack Day
 
 Costs that were able to be deferred to a future date:
 

@@ -26,6 +26,7 @@ Here are some examples of risks identified when organising an event such as the 
 - Session chairs
     - Not enough session chairs
     - Ineffective chairing of the sessions
+    - Do not turn up on the day
 
 - Organising committee members
     - Not kept up to date with the progress of event planning
@@ -38,6 +39,7 @@ Here are some examples of risks identified when organising an event such as the 
     - Not enough volunteers
     - Volunteers not fulfilling the tasks assigned to them
     - Feel unappreciated or excluded
+    - Do not turn up on the day
 
 - Budget
     - Insufficient budget (e.g. registration fees not set at the appropriate level)
@@ -66,5 +68,5 @@ Here are some examples of risks identified when organising an event such as the 
     - Lack of information or information dispersed at various locations
     - Lack of clearly stated policies and guidelines (e.g. Code of Conduct policy and breach reporting and handling procedures, privacy policy, contribution guide)
 
-See `the example risk management template <https://zenodo.org/record/4088024>`_ for more information on how to elaborate on identified risks, e.g. using the `if-then method for writing up risks <https://projectriskcoach.com/the-power-of-if-then-risk-statements/>`_ can help to formulate and infer mitigation plans.
+See `the example risk management template <https://doi.org/10.5281/zenodo.4088023>`_ for more information on how to elaborate on identified risks, e.g. using the `if-then method for writing up risks <https://projectriskcoach.com/the-power-of-if-then-risk-statements/>`_ can help to formulate and infer mitigation plans.
 

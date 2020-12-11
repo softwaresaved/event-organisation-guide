@@ -27,7 +27,7 @@ Exploring
 
 This includes sessions that help people work together to explore solutions or identify problems:
 
-* Collaborative ideas or hackday ideas sessions,
+* Collaborative ideas or hack day ideas sessions,
 * Discussion sessions and speed blogging,
 * Q & A panels.
 
@@ -36,7 +36,7 @@ Creating
 
 This includes building things together:
 
-* Hackdays,
+* Hack days,
 * Bring your own data sessions,
 * Paper/standards generation.
 

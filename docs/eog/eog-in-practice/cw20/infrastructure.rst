@@ -31,12 +31,12 @@ We therefore obtained five Zoom Host accounts in total to accommodate this: one 
 Chat system
 ^^^^^^^^^^^^
 
-Although Zoom has the chat functionality, it can be distracting for hosts/speakers and difficult to manage when there are many participants using it. 
+Although Zoom has chat functionality, it can be distracting for hosts/speakers and difficult to manage when there are many participants using it. 
 We decided to disable the Zoom chat (except for the case where participants could communicate directly with the meeting host) and direct engagement and communication to the CW20 Slack workspace, as this would allow participants to connect even when the Zoom room is closed. 
 A communication channel that persists outside the meeting is helpful for maintaining access to resources shared, referencing discussions and facilitating community engagement. 
 
 We created practical channels for event organisation and communication, such as a ``#help-desk`` channel for participants to direct their technical issues to, and private backchannels for the organisers, helpers, and Code of Conduct committee. 
-Participants were able to create channels for their discussion groups and Hackday teams. 
+Participants were able to create channels for their discussion groups and Hack Day teams. 
 Slack also allowed for a more human and informal engagement through the creation of channels such as ``#pets-at-cw20``, ``#kids-at-cw20`` and ``#outside-my-window-cw20`` for sharing photos of our pets, children and working from home environment during lockdown.
 
 
@@ -75,4 +75,4 @@ Resources included that were used behind-the-scenes:
 Resources included that were participant-facing:
 
 - An example collaborative notes document (with agenda) to guide participants through the event, provide another pathway to engagement and compile questions, notes and outputs from the event.
-- The spreadsheets which we used to facilitate our unconference sessions (discussion groups, collaborative ideas and Hackday).
+- The spreadsheets which we used to facilitate our unconference sessions (discussion groups, collaborative ideas and Hack Day).

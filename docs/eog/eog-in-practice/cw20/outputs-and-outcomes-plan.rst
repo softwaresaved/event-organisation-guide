@@ -14,7 +14,7 @@ Outputs
 
 - `Speed blog posts <https://software.ac.uk/tags/cw20-speed-blog-posts>`_ from the discussion sessions
 - `Collaborative ideas <https://software.ac.uk/cw20/collaborative-ideas-group>`_
-- Hackday
+- Hack Day
 
     - `Information about entries and winners <https://software.ac.uk/cw20/hackday-entries-and-winners>`_
     - `Presentations <https://www.youtube.com/playlist?list=PLpX1jXuNTXGpBBfpZ93Uwas7FimQC2l1H>`_
@@ -54,5 +54,4 @@ On average, CW20 improved attendees' confidence in their understanding of Data P
 On average, CW20 improved attendees' confidence in their understanding of Software Sustainability from 4/5 to 4.3/5, an 8% increase.
 
 As CW20 took place online relatively early on in the pandemic, it had an impact on virtual events run by others, and the Institute was often consulted regarding the use of Zoom.
-
 

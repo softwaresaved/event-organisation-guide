@@ -184,7 +184,7 @@ As part of our contingency assessment, we calculated the financial risk and proj
 
 2. Move CW20 online
 
-   - We would have to ask sponsors
+   - We would need to seek sponsors' approval
    - We might lose some registrations
    - We would have to change what we charge from £250 for a full in-person ticket to £50 for an online pass to attend (to go towards invested staff time and prizes)
    - There would be no additional costs as we already had the video conferencing infrastructure in place
@@ -214,7 +214,7 @@ The strategy we took to mitigate these risks included:
 - Add more breaks into the schedule
 - Add an icebreaker session each morning to allow participants to meet new people
 - Provide guidance for mini-workshop sessions, although we note to ask for more interaction in the future (and not comprise solely of presentation)
-- Reformulate Hackday and judging process
+- Reformulate Hack Day and judging process
 
 
 Venue and catering
@@ -224,7 +224,6 @@ Major risks to changing the event at this late stage included the Institute's re
  
 To mitigate these risks, we arranged a call with the Belfast stakeholders to discuss the situation surrounding COVID-19 and possibly postponing the in-person event to a future date.
 We were exceedingly grateful that they agreed to postpone to a future date, with no charges for the changes to the room booking dates, audio/visual and catering. 
-Ultimately, further Government restrictions and lockdown measures throughout March would have prevented the event taking place in person if we had decided to go ahead with an in-person event.
 
 
 Communication
@@ -261,6 +260,6 @@ The strategy we took to mitigate these risks included:
 - Introduce Code of Conduct Committee at the start of each day
 - Ask participants not to publicly share any of the Zoom room links or collaborative documents which contain links to the Zoom rooms and Slack channel
 
-We note that we did not change our privacy policy or apply a license to our collaborative documents, which required us to "sanitise" them before sharing in compliance with GDPR.
+We note that we did not change our privacy policy or apply a license to our collaborative documents; thus to make them available after the event we had to remove personal identifiable information to be compliant with GDPR.
 In the future, it is worth considering having a privacy policy and license in place to enable easier sharing of these outputs, but this is a discussion for the Steering and Organising Committees and would need to be properly communicated to participants. 
 
