@@ -15,3 +15,9 @@ Please read [Technical Matters](https://github.com/softwaresaved/event-organisat
 
 ## License
 The EOG material is available under the Creative Commons Attribution 4.0 Licence. Please see the [human-readable summary](https://creativecommons.org/licenses/by/4.0/) of the CC BY 4.0 and the full [legal text](https://creativecommons.org/licenses/by/4.0/legalcode) for further information.
+
+## Cite
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4320609.svg)](https://doi.org/10.5281/zenodo.4320609)
+
+The SSI-EOG can be cited using the DOI [10.5281/zenodo.3970897](https://doi.org/10.5281/zenodo.4320609).
