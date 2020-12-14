@@ -14,4 +14,4 @@ We have a [Code of Conduct](https://github.com/softwaresaved/event-organisation-
 Please read [Technical Matters](https://github.com/softwaresaved/event-organisation-guide/blob/master/TECHNICAL_MATTERS.md) to help you get setup for local development of the EOG.
 
 ## License
-The EOG material is available under the Creative Commons Attribution-NonCommercial 4.0 Licence. Please see the [human-readable summary](https://creativecommons.org/licenses/by-nc/4.0/) of the CC BY-NC 4.0 and the full [legal text](https://creativecommons.org/licenses/by-nc/4.0/legalcode) for further information.
+The EOG material is available under the Creative Commons Attribution 4.0 Licence. Please see the [human-readable summary](https://creativecommons.org/licenses/by/4.0/) of the CC BY 4.0 and the full [legal text](https://creativecommons.org/licenses/by/4.0/legalcode) for further information.
