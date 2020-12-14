@@ -18,6 +18,6 @@ The EOG material is available under the Creative Commons Attribution 4.0 Licence
 
 ## Cite
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4320609.svg)](https://doi.org/10.5281/zenodo.4320609)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3970897.svg)](https://doi.org/10.5281/zenodo.3970897)
 
-The SSI-EOG can be cited using the DOI [10.5281/zenodo.3970897](https://doi.org/10.5281/zenodo.4320609).
+The SSI-EOG can be cited using the DOI [10.5281/zenodo.3970897](https://doi.org/10.5281/zenodo.3970897).
