@@ -13,8 +13,8 @@ The Collaborations Workshop (CW) is the annual flagship event of the `Software S
   :alt: CW21 group photo
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Sections:
 
-   feasibility-stage
+   feasibility-stage/feasibility-stage
    event-project-stage
