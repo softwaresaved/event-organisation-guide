@@ -12,3 +12,4 @@ CW21 Feasibility Stage
    fs-goals-and-objectives
    fs-audience
    fs-date
+   fs-venue
