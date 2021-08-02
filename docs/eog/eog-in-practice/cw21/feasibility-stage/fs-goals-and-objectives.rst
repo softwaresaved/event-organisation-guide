@@ -1,4 +1,4 @@
-Goals and Objectives for CW21
+CW21 Goals and Objectives
 =============================
 
 What we hope to achieve by running the event (goals) and a set of measurable steps towards achieving our goals (objectives).
