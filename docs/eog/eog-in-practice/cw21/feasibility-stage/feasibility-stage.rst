@@ -6,7 +6,7 @@ CW21 Feasibility Stage
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Sections:
 
    fs-goals-and-objectives

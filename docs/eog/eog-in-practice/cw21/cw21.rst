@@ -17,4 +17,4 @@ The Collaborations Workshop (CW) is the annual flagship event of the `Software S
    :caption: Sections:
 
    feasibility-stage/feasibility-stage
-   event-project-stage
+   event-project-stage/event-project-stage
