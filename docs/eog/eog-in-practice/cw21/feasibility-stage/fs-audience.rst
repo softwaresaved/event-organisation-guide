@@ -26,6 +26,7 @@ FAIR Research Software
 - Open Science/Research advocates
 
 Example communities:
+
 - `NL eScience Centre <https://www.esciencecenter.nl/>`_
 - `UoM eScience Lab <https://esciencelab.org.uk/>`_
 - `RDA FAIR4RS Working Group <https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg>`_
@@ -44,6 +45,7 @@ Diversity and Inclusion
 - Grassroots groups
 
 Example communities:
+
 - `The Carpentries <https://carpentries.org/>`_
 - `CSCCE <https://www.cscce.org/>`_
 - `UKRI <https://www.ukri.org/about-us/equality-diversity-and-inclusion/>`_
@@ -60,6 +62,7 @@ Software Sustainability
 - Funders
 
 Example communities:
-- `RSE <https://society-rse.org/>`_ (UK, US, NL, DE, etc...>`_
+
+- `RSE <https://society-rse.org/>`_ (UK, US, NL, DE, etc...)
 - `eLife <https://elifesciences.org/>`_
 - `JOSS <https://joss.theoj.org/>`_
