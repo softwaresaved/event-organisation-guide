@@ -47,8 +47,7 @@ Diversity
 
 Goals
  - Improve accessibility from CW20. 
- - Increase diversity and representation from CW20 (race, gender, career stage, role, location,
-etc.). 
+ - Increase diversity and representation from CW20 (race, gender, career stage, role, location, etc.). 
  - Increase opportunities for community members who are unable to attend to engage with the discussions.
 
 Objectives

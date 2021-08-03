@@ -223,7 +223,7 @@ Committees
     
   - Organising
   
-      - Duties roster and signup
+    - Duties roster and signup
 
 Communication
   - Contact mini-workshop facilitators with guidelines
