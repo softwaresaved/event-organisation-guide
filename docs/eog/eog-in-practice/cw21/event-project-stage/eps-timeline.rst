@@ -36,6 +36,7 @@ Committees
     - Reach out to possible members and let them know about commitments and role
     - Create Doodle Poll for 1st meeting 
     - Schedule 1st meeting 
+    
   - Organising
   
     - Reach out to possible members and let them know about commitments and role
@@ -312,7 +313,7 @@ Feedback
   - Held a feedback prize draw to thank them for taking the time
 
 Resources
-  - Promoted the use of the `Figshare conference portal <https://ssi-cw.figshare.com/>>`_ to share CW21 outputs
+  - Promoted the use of the `Figshare conference portal <https://ssi-cw.figshare.com/>`_ to share CW21 outputs
   - Chased speakers for any un-captured resources
   - Collected Zoom recordings from the Hosts/Co-Hosts of each session
 
