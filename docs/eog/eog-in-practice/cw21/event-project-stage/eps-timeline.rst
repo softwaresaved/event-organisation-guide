@@ -10,12 +10,12 @@ Feasibility stage
 Month -8: August 2020
 ^^^^^^^^^^^^^^^^^^^^^^
 
-- Draft :doc:`fs-goals-and-objectives`  
-- Draft :doc:`fs-venue` 
-- Draft :doc:`fs-date` 
-- Draft :doc:`fs-audience` 
+- Draft :doc:`../feasibility-stage/fs-goals-and-objectives`  
+- Draft :doc:`../feasibility-stage/fs-venue` 
+- Draft :doc:`../feasibility-stage/fs-date` 
+- Draft :doc:`../feasibility-stage/fs-audience` 
 - Draft CW21 Budget  
-- Draft :doc:`fs-outputs-and-outcomes`  
+- Draft :doc:`../feasibility-stage/fs-outputs-and-outcomes`  
 
 
 Month -6: October 2020
