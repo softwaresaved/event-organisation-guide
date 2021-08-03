@@ -47,8 +47,8 @@ Month -6: October 2020
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Website  
-  - Create `event landing page <https://software.ac.uk/cw21`_
-  - Create a `registration of interest form <https://docs.google.com/forms/d/e/1FAIpQLSebwyb4Fj8-BEMfsdRmT_DZgQjIu1cbpjZEn4XXK_wOxF1baw/viewform?usp=sf_link`_ 
+  - Create `event landing page <https://software.ac.uk/cw21>`_
+  - Create a `registration of interest form <https://docs.google.com/forms/d/e/1FAIpQLSebwyb4Fj8-BEMfsdRmT_DZgQjIu1cbpjZEn4XXK_wOxF1baw/viewform?usp=sf_link>`_ 
   - Draft Sponsorship packages
 Committees
   - Steering 
@@ -211,8 +211,8 @@ Hack Day
   - Order prizes
 Infrastructure
   - Procure transcription / captioning licenses
-  - Procure any additional platforms as needed (Sli.do Professional, `Restream <http://restream.io/`_ Professional)
-  - Set up `Figshare conference portal <https://ssi-cw.figshare.com/>`_
+  - Procure any additional platforms as needed (Sli.do Professional, `Restream <http://restream.io/>`_ Professional)
+  - Set up `Figshare conference portal <https://ssi-cw.figshare.com/>>`_
   - Create collaborative notes documents for:
     - Day 1
     - Day 2
@@ -262,7 +262,7 @@ Feedback
   - Sent a reminder email a few weeks later
   - Held a feedback prize draw to thank them for taking the time
 Resources
-  - Promoted the use of the `Figshare conference portal <https://ssi-cw.figshare.com/>`_ to share CW21 outputs
+  - Promoted the use of the `Figshare conference portal <https://ssi-cw.figshare.com/>>`_ to share CW21 outputs
   - Chased speakers for any un-captured resources
   - Collected Zoom recordings from the Hosts/Co-Hosts of each session
 
@@ -270,8 +270,8 @@ Month 2: May 2021
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Publicity
-  - Published a `session facilitator’s experience of their CW21 mini-workshop <https://software.ac.uk/blog/2021-05-13-do-not-make-it-new-reusing-research-software-and-tools-digital-humanities`_
-  - Published a `blog post with highlights <https://software.ac.uk/blog/2021-05-24-highlights-collaborations-workshop-2021`_ from the event
+  - Published a `session facilitator’s experience of their CW21 mini-workshop <https://software.ac.uk/blog/2021-05-13-do-not-make-it-new-reusing-research-software-and-tools-digital-humanities>`_
+  - Published a `blog post with highlights <https://software.ac.uk/blog/2021-05-24-highlights-collaborations-workshop-2021>`_ from the event
 Resources
   - Contacted speed-blog authors and connected them with the Communications Team for publication to the SSI blog
     - 3/16 discussion groups’ speed blogs published
@@ -285,7 +285,7 @@ Month 3: June 2021
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Publicity
-  - Published another `session facilitator’s experience of their CW21 mini-workshop <https://software.ac.uk/blog/2021-06-10-rse-landscape`_
+  - Published another `session facilitator’s experience of their CW21 mini-workshop <https://software.ac.uk/blog/2021-06-10-rse-landscape>`_
   - Announce availability of 
     - Videos
     - Any other resources
@@ -293,7 +293,7 @@ Publicity
 Resources
   - 23/43 videos processed
   - 5/16 discussion groups’ speed blogs published
-  - Began working on the `EOG In Practice <https://github.com/softwaresaved/event-organisation-guide/pull/79`_
+  - Began working on the `EOG In Practice <https://github.com/softwaresaved/event-organisation-guide/pull/79>`_
 Website
   - Updated language of event website to show that it was in the past
   - Create Collaborative Ideas groups page 
