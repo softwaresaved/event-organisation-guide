@@ -10,3 +10,4 @@ CW21 Event Project Stage
    :caption: Sections:
 
    eps-infrastructure
+   eps-timeline
