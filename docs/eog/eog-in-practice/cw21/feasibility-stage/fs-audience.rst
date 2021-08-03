@@ -15,7 +15,7 @@ We also aim to engage people in other timezones in the discussions through socia
 Below we discuss specific audiences, communities and job roles to target related to the themes of CW21. We will encourage connections within these communities to reach out to their communities so that the recommendation/promotion comes from a trusted member and is more likely to be actioned.
 
 FAIR Research Software
-~~~~~~
+--------------------
 
 - Funders
 - Policy makers
@@ -26,7 +26,6 @@ FAIR Research Software
 - Open Science/Research advocates
 
 Example communities:
-
 - `NL eScience Centre <https://www.esciencecenter.nl/>`_
 - `UoM eScience Lab <https://esciencelab.org.uk/>`_
 - `RDA FAIR4RS Working Group <https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg>`_
@@ -36,7 +35,7 @@ Example communities:
 
 
 Diversity and Inclusion
-~~~~~~
+--------------------
 
 - Community Managers
 - Recruiters
@@ -45,7 +44,6 @@ Diversity and Inclusion
 - Grassroots groups
 
 Example communities:
-
 - `The Carpentries <https://carpentries.org/>`_
 - `CSCCE <https://www.cscce.org/>`_
 - `UKRI <https://www.ukri.org/about-us/equality-diversity-and-inclusion/>`_
@@ -54,7 +52,7 @@ Example communities:
 
 
 Software Sustainability
-~~~~~~
+--------------------
 
 - Developers
 - Researchers
@@ -62,7 +60,6 @@ Software Sustainability
 - Funders
 
 Example communities:
-
 - `RSE <https://society-rse.org/>`_ (UK, US, NL, DE, etc...)
 - `eLife <https://elifesciences.org/>`_
 - `JOSS <https://joss.theoj.org/>`_

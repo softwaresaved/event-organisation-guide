@@ -9,7 +9,7 @@ That is, whether a report will be written, videos of the sessions or any other r
 
 
 Outputs
-~~~~~~~~~~~
+--------------------
 
 - Recordings of the sessions shared via the SSI Youtube channel
 - Closed captioning, transcriptions
@@ -23,7 +23,7 @@ Outputs
 
 
 Outcomes
-~~~~~~~~~~~
+--------------------
 
 - Facilitation of new collaborations between participants (e.g. increased participation in FAIR 4RS working group)
 - Outputs are more widely shared, increasing impact of discussions and visibility of CW/SSI
