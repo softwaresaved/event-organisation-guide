@@ -8,6 +8,8 @@ However, we also ended up using many additional platforms to achieve our goals.
 Platforms 
 -------------
 
+We used the following platforms to help us organise and run the event.
+
 Event management 
 ^^^^^^^^^^^^^^^^^^^
 
@@ -83,3 +85,38 @@ Collaborative documenting
   - Although we chose Google Docs because it has a low barrier to accessibility (no need to log in or register and you do not need to know specific syntax or markdown language), participants using screen readers or voice control had difficulty using it (we empowered them to use any platform that worked best for their needs, and `HackMD <https://hackmd.io>`_ seemed to work better for these cases).
 
 
+Resources
+----------
+
+We created the following infrastructure resources to help us manage the event.
+
+Organiser-facing
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- An index of links to documentation and event resources for organisers to easily navigate on the day.
+- A duties roster with assignments, lists and descriptions of the roles and responsibilities.
+- A spreadsheet for the mini-workshop and demo sessions assignments with links to the Zoom rooms, notes documents, and live transcriptions for the parallel sessions.
+- Zoom instructions for the hosts and co-hosts of the parallel sessions.
+- A checklist for the event chair of what tasks need to be done before and at the start of the event (such as a reminder to send the connection details, assign co-hosts, record the event and take a group photo). 
+- A checklist for the event chair of how to set up the live stream during the event (a complicated procedure involving steps in Zoom, YouTube, Otter, and Restream). 
+- A speaker guide to help the keynote speakers with their recordings. 
+- A spreadsheet to facilitate Hack Day judging and scoring. 
+
+Participant-facing
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Collaborative notes documents for each day of the event (with agenda) to guide participants through the event, provide another pathway to engagement and compile questions, notes and outputs from the event:
+
+  - `CW21 Day 1 Notes <http://bit.ly/ssi-cw21-day1-notes>`_
+  - `CW21 Day 2 Notes <http://bit.ly/ssi-cw21-day2-notes>`_
+  - `CW21 Hack Day Notes <http://bit.ly/ssi-cw21-hack-day-notes>`_
+
+- Collaborative notes documents for the icebreaker sessions with prompts and space to share responses.
+- A template document for the Discussion group session and 26 instances generated in uCONFLY.
+- A template document for the Collaborative Ideas session and 26 instances generated in uCONFLY.
+- A template document for the Mini-workshop and demo sessions and 10 instances generated in uCONFLY.
+- A template document for the Hack Day pitches and 26 instances generated in uCONFLY.
+- A spreadsheet to collate the Discussion group session topics and documents, and facilitate group sign-up. 
+- A spreadsheet to collate the Collaborative Ideas session documents and facilitate voting. 
+- A spreadsheet to collate the Hack Day pitch documents.
+- A spreadsheet to facilitate Hack Day teams registration and sign-up.  
