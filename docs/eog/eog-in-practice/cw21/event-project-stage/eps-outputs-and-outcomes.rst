@@ -6,7 +6,7 @@ Outputs
 --------------------
 
 - `Recordings of the sessions shared via the SSI Youtube channel <https://software.ac.uk/news/videos-collaborations-workshop-2021-now-online>`_
-
+  
   - `Full event playlist <https://youtube.com/playlist?list=PLpX1jXuNTXGoHfdi8EyIdnS_FmZyxu0Fu>`_
   - `Keynote presentations live stream <https://youtu.be/8viA4y1pz_8>`_
   - `Panel live stream <https://youtu.be/65a8c06VHOY>`_
@@ -15,9 +15,8 @@ Outputs
   - `Mini-workshop and demo sessions playlist <https://youtube.com/playlist?list=PLpX1jXuNTXGrQCMttLnX1pH0B_sWkmG5v>`_ 
   - `Hack Day demos playlist <https://youtube.com/playlist?list=PLpX1jXuNTXGp1bQT-jWviNgfFUIYDUu0W>`_ 
 
-- Closed captioning, transcriptions
 - `Blog posts from the discussion session <https://software.ac.uk/tags/cw21-speed-blog-posts>`_
-
+  
   1. `Implementing FAIR for research software: attitudes, advantages and challenges (part one) <https://software.ac.uk/blog/2021-05-19-implementing-fair-research-software-attitudes-advantages-and-challenges-part-one>`_
   2. `Implementing FAIR for research software: attitudes, advantages and challenges (part two) <https://software.ac.uk/blog/2021-05-20-implementing-fair-research-software-attitudes-advantages-and-challenges-part-two>`_
   3. `What are the formats, tools and techniques for harvesting metadata from software repositories? <https://software.ac.uk/blog/2021-05-20-what-are-formats-tools-and-techniques-harvesting-metadata-software-repositories>`_
@@ -29,9 +28,9 @@ Outputs
   9. `Coding Clubs For Research Software Communities: Questions to Consider (Part One) <https://software.ac.uk/blog/2021-07-12-coding-clubs-research-software-communities-questions-consider-part-one>`_
   10. `Coding Clubs For Research Software Communities: Questions to Consider (Part Two) <https://software.ac.uk/blog/2021-07-13-coding-clubs-research-software-communities-questions-consider-part-two>`_
   11. `Six tips for building communities of practice <https://software.ac.uk/blog/2021-08-03-six-tips-building-communities-practice>`_
-
+  
 - Collaborative Ideas documents
-
+  
   1. `User centred design principles for research apps / citizen science <https://bit.ly/38P7JeH>`_
   2. `Research Software Sustainability Concordat <https://bit.ly/3rXno32>`_
   3. `Dugnads for Research <https://bit.ly/38NEkl6>`_
@@ -47,53 +46,52 @@ Outputs
   13. `Skills wheel for RSEs <https://bit.ly/30V2Goq>`_
   14 `Bursting the Bubble: Teaching PIs the value of good code <https://bit.ly/30UhrYS>`_ (tied 2nd place winners)
   15. `Open Source Covid Analysis of References (OSCAR) <https://bit.ly/3rREgYV>`_
-
+  
 - Hack Day projects
-
+  
   1. HowDescribedIs
-  
-    - `GitHub action <https://github.com/KnowledgeCaptureAndDiscovery/somef-github-action>`_
-    - `Test GitHub repository <https://github.com/c-martinez/test-tool>`_ 
-    - `Automatically generated pull request <https://github.com/c-martinez/test-tool/pull/16>`_
-  
+     
+     - `GitHub action <https://github.com/KnowledgeCaptureAndDiscovery/somef-github-action>`_
+     - `Test GitHub repository <https://github.com/c-martinez/test-tool>`_ 
+     - `Automatically generated pull request <https://github.com/c-martinez/test-tool/pull/16>`_
+     
   2. Coding Confessions (2nd place winners)
-  
-    - `Website <https://coding-confessions.github.io/>`_
+     
+     - `Website <https://coding-confessions.github.io/>`_
     
   3. Research Dugnads (tied 3rd place winners)
-  
-    - `Website <https://research-dugnads.github.io/dugnads-hq/>`_
-  
+     
+     - `Website <https://research-dugnads.github.io/dugnads-hq/>`_
+     
   4. Escape room
-  
-    - `Website <https://lostrses.github.io/escape-room/>`_
-    - `GitHub repository <https://github.com/lostRSEs/escape-room>`_ 
-    - `Presentation <https://docs.google.com/presentation/d/1AJXAOy7JUoPS5QZOnflWN70Q8M51iyHmZubt_CfWiTI/edit?usp=sharing>`_ 
-  
+     
+     - `Website <https://lostrses.github.io/escape-room/>`_
+     - `GitHub repository <https://github.com/lostRSEs/escape-room>`_ 
+     - `Presentation <https://docs.google.com/presentation/d/1AJXAOy7JUoPS5QZOnflWN70Q8M51iyHmZubt_CfWiTI/edit?usp=sharing>`_ 
+     
   5. CarpenPi (1st place winners)
-  
-    - `Organisation page on GitHub <https://github.com/CarpenPi>`_ 
-    - `Workshop leader training material <https://carpenpi.github.io/TrainTrainers/>`_ 
-    - `Project wiki for project documentation <https://github.com/CarpenPi/docs/wiki>`_ 
-    - `Presentation <https://github.com/CarpenPi/CollabW21-Demo-Presentation>`_ 
-  
+     
+     - `Organisation page on GitHub <https://github.com/CarpenPi>`_ 
+     - `Workshop leader training material <https://carpenpi.github.io/TrainTrainers/>`_ 
+     - `Project wiki for project documentation <https://github.com/CarpenPi/docs/wiki>`_ 
+     - `Presentation <https://github.com/CarpenPi/CollabW21-Demo-Presentation>`_ 
+     
   6. Habeas Corpus (tied 3rd place winners)
-  
-    - `GitHub repository <https://github.com/softwaresaved/habeas-corpus>`_
-  
+     
+     - `GitHub repository <https://github.com/softwaresaved/habeas-corpus>`_
+     
   7. Software Twilight 
-  
-    - `GitHub repository <https://github.com/elichad/software-twilight>`_ (spawn a Binder session to see it in action)
-    - `Collaborative notes <https://hackmd.io/VjwTM8O8TFC2cVYK3c0QGw>`_
-  
+     
+     - `GitHub repository <https://github.com/elichad/software-twilight>`_ (spawn a Binder session to see it in action)
+     - `Collaborative notes <https://hackmd.io/VjwTM8O8TFC2cVYK3c0QGw>`_
+     
   8. Credit All
   9. Exploring past CW ideas (special mention)
-  
-    - `Website <https://robintw.github.io/CW-ideas/https://github.com/robintw/CW-ideas/>`_
-    - `GitHub repository <https://github.com/robintw/CW-ideas>`_ 
-    - `Presentation <https://docs.google.com/presentation/d/1GOjaNzfhDBwjr1lmJOlYjHYNzxpctGAla5PxpZDzOIQ/edit#slide=id.p>`_
-
-
+     
+     - `Website <https://robintw.github.io/CW-ideas/https://github.com/robintw/CW-ideas/>`_
+     - `GitHub repository <https://github.com/robintw/CW-ideas>`_ 
+     - `Presentation <https://docs.google.com/presentation/d/1GOjaNzfhDBwjr1lmJOlYjHYNzxpctGAla5PxpZDzOIQ/edit#slide=id.p>`_
+     
 - All slides and other outputs shared via the `Figshare conference portal <https://ssi-cw.figshare.com/>`_
 - `A highlights blog post on the SSI website <https://software.ac.uk/blog/2021-05-24-highlights-collaborations-workshop-2021>`_
 - Collaborative notes documents and other unconference infrastructure resources shared
