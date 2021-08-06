@@ -11,4 +11,5 @@ CW21 Event Project Stage
 
    eps-infrastructure
    eps-timeline
+   eps-budget
    eps-outputs-and-outcomes
