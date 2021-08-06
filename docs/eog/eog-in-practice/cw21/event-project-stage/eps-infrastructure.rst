@@ -1,7 +1,9 @@
+.. _cw21-eps-infrastructure: 
+
 CW21 Infrastructure
 ====================
 
-As our primary :doc:`../feasibility-stage/fs-goals-and-objectives` were to build off of CW20 and focus on improving aspects around socialising, networking, accessibility and inclusion, we kept much of the :doc:`../../cw20/infrastructure`. 
+As our primary :ref:`cw21-fs-goals-and-objectives` were to build off of CW20 and focus on improving aspects around socialising, networking, accessibility and inclusion, we kept much of the :ref:`cw21-infrastructure`. 
 However, we also ended up using many additional platforms to achieve our goals.
 
 

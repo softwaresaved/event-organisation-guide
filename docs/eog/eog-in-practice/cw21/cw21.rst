@@ -1,4 +1,4 @@
-.. _CW21:
+.. _cw21:
 
 .. Comment - `Link text <https://domain.invalid/>`_
 

@@ -1,4 +1,4 @@
-.. _CW21-Event-Project-Stage:
+.. _cw21-event-project-stage:
 
 CW21 Event Project Stage 
 ===================
@@ -12,4 +12,5 @@ CW21 Event Project Stage
    eps-infrastructure
    eps-timeline
    eps-budget
+   eps-committees
    eps-outputs-and-outcomes

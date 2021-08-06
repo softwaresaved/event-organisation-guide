@@ -1,3 +1,5 @@
+.. _cw21-eps-outputs-and-outcomes: 
+
 CW21 Outputs and Outcomes 
 ==========================
 
@@ -119,7 +121,7 @@ Outputs
    - `CW21 Day 2 Notes <http://bit.ly/ssi-cw21-day2-notes>`_
    - `CW21 Hack Day Notes <http://bit.ly/ssi-cw21-hack-day-notes>`_
 
-- Feedback into Event Organisation Guide (this In Practice on :doc:`../cw21`)
+- Feedback into Event Organisation Guide (this In Practice on :ref:`cw21`)
 - Any sponsor outputs (e.g. Tweets, videos, etc.)
 
    - `News item announcing Platinum Sponsor <https://software.ac.uk/news/wellcome-trust-sponsor-collaborations-workshop-2021>`_

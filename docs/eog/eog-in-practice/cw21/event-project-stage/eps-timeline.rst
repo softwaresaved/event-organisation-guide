@@ -1,3 +1,5 @@
+.. _cw21-eps-timeline: 
+
 CW21 Timeline
 ===============
 
@@ -10,12 +12,12 @@ Feasibility stage
 Month -8: August 2020
 ^^^^^^^^^^^^^^^^^^^^^^
 
-- Draft :doc:`../feasibility-stage/fs-goals-and-objectives`  
-- Draft :doc:`../feasibility-stage/fs-venue` 
-- Draft :doc:`../feasibility-stage/fs-date` 
-- Draft :doc:`../feasibility-stage/fs-audience` 
+- Draft :ref:`cw21-fs-goals-and-objectives`  
+- Draft :ref:`cw21-fs-venue` 
+- Draft :ref:`cw21-fs-date` 
+- Draft :ref:`cw21-fs-audience` 
 - Draft CW21 Budget  
-- Draft :doc:`../feasibility-stage/fs-outputs-and-outcomes`  
+- Draft :ref:`cw21-fs-outputs-and-outcomes`  
 
 
 Month -6: October 2020
