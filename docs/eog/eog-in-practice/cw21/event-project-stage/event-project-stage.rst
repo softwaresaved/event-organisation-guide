@@ -13,4 +13,7 @@ CW21 Event Project Stage
    eps-timeline
    eps-budget
    eps-committees
+   eps-agenda
+   eps-publicity
+   eps-sponsorship
    eps-outputs-and-outcomes
