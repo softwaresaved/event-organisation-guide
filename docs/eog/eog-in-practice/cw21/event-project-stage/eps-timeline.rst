@@ -254,7 +254,7 @@ Hack Day
 Infrastructure
   - Procure transcription / captioning licenses
   - Procure any additional platforms as needed (Sli.do Professional, `Restream <http://restream.io/>`_ Professional)
-  - Set up `Figshare conference portal <https://ssi-cw.figshare.com/>>`_
+  - Set up `Figshare conference portal <https://ssi-cw.figshare.com/>`_
   - Create collaborative notes documents for:
   
     - Day 1
