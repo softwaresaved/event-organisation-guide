@@ -24,3 +24,18 @@ Organising Committee members worked to
 
 Code of Conduct Committee
 --------------------------
+
+The CW21 Code of Conduct (CoC) Committee comprised of three members who were Institute staff and two external. 
+There was a mix of gender, race and career stage within the Committee to provide a range of options for participants to choose who they felt most comfortable reporting to.
+Two members of the Committee had participated in `Code of Conduct Incident Response training <https://otter.technology/code-of-conduct-training/>`_. 
+
+Before the event, we sent the following to CoC Committee members to read through and raise any issues or questions:
+
+- The `Code of Conduct <https://software.ac.uk/cw21/participation-guidelines#code-of-conduct>`_
+- The `Attendee Procedure for Reporting Harassment <https://software.ac.uk/cw21/participation-guidelines/harassment-reporting-procedure>`_
+- The `Staff Procedure For Handling Reported Harassment <https://software.ac.uk/cw21/participation-guidelines/staff-procedure-handling-reported-harassment>`_
+
+All of these materials were made available within the `CW21 Participation Guidelines <https://software.ac.uk/cw21/participation-guidelines>`_ which participants had to have read and agreed to abide by at registration.  
+
+During the event, we had a private Slack channel in the CW21 Slack workspace for CoC Committee members in case any incidents arose.
+No misconduct was reported from CW21.
