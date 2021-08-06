@@ -7,7 +7,7 @@ Steering Committee
 -------------------
 
 The CW21 Steering Committee comprised of representatives from the Institute, the workshop sponsors, experts in virtual event organisation, and experts in FAIR Research Software, Diversity and Inclusion, and Software Sustainability (the workshop themes). 
-Members helped to guide the agenda and direction of the workshop (recommending speakers and session types), provided advice for running the event (recommending platforms and how to improve accessibility) and contributed to many of the workshop sessions.
+We held monthly meetings where members helped to guide the agenda and direction of the workshop (recommending speakers and session types), provided advice for running the event (recommending platforms and how to improve accessibility) and contributed to many of the workshop sessions.
 
 
 Organising Committee
