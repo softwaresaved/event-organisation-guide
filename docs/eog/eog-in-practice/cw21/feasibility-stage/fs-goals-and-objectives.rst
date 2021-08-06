@@ -1,3 +1,5 @@
+.. _cw21-fs-goals-and-objectives:
+
 CW21 Goals and Objectives
 =============================
 

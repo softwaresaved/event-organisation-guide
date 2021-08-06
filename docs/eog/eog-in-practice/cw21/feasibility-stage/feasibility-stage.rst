@@ -1,4 +1,4 @@
-.. _CW21-Feasibility-Stage:
+.. _cw21-feasibility-stage:
 
 CW21 Feasibility Stage 
 ===================
