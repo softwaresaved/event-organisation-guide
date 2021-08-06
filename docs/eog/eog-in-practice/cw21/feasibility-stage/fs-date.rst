@@ -3,7 +3,7 @@
 CW21 Date 
 ===========
 
-The date needs to fit into the calendar of other events that are likely to affect the :doc:`fs-audience`. 
+The date needs to fit into the calendar of other events that are likely to affect the :ref:`cw21-fs-audience`. 
 Things to consider here may include being outside of University term time and preferably not clashing with school holidays for those with caring responsibilities.
 Bank holidays and religious holidays should also inform the decision.
 
