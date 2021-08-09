@@ -30,6 +30,7 @@ Outputs
    9. `Coding Clubs For Research Software Communities: Questions to Consider (Part One) <https://software.ac.uk/blog/2021-07-12-coding-clubs-research-software-communities-questions-consider-part-one>`_
    10. `Coding Clubs For Research Software Communities: Questions to Consider (Part Two) <https://software.ac.uk/blog/2021-07-13-coding-clubs-research-software-communities-questions-consider-part-two>`_
    11. `Six tips for building communities of practice <https://software.ac.uk/blog/2021-08-03-six-tips-building-communities-practice>`_
+   12. `How do you help build intermediate software engineering skills and help people go beyond the basics? <https://software.ac.uk/blog/2021-08-09-how-do-you-help-build-intermediate-software-engineering-skills-and-help-people-go>`_
    
 - Collaborative Ideas documents
    
