@@ -343,15 +343,10 @@ Month 3: June 2021
 
 Publicity
   - Published another `session facilitator’s experience of their CW21 mini-workshop <https://software.ac.uk/blog/2021-06-10-rse-landscape>`_
-  - Announce availability of 
-  
-    - Videos
-    - Any other resources
-    - News of any follow-on event (with location & dates if available)
 
 Resources
-  - 23/43 videos processed
-  - 5/16 discussion groups’ speed blogs published
+  - 43/43 videos processed
+  - 6/16 discussion groups’ speed blogs published
   - Began working on the `EOG In Practice <https://github.com/softwaresaved/event-organisation-guide/pull/79>`_
 
 Website
@@ -359,3 +354,19 @@ Website
   - Create Collaborative Ideas groups page 
   - Create Hack Day groups page 
 
+
+Month 4: July 2021
+^^^^^^^^^^^^^^^^^^^^^^
+
+Publicity
+  - Announced `availability of session recordings <https://software.ac.uk/news/videos-collaborations-workshop-2021-now-online>`_
+
+Resources
+  - 8/16 discussion groups’ speed blogs published
+
+
+Month 5: August 2021
+^^^^^^^^^^^^^^^^^^^^^^
+
+Resources
+  - 10/16 discussion groups’ speed blogs published
