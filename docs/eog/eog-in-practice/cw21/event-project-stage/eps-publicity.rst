@@ -10,7 +10,7 @@ Before the event
 
 .. csv-table:: Publicity content plan
    :header: "Round", "Week of", "Content", "Published links"
-   :widths: 5, 10, 20, 20
+   :widths: "auto"
 
    1, 2020-10-12, "News item: Collaborations Workshop 2021 (CW21) - Save the date!", "`Website <https://software.ac.uk/news/save-date-collaborations-workshop-2021>`_, `Twitter <https://twitter.com/SoftwareSaved/status/1316663855943122945?s=20>`_, `LinkedIn <https://www.linkedin.com/posts/software-sustainability-institute_collabw21-activity-6722076038723100672--f4c>`_"
    2, 2020-11-16, "News item: Registration open for Collaborations Workshop 2021", "`Website <https://software.ac.uk/news/registration-open-collaborations-workshop-2021>`_, `Twitter <https://twitter.com/SoftwareSaved/status/1328342074870165504?s=20>`_, `LinkedIn <https://www.linkedin.com/posts/software-sustainability-institute_registration-is-now-open-for-our-collaborations-activity-6734107763611361280-1Ogd>`_"
