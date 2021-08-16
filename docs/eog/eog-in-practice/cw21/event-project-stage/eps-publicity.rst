@@ -9,10 +9,10 @@ Before the event
 
 To promote the event we selected a freely-usable image of a fairground from `Unsplash <https://unsplash.com/>`_, a play on the theme of FAIR Research Software:
 
-.. figure:: img/andrea-enriquez-cousino-4hBCxfrlpoM-unsplash.jpg
+.. figure:: ../img/andrea-enriquez-cousino-4hBCxfrlpoM-unsplash.jpg
   :alt: CW21 event photo of a ferris wheel
   
-  *Photo by `Andrea Enríquez Cousiño <https://unsplash.com/@andreoiide?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/>`_*
+  Photo by `Andrea Enríquez Cousiño <https://unsplash.com/@andreoiide?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>`_ on `Unsplash <https://unsplash.com/>`_
 
 This image would be the default promotional image for CW21-related blog posts and news items on the Institute website, and default graphic for social media posts (Twitter and LinkedIn).
 We followed the syntax for the social media hashtag from previous years to remain consistent: `#CollabW21 <https://twitter.com/hashtag/CollabW21>`_.
