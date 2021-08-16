@@ -10,6 +10,7 @@ Before the event
 
 .. csv-table:: Publicity content plan
    :header: "Round", "Week of", "Content", "Published links"
+   :widths: 1, 3, 10, 5
 
    1, 2020-10-12, "News item: Collaborations Workshop 2021 (CW21) - Save the date!", "`Website <https://software.ac.uk/news/save-date-collaborations-workshop-2021>`_, `Twitter <https://twitter.com/SoftwareSaved/status/1316663855943122945?s=20>`_, `LinkedIn <https://www.linkedin.com/posts/software-sustainability-institute_collabw21-activity-6722076038723100672--f4c>`_"
    2, 2020-11-16, "News item: Registration open for Collaborations Workshop 2021", "`Website <https://software.ac.uk/news/registration-open-collaborations-workshop-2021>`_, `Twitter <https://twitter.com/SoftwareSaved/status/1328342074870165504?s=20>`_, `LinkedIn <https://www.linkedin.com/posts/software-sustainability-institute_registration-is-now-open-for-our-collaborations-activity-6734107763611361280-1Ogd>`_"
@@ -35,7 +36,7 @@ After the event
 
 .. csv-table:: Publicity content plan
    :header: "Round", "Week of", "Content", "Published links"
-   :widths: 5, 10, 20, 20
+   :widths: 1, 3, 10, 5
 
    13, 2021-05-24, "Blog post: Highlights from Collaborations Workshop 2021", "`Website <https://software.ac.uk/blog/2021-05-24-highlights-collaborations-workshop-2021>`_, `Twitter <https://twitter.com/SoftwareSaved/status/1397539342596419599?s=20>`_, `LinkedIn <https://www.linkedin.com/posts/software-sustainability-institute_highlights-from-collaborations-workshop-2021-activity-6803305193699115009-k82x>`_"
    14, 021-07-12, "News item: Videos from Collaborations Workshop 2021 now online", "`Website <https://software.ac.uk/news/videos-collaborations-workshop-2021-now-online>`_, `Twitter <https://twitter.com/SoftwareSaved/status/1415955852343840771?s=20>`_, `LinkedIn <https://www.linkedin.com/posts/software-sustainability-institute_videos-from-collaborations-workshop-2021-activity-6821721542372716544-5ttQ>`_"
