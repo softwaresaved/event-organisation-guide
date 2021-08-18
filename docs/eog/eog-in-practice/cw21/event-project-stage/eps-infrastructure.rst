@@ -20,6 +20,7 @@ Event management
 - `Mailchimp <https://mailchimp.com/>`_: We used Mailchimp to set up a `registration of interest form <http://eepurl.com/gaNitn>`_ to notify our audience of CW21 updates and when event registration opened.
 - `Eventbrite <https://www.eventbrite.com/>`_: We created a `CW21 Eventbrite page <https://www.eventbrite.co.uk/e/collaborations-workshop-2021-cw21-collabw21-tickets-125883600237?aff=SSIWebsite>`_ to manage registrations, fee processing and send email notifications to registrants.
 - `Bit.ly <https://bitly.com/>`_: We generate a lot of links during a CW and we used Bit.ly to manage them, make them more user-friendly and monitor engagement/clicks.
+- `Google Forms <https://docs.google.com/forms>`_: We conducted the calls for sponsorship, financial assistance, lightning talks, mini-workshop and demo sessions, and participant-led social programme activities using Google Forms.
 - `Figshare <https://figshare.com>`_: Through our partnership with Figshare, we were once again able to manage conference outputs such as lightning talk slides through a `Figshare conference portal <https://ssi-cw.figshare.com/>`_. 
 
   - Lightning talk presenters, mini-workshop facilitators, and participants who wanted to generate DOIs for their CW21 outputs were able to submit directly to the portal using `this form <https://ssi-cw.figshare.com/submit>`_.
@@ -95,6 +96,7 @@ We created the following infrastructure resources to help us manage the event.
 Organiser-facing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+- A spreadsheet for planning the event and keeping track of registrations and `budget <https://doi.org/10.5281/zenodo.4071895>`_.
 - An index of links to documentation and event resources for organisers to easily navigate on the day.
 - A duties roster with assignments, lists and descriptions of the roles and responsibilities.
 - A spreadsheet for the mini-workshop and demo sessions assignments with links to the Zoom rooms, notes documents, and live transcriptions for the parallel sessions.
@@ -103,6 +105,9 @@ Organiser-facing
 - A checklist for the event chair of how to set up the live stream during the event (a complicated procedure involving steps in Zoom, YouTube, Otter, and Restream). 
 - A speaker guide to help the keynote speakers with their recordings. 
 - A spreadsheet to facilitate Hack Day judging and scoring. 
+- A spreadsheet for keeping track of prizes and winners.
+- Instructions for processing the session recordings, generating subtitles and publishing the videos on YouTube.
+- A spreadsheet to facilitate and track processing the session recordings (for example, with information on the start and end times for splitting recordings, locations of cover and subtitle files, session information, and YouTube metadata).
 
 Participant-facing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -122,3 +127,4 @@ Participant-facing
 - A spreadsheet to collate the Collaborative Ideas session documents and facilitate voting. 
 - A spreadsheet to collate the Hack Day pitch documents.
 - A spreadsheet to facilitate Hack Day teams registration and sign-up.  
+- A feedback form.
