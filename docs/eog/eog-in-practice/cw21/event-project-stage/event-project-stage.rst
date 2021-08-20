@@ -17,4 +17,5 @@ CW21 Event Project Stage
    eps-publicity
    eps-sponsorship
    eps-venue
+   eps-event-roles
    eps-outputs-and-outcomes
