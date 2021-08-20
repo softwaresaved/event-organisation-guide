@@ -142,7 +142,7 @@ However, we had the most experience with it and it had the best performance, sca
 We attended many of the `CSCCE Tools Trials <https://www.cscce.org/category/cscce-cop/tools-trials/>`_ which tested and compared features from a variety of virtual conferencing platforms, including for `QuiqoChat <https://qiqochat.com/about>`_, `Etherpad with video <https://video.etherpad.com/>`_ and `Wonder <https://www.wonder.me/>`_, and found that Zoom still best met our needs.
 The ability to create and manage breakout rooms is essential for our interactive sessions such as the Discussion session, Collaborative Ideas session and Hack Day.
 The `added functionality in Zoom allowing participants to self-select their own breakout rooms <https://blog.zoom.us/using-zoom-breakout-rooms/>`_ was a game changer (we did not have this for CW20) and provided more autonomy for participants.
-To provide ...
+To provide variety to participants, we used alternative platforms for the social programme activities. 
 
 
 Communication
