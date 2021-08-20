@@ -1,4 +1,4 @@
-.. _CW20:
+.. _In-Practice-CW20:
 
 .. Comment - `Link text <https://domain.invalid/>`_
 
