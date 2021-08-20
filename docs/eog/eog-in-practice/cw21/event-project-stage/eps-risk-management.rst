@@ -12,10 +12,13 @@ For CW21, we looked at the following risk aspects:
 - Communication (with various stakeholders)
 - Policies, guidelines and documentation 
 
-Unlike for :ref:`CW20 <CW20-Risk-Management>`, the global pandemic was at the forefront of our risk assessment and mitigation plan. 
+Unlike for :ref:`CW20 <CW20-Risk-Management>`, the global pandemic was at the forefront of our risk assessment and mitigation plan for CW21. 
 We decided from the beginning that CW21 would take place online for two main reasons:
-1. It was clear that the pandemic would be ongoing and there would still be hesitancy from both organisers and participants in traveling to an in-person event.
+
+1. It was clear that the pandemic would be ongoing and there would still be hesitancy from both organisers and participants towards traveling to an in-person event.
 2. It was an opportunity to improve and build off of what we achieved running :ref:`CW20 Online <In-Practice-CW20>`.
+
+It turned out that there were still many restrictions around international travel and in-person events at the time of CW21, so we successfully mitigated the risk of having to cancel another in-person event. 
 
 
 The main stakeholder
@@ -27,18 +30,22 @@ The risks that we identified and needed to mitigate relating to the main stakeho
 - Damage to the main stakeholder’s reputation
 
 As we demonstrated through CW20, the event goals and objectives can be achieved through a virtual event.
-To ensure that the :ref:`cw21-fs-goals-and-objectives` aligned with the main stakeholder goals, the Director and Research Director were invited to participate on the :ref:`CW21 Steering Committee <cw21-eps-committees>`.
+To ensure that the :ref:`cw21-fs-goals-and-objectives` aligned with the main stakeholder goals, the Director was consulted during the :ref:`cw21-feasibility-stage`, and both the Director and Research Director were invited to participate on the :ref:`CW21 Steering Committee <cw21-eps-committees>`.
 
-Running CW20 virtually at the start of the pandemic led to the Institute being recognised and regularly consulted on virtual event organisation and community building. 
-70% CW20 participants who gave feedback stated that "CW20 is the best [online] event I have attended".
+Running CW20 virtually at the start of the pandemic led to the Institute being internationally recognised and regularly consulted on virtual event organisation and community building. 
+70% of CW20 participants who gave feedback stated that "CW20 is the best [online] event I have attended".
 
 .. figure:: ../img/CW20_participant_feedback1.png
   :alt: CW20 Participant Feedback on how the event compared with other online events 
+  
+  Feedback from CW20 participants on how the event compared with other online events
 
 Due to the attention and care that we put into improving and building off of what we achieved during CW20, we had similar feedback after CW21 when compared with the past year of virtual events. 
 
 .. figure:: ../img/CW21_participant_feedback1.png
   :alt: CW21 Participant Feedback on how the event compared with other online events 
+  
+  Feedback from CW21 participants on how the event compared with other online events
 
 
 Other stakeholders 
@@ -61,7 +68,9 @@ Within the CW20 feedback form, we asked participants how they would prefer us to
 Half of respondents said that they didn't mind how it was run, and 33% said that they prefer an in-person event.
 
 .. figure:: ../img/CW20_participant_feedback2.png
-  :alt: CW20 Participant Feedback on how to organise the event in the future 
+  :alt: CW20 Participant Feedback on how to organise the event in the future
+  
+  Feedback from CW20 participants on how to organise the event in the future 
 
 However, as the effects of the pandemic were ongoing, we decided that CW21 would take place online.
 As the vaccination programmes advance and things begin to open up, there is pressure and expectation for hybrid events. 
@@ -69,6 +78,8 @@ We asked CW21 on the feedback form to rank how they prefer future CWs to be orga
 
 .. figure:: ../img/CW21_participant_feedback2.png
   :alt: CW21 Participant Feedback on how to organise the event in the future 
+  
+  Feedback from CW21 participants on how to organise the event in the future
 
 
 Keynote speakers
