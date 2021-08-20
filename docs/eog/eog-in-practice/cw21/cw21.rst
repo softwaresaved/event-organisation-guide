@@ -1,4 +1,4 @@
-.. _cw21:
+.. _in-practice-cw21:
 
 .. Comment - `Link text <https://domain.invalid/>`_
 

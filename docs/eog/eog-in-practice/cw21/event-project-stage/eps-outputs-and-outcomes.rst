@@ -31,6 +31,7 @@ Outputs
    10. `Coding Clubs For Research Software Communities: Questions to Consider (Part Two) <https://software.ac.uk/blog/2021-07-13-coding-clubs-research-software-communities-questions-consider-part-two>`_
    11. `Six tips for building communities of practice <https://software.ac.uk/blog/2021-08-03-six-tips-building-communities-practice>`_
    12. `How do you help build intermediate software engineering skills and help people go beyond the basics? <https://software.ac.uk/blog/2021-08-09-how-do-you-help-build-intermediate-software-engineering-skills-and-help-people-go>`_
+   13. `Talk to each other! <https://www.software.ac.uk/blog/2021-08-20-talk-each-other>`_
    
 - Collaborative Ideas documents
    
@@ -122,7 +123,7 @@ Outputs
    - `CW21 Day 2 Notes <http://bit.ly/ssi-cw21-day2-notes>`_
    - `CW21 Hack Day Notes <http://bit.ly/ssi-cw21-hack-day-notes>`_
 
-- Feedback into Event Organisation Guide (this In Practice on :ref:`cw21`)
+- Feedback into Event Organisation Guide (this :ref:`In Practice on CW21 <in-practice-cw21>`)
 - Any sponsor outputs (e.g. Tweets, videos, etc.)
 
    - `News item announcing Platinum Sponsor <https://software.ac.uk/news/wellcome-trust-sponsor-collaborations-workshop-2021>`_

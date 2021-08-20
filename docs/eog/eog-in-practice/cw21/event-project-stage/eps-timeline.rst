@@ -369,4 +369,4 @@ Month 5: August 2021
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Resources
-  - 10/16 discussion groups’ speed blogs published
+  - 11/16 discussion groups’ speed blogs published
