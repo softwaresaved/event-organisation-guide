@@ -1,7 +1,7 @@
 .. _cw21-event-project-stage:
 
 CW21 Event Project Stage 
-===================
+==========================
 
 
 
@@ -18,4 +18,7 @@ CW21 Event Project Stage
    eps-sponsorship
    eps-venue
    eps-event-roles
+   eps-event-safety
+   eps-risk-management 
    eps-outputs-and-outcomes
+   eps-closing-down
