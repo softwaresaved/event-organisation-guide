@@ -9,13 +9,13 @@ In Practice authors: Rachael Ainsworth (`ORCID <http://orcid.org/0000-0003-2591-
 
 The Collaborations Workshop (CW) is the annual flagship event of the `Software Sustainability Institute <www.software.ac.uk>`_. It brings together researchers, developers, innovators, managers, funders, publishers, leaders, and educators to explore and share best practice. 
 
-We made the decision from the beginning that CW21 would take place online for two main reasons:
+We made the decision from the beginning that the `Collaborations Workshop 2021 (CW21) <https://software.ac.uk/cw21>`_ would take place online for two main reasons:
 
 1. It was clear that the global COVID-19 pandemic would be ongoing and there would still be hesitancy from both organisers and participants towards traveling to an in-person event. (It turned out that there were still many restrictions around international travel and in-person events at the time of CW21, so we would have been forced to remain online in the end anyways.)
 2. It was an opportunity to improve and build off of what we achieved running :ref:`CW20 Online <In-Practice-CW20>`.
 
 Here is how we did it. 
-This In Practice write up covers how we organised CW21 Online, followed the steps in the Feasibility Stage and the Event Project Stage of the main Event Organisation Guide.
+This In Practice write up covers how we organised CW21 Online, following the steps in the Feasibility Stage and the Event Project Stage of the main Event Organisation Guide.
 
 .. figure:: img/CW21_group_photo.png
   :alt: CW21 group photo
