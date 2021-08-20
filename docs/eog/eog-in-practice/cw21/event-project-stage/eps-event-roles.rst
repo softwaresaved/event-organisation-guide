@@ -144,7 +144,7 @@ After the event
 
 - Event Lead/Chair 
 
-   - Close down the Event Project Stage
+   - :ref:`Close down the Event Project Stage <cw21-eps-closing-down>`
       - Send out feedback form to participants
       - Send prizes to Collaborative Ideas and Hack Day winners
       - Gather and prepare recordings for processing
