@@ -31,5 +31,5 @@ Outcomes
 - Outputs are more widely shared, increasing impact of discussions and visibility of CW/SSI
 - Increased accessibility and inclusion
 - Community members who are unable to attend the event are still able to engage with the discussion
-- Impact on virtual events run by others
+- Impact on virtual events run by others through influencing and informing how they run their virtual events and reuse of infrastructure resources
 - Ease of running a virtual CW again in the future
