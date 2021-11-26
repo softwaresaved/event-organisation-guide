@@ -81,6 +81,7 @@ We asked CW21 on the feedback form to rank how they prefer future CWs to be orga
   
   Feedback from CW21 participants on how to organise the event in the future
 
+Opinions were more or less evenly split between the different options, and we believe this may be due to ongoing uncertainty about the pandemic.
 
 Keynote speakers
 ^^^^^^^^^^^^^^^^
