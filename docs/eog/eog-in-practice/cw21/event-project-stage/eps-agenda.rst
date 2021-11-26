@@ -37,7 +37,7 @@ Lightning Talks
 `Lightning talks <https://software.ac.uk/cw21/lightning-talks>`_ provide the perfect opportunity for participants and sponsors to introduce themselves at the workshop.
 CW lightning talks are two minutes for one slide, and can be used to showcase a project, introduce a problem, or promote a mini-workshop or demo session later in the programme. 
 
-This year, we conducted a call for lightning talks with a lightweight Google Form to help with planning and prioritising new voices (in previous editions of CW, it was first come, first served for lightning talks).
+This year, we conducted a call for lightning talks with a short Google Form to help with planning and prioritising new voices (in previous editions of CW, it was first come, first served for lightning talks).
 Confirmed lightning talk presenters were then asked to submit their slides to the `Figshare conference portal <https://ssi-cw.figshare.com/>`_ ahead of the event following `these instructions <https://software.ac.uk/cw21/lightning-talks/submit>`_. 
 
 We then compiled all the slides into a single slide show to maximise efficiency during the session, and integrated a two-minute timer within each slide to help keep speakers to time and minimise having to cut speakers off. 
