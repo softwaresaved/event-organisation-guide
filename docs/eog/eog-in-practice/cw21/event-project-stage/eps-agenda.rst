@@ -108,7 +108,7 @@ Participants took turns promoting a project to attract potential team members, a
 Many of the Hack Day projects came from the Collaborative Ideas session. 
 A spreadsheet was used for teams to register their projects and members, assign Zoom breakout rooms and Slack channels, as well as collect project repositories.
 
-One Zoom room was used to facilitate the Hack Day, with three breakout rooms created for each team, one for the judges, and a few extra side rooms for good measure (which was a lesson learned from CW20).
+One Zoom room was used to facilitate the Hack Day, with three breakout rooms created for each team, one for the judges, and a few extra side rooms for good measure (which was a lesson learned from CW20 - to give more spaces for meetings between team members and side meetings between people in general).
 The new Zoom feature that allowed participants to choose and move around the breakout rooms without having to assign them as co-hosts made the Hack Day significantly more smooth than at CW20.
 A schedule was scaffolded so that participants could work around suggested break times and judges' visits, and be ready in time to demonstrate their projects. 
 
