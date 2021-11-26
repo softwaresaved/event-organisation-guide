@@ -40,7 +40,7 @@ Running CW20 virtually at the start of the pandemic led to the Institute being i
   
   Feedback from CW20 participants on how the event compared with other online events
 
-Due to the attention and care that we put into improving and building off of what we achieved during CW20, we had similar feedback after CW21 when compared with the past year of virtual events. 
+Therefore, due to the attention and care that we put into improving and building off of what we achieved during CW20 and mitigating the risk of damaging the Institute's reputation, we had similar feedback after CW21 when compared with the past year of virtual events. 
 
 .. figure:: ../img/CW21_participant_feedback1.png
   :alt: CW21 Participant Feedback on how the event compared with other online events 
