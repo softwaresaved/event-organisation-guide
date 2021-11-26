@@ -32,7 +32,8 @@ The risks that we identified and needed to mitigate relating to the main stakeho
 As we demonstrated through CW20, the event goals and objectives can be achieved through a virtual event.
 To ensure that the :ref:`cw21-fs-goals-and-objectives` aligned with the main stakeholder goals, the Director was consulted during the :ref:`cw21-feasibility-stage`, and both the Director and Research Director were invited to participate on the :ref:`CW21 Steering Committee <cw21-eps-committees>`.
 
-Running CW20 virtually at the start of the pandemic led to the Institute being internationally recognised and regularly consulted on virtual event organisation and community building. 
+As we demonstrated through CW20, the main stakeholder’s reputation would not be damaged by running a virtual event.
+In fact, by running CW20 virtually at the start of the pandemic, the Institute was internationally recognised and regularly consulted on virtual event organisation and community building. 
 Additionally, 70% of CW20 participants who gave feedback stated that "CW20 is the best [online] event I have attended".
 
 .. figure:: ../img/CW20_participant_feedback1.png
