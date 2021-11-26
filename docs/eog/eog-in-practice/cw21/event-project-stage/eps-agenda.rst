@@ -122,7 +122,7 @@ Each Hack Day team had five minutes to demonstrate their projects and how they m
 6. Team work
 
 The judges, who comprised of Institute Staff, Fellows, collaborators and CW21 Sponsors, then went into a breakout room to deliberate. 
-The teams that came in the top three places were also awarded `Redbubble <https://www.redbubble.com/>`_ digital gift cards.
+The teams that came in the `top three places <https://software.ac.uk/cw21/hack-day-entries-and-winners>`_ were also awarded `Redbubble <https://www.redbubble.com/>`_ digital gift cards.
 
 Teaching
 ------------
