@@ -11,7 +11,7 @@ The Collaborations Workshop (CW) is the annual flagship event of the `Software S
 
 We made the decision from the beginning that the `Collaborations Workshop 2021 (CW21) <https://software.ac.uk/cw21>`_ would take place online for two main reasons:
 
-1. It was clear that the global COVID-19 pandemic would be ongoing and there would still be hesitancy from both organisers and participants towards traveling to an in-person event. (It turned out that there were still many restrictions around international travel and in-person events at the time of CW21, so we would have been forced to remain online in the end anyways.)
+1. It was clear that the global COVID-19 pandemic would be ongoing and there would still be hesitancy from both organisers and participants towards traveling to an in-person event. (It turned out that there were still many restrictions around international travel and in-person events at the time of CW21, so we would have been forced to remain online had we planned an in-person event.)
 2. It was an opportunity to improve and build off of what we achieved running :ref:`CW20 Online <In-Practice-CW20>`.
 
 Here is how we did it. 
