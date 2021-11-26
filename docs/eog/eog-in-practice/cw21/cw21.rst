@@ -7,7 +7,7 @@ Collaborations Workshop 2021 (CW21) - Online
 
 In Practice authors: Rachael Ainsworth (`ORCID <http://orcid.org/0000-0003-2591-9462>`__)
 
-The Collaborations Workshop (CW) is the annual flagship event of the `Software Sustainability Institute <www.software.ac.uk>`_. It brings together researchers, developers, innovators, managers, funders, publishers, leaders, and educators to explore and share best practice. 
+The Collaborations Workshop (CW) is the annual flagship event of the `Software Sustainability Institute <www.software.ac.uk>`_. It brings together researchers, developers, innovators, managers, funders, publishers, leaders, and educators with a focus on research software to explore and share best practice. 
 
 We made the decision from the beginning that the `Collaborations Workshop 2021 (CW21) <https://software.ac.uk/cw21>`_ would take place online for two main reasons:
 
