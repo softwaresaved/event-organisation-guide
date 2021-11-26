@@ -3,7 +3,7 @@
 CW21 Venue 
 =============
 
-Due to the ongoing COVID-19 pandemic, it was decided that CW21 would take place virtually for the second time. 
+Due to the ongoing COVID-19 pandemic, it was decided that CW21 would take place virtually. CW21 followed on from CW20 which also took place virtually. 
 This largely informed our :ref:`cw21-fs-goals-and-objectives` and :ref:`cw21-fs-audience` decisions.
 
 We compiled and discussed various platform options, but Zoom was still the preferred choice, especially in light of recent updates (e.g. participants being able to choose their own breakout rooms) and that we already had professional subscriptions.
