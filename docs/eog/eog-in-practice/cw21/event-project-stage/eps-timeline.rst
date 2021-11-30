@@ -347,7 +347,7 @@ Publicity
 Resources
   - 43/43 videos processed
   - 6/16 discussion groups’ speed blogs published
-  - Began working on the `EOG In Practice <https://github.com/softwaresaved/event-organisation-guide/pull/79>`_
+  - Began working on the `EOG In Practice: CW21 <https://github.com/softwaresaved/event-organisation-guide/pull/79>`_
 
 Website
   - Updated language of event website to show that it was in the past
@@ -370,3 +370,12 @@ Month 5: August 2021
 
 Resources
   - 11/16 discussion groups’ speed blogs published
+  - First draft of the `EOG In Practice: CW21 <https://github.com/softwaresaved/event-organisation-guide/pull/79>`_ submitted for review
+
+
+Month 8: November 2021
+^^^^^^^^^^^^^^^^^^^^^^
+
+Resources
+  - First draft of the `EOG In Practice: CW21 <https://github.com/softwaresaved/event-organisation-guide/pull/79>`_ reviewed and submitted to Communications Team for final edits and promotion
+
