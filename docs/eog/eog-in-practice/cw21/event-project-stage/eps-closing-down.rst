@@ -24,4 +24,4 @@ You can see the details of the CW21 outputs in the :ref:`cw21-eps-outputs-and-ou
 When are you done?
 -------------------------
 
-All of the outputs that we planned to produce are now available and the event is complete.
+All of the outputs that we planned to produce are now available (locations of which are mentioned in the section above) and the event is complete.
