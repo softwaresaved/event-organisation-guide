@@ -129,3 +129,46 @@ Outputs
    - `News item announcing Platinum Sponsor <https://software.ac.uk/news/wellcome-trust-sponsor-collaborations-workshop-2021>`_
    - `Video announcing Platinum Sponsor <https://youtu.be/PK6ntCrFcig>`_
 
+
+Outcomes
+--------------------
+
+- Facilitation of new collaborations between participants
+
+   - Feedback from CW21 participants included that 28.6% of respondants met more than 15 new people at the workshop, 68.6% of respondants started 1-2 collaborations based on conversations at the workshop, and 80% of respondants intend to carry on working on the idea they developed at the CW21 Hack Day.
+
+.. figure:: ../img/CW21_participant_feedback4.png
+  :alt: CW21 Participant Feedback on how many new people they met at CW21 
+
+  Feedback from CW21 participants on how many new people they met at CW21
+
+.. figure:: ../img/CW21_participant_feedback5.png
+  :alt: CW21 Participant Feedback on how many collaborations did they start, or intend to start, based on conversations from CW21 
+
+  Feedback from CW21 participants on how many collaborations did they start, or intend to start, based on conversations from CW21
+
+.. figure:: ../img/CW21_participant_feedback6.png
+  :alt: CW21 Participant Feedback on whether they intend to carry on working on the idea they developed at the CW21 Hack Day 
+
+  Feedback from CW21 participants on whether they intend to carry on working on the idea they developed at the CW21 Hack Day
+  
+- Increased accessibility and inclusion
+
+   - Feedback on the use of live transcription and captioning from participants included: "I am an non-native english speaker; reading helps with understanding", "I have a slight hearing impairment which sometime makes it difficult for me to follow a conversation. I like being able to us the transcription." and "It is super helpful to be able to go back to a sentence if I misheard anything".
+
+.. figure:: ../img/CW21_participant_feedback3.png
+  :alt: CW21 Participant Feedback on whether it was helpful / more accessible to have live transcription and captioning during the workshop
+  
+  Feedback from CW21 participants on whether it was helpful / more accessible to have live transcription and captioning during the workshop
+  
+- Community members who are unable to attend the event are still able to engage with the discussion
+
+   - `A Tweet from a community member who was able to engage via the live streamed sessions <https://twitter.com/orchid00/status/1376845074852552705>`_
+   
+- Impact on virtual events run by others through influencing and informing how they run their virtual events and reuse of infrastructure resources
+
+   - After experiencing the use of `Gather.Town <https://www.gather.town/>`_ at CW21, SSI Fellow Emma Rand used the platform to facilitate `Software Sustainability training for Bioscience Postgraduate students <https://www.software.ac.uk/blog/2021-05-06-software-sustainability-training-bioscience-postgraduate-students>`_
+   
+- Ease of running a virtual CW again in the future
+
+   - We are able to run CW22 following the same process detailed within this :ref:`In Practice on CW21 <in-practice-cw21>` and reuse organisational and infrastructure resources with minor modifications
