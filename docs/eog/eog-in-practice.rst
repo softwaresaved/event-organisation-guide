@@ -2,7 +2,7 @@
 
 In Practice
 ===========
-What follows are indepth writeups of using the Event Organisation Guide in practice. We also refer to them as In Practice writeups for short.
+What follows are in-depth write-ups of using the Event Organisation Guide in practice. We also refer to them as In Practice write-ups for short.
 
 
 .. toctree::
@@ -10,3 +10,4 @@ What follows are indepth writeups of using the Event Organisation Guide in pract
    :caption: Sections:
 
    eog-in-practice/cw20/cw20
+   eog-in-practice/cw21/cw21

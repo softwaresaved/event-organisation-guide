@@ -1,0 +1,29 @@
+.. _in-practice-cw21:
+
+.. Comment - `Link text <https://domain.invalid/>`_
+
+Collaborations Workshop 2021 (CW21) - Online 
+=============================================
+
+In Practice authors: Rachael Ainsworth (`ORCID <http://orcid.org/0000-0003-2591-9462>`__)
+
+The Collaborations Workshop (CW) is the annual flagship event of the `Software Sustainability Institute <www.software.ac.uk>`_. It brings together researchers, developers, innovators, managers, funders, publishers, leaders, and educators with a focus on research software to explore and share best practice. 
+
+We made the decision from the beginning that the `Collaborations Workshop 2021 (CW21) <https://software.ac.uk/cw21>`_ would take place online for two main reasons:
+
+1. It was clear that the global COVID-19 pandemic would be ongoing and there would still be hesitancy from both organisers and participants towards traveling to an in-person event. (It turned out that there were still many restrictions around international travel and in-person events at the time of CW21, so we would have been forced to remain online had we planned an in-person event.)
+2. It was an opportunity to improve and build off of what we achieved running :ref:`CW20 Online <In-Practice-CW20>`.
+
+Here is how we did it. 
+This In Practice write up covers how we organised CW21 Online, following the steps in the Feasibility Stage and the Event Project Stage of the main Event Organisation Guide. 
+Alternatively, If you would like to read about what happened at CW21 that can be found in this `CW21 Highlights <https://software.ac.uk/blog/2021-05-24-highlights-collaborations-workshop-2021>`_ blog post.
+
+.. figure:: img/CW21_group_photo.png
+  :alt: CW21 group photo
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Sections:
+
+   feasibility-stage/feasibility-stage
+   event-project-stage/event-project-stage
