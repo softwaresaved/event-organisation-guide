@@ -16,7 +16,7 @@ Month -8: August 2020
 - Draft :ref:`cw21-fs-venue` 
 - Draft :ref:`cw21-fs-date` 
 - Draft :ref:`cw21-fs-audience` 
-- Draft CW21 Budget  
+- Draft CW21 Budget  [add note as to why we haven't made this public?]
 - Draft :ref:`cw21-fs-outputs-and-outcomes`  
 
 
