@@ -16,7 +16,7 @@ We made the decision from the beginning that the `Collaborations Workshop 2021 (
 
 Here is how we did it. 
 This In Practice write up covers how we organised CW21 Online, following the steps in the Feasibility Stage and the Event Project Stage of the main Event Organisation Guide. 
-Alternatively, If you would like to read about what happened at CW21 that can be found in this `CW21 Highlights <https://software.ac.uk/blog/2021-05-24-highlights-collaborations-workshop-2021>`_ blog post.
+Alternatively, if you would like to read about what happened at CW21, that can be found in this `CW21 Highlights <https://software.ac.uk/blog/2021-05-24-highlights-collaborations-workshop-2021>`_ blog post.
 
 .. figure:: img/CW21_group_photo.png
   :alt: CW21 group photo
