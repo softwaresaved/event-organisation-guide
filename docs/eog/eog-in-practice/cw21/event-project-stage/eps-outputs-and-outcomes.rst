@@ -154,7 +154,7 @@ Outcomes
   
 - Increased accessibility and inclusion
 
-   - Feedback on the use of live transcription and captioning from participants included: "I am an non-native english speaker; reading helps with understanding", "I have a slight hearing impairment which sometime makes it difficult for me to follow a conversation. I like being able to us the transcription." and "It is super helpful to be able to go back to a sentence if I misheard anything".
+   - Feedback on the use of live transcription and captioning from participants included: "I am an non-native english speaker; reading helps with understanding", "I have a slight hearing impairment which sometime makes it difficult for me to follow a conversation. I like being able to use the transcription." and "It is super helpful to be able to go back to a sentence if I misheard anything".
 
 .. figure:: ../img/CW21_participant_feedback3.png
   :alt: CW21 Participant Feedback on whether it was helpful / more accessible to have live transcription and captioning during the workshop
