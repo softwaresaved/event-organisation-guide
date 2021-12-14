@@ -3,16 +3,16 @@
 CW21 Sponsorship
 =================
 
-We adapted the `sponsorship packages from CW20 <https://software.ac.uk/cw20/sponsorship>`_ to add more value to sponsors in an virtual event and summarised the packages on the `CW21 website <https://software.ac.uk/cw21/sponsorship>`_.
+We adapted the `sponsorship packages from CW20 <https://software.ac.uk/cw20/sponsorship>`_ to add more value to sponsors in a virtual event and summarised the packages on the `CW21 website <https://software.ac.uk/cw21/sponsorship>`_.
 We kept the tiered packages of Silver, Gold and Platinum, with increasing benefits respectively.
 Benefits we added include:
 
-- Place on CW21 Steering Committee
-- Increased number of free registrations
-- Slide shown during breaks
-- Dedicated breakout room for people to speak to you during the breaks at the event
-- Lightning talk slot
-- Video interview with Sponsor shared via social media (Platinum)
+- Place on CW21 Steering Committee.
+- Increased number of free registrations.
+- Slide shown during breaks.
+- Dedicated breakout room for people to speak to you during the breaks at the event.
+- Lightning talk slot.
+- Video interview with Sponsor shared via social media (Platinum).
 
 We invited partners that we have worked with previously, and also new partners related to the event themes and audience. 
 We also added a `sign-up form <https://forms.gle/Y46d4ZaUMMVVStAs7>`_ on the website for interested sponsors to contact us via.
