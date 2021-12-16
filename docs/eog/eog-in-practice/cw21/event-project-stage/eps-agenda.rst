@@ -114,7 +114,7 @@ A schedule was scaffolded so that participants could work around suggested break
 
 Each Hack Day team had five minutes to demonstrate their projects and how they met the judging criteria:
 
-1. Novelty, creativity, 'coolness' and/or usefulness.
+1. Novelty, creativity, 'coolness' and/or usefulness
 2. Implementation and infrastructure. 
 3. Demo and presentation.
 4. Project transparency.
