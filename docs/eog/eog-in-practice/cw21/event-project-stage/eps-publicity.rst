@@ -17,7 +17,7 @@ To promote the event we selected a freely-usable image of a fairground from `Uns
 This image would be the default promotional image for CW21-related blog posts and news items on the Institute website, and default graphic for social media posts (Twitter and LinkedIn).
 We followed the syntax for the social media hashtag from previous years to remain consistent: `#CollabW21 <https://twitter.com/hashtag/CollabW21>`_.
 You can find our publicity content plan below, which consists of news items published to the Institute website for announcements such as keynote speakers, the call for submissions and financial assistance. 
-These news items were then promoted via Twitter and LinkedIn, as well as emailed directly to the target :ref:`CW21 Audiences <cw21-fs-audience>`.
+These news items were then promoted via Twitter and LinkedIn, as well as emailed directly to the target :ref:`CW21 Audiences <cw21-fs-audience>`. For context CW21 took place from 30 March - 1 April.
 
 
 .. csv-table:: Publicity content plan
@@ -51,7 +51,7 @@ Participants were also encouraged to share about their experiences during the ev
 During the welcome session at the start of each day, we reminded participants not to publicly share any links to the Zoom rooms or collaborative note documents.
 We also added a disclaimer to the header of each document reminding participants not to share links to the documents until after the event had ended.
 This was to protect our participants and event from "Zoom-bombers" or other intruders with malicious intent. 
-Finally, we included a `Social Media Policy <https://software.ac.uk/cw21/participation-guidelines#social-media-policy>`_ within the event `Participation Guidelines <https://software.ac.uk/cw21/participation-guidelines>`_ so that participants new exactly what could and could not be shared on social media. 
+Finally, we included a `Social Media Policy <https://software.ac.uk/cw21/participation-guidelines#social-media-policy>`_ within the event `Participation Guidelines <https://software.ac.uk/cw21/participation-guidelines>`_ so that participants knew exactly what could and could not be shared on social media. 
 It included the following:
 
    For keynote presentations and mini-workshop sessions, it is assumed by default that information and images can be published on social media unless the presenter expressly states otherwise.

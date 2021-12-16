@@ -3,7 +3,7 @@
 CW21 Sponsorship
 =================
 
-We adapted the `sponsorship packages from CW20 <https://software.ac.uk/cw20/sponsorship>`_ to add more value to sponsors in an virtual event and summarised the packages on the `CW21 website <https://software.ac.uk/cw21/sponsorship>`_.
+We adapted the `sponsorship packages from CW20 <https://software.ac.uk/cw20/sponsorship>`_ to add more value to sponsors in a virtual event and summarised the packages on the `CW21 website <https://software.ac.uk/cw21/sponsorship>`_.
 We kept the tiered packages of Silver, Gold and Platinum, with increasing benefits respectively.
 Benefits we added include:
 
