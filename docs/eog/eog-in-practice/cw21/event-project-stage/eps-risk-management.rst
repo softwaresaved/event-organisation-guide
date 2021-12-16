@@ -16,7 +16,7 @@ Unlike for :ref:`CW20 <CW20-Risk-Management>`, the global pandemic was at the fo
 We decided from the beginning that CW21 would take place online for two main reasons:
 
 1. It was clear that the pandemic would be ongoing and there would still be hesitancy from both organisers and participants towards traveling to an in-person event.
-2. It was an opportunity to improve and build off of what we achieved running :ref:`CW20 Online <In-Practice-CW20>`.
+2. It was an opportunity to improve and build on what we achieved running :ref:`CW20 Online <In-Practice-CW20>`.
 
 It turned out that there were still many restrictions around international travel and in-person events at the time of CW21, so we successfully mitigated the risk of having to cancel another in-person event. 
 
@@ -41,7 +41,7 @@ Additionally, 70% of CW20 participants who gave feedback stated that "CW20 is th
   
   Feedback from CW20 participants on how the event compared with other online events
 
-Therefore, due to the attention and care that we put into improving and building off of what we achieved during CW20 and mitigating the risk of damaging the Institute's reputation, we had similar feedback after CW21 when compared with the past year of virtual events. 
+Therefore, due to the attention and care that we put into improving and building on what we achieved during CW20 and mitigating the risk of damaging the Institute's reputation, we had similar feedback after CW21 when compared with the past year of virtual events. 
 
 .. figure:: ../img/CW21_participant_feedback1.png
   :alt: CW21 Participant Feedback on how the event compared with other online events 
@@ -87,10 +87,10 @@ Opinions were more or less evenly split between the different options, and we be
 Keynote speakers
 ^^^^^^^^^^^^^^^^
 
-Risks that we identified from running CW20 online included sickness or being unable to present due to caring or other responsibilities imposed based on restrictions due to the pandemic.
+Risks that we identified from running CW20 online included sickness or being unable to present due to caring or other responsibilities imposed due to the pandemic restrictions.
 Connection or technical issues could also arise.
 The strategy we took to mitigate these risks was to request the keynote speakers to pre-record their presentations. 
-We provided a speaker guide with guidance and advice for recording their talk, and our full support with editing and captioning the videos. 
+We provided a speaker guide with advice for recording their talk, and our full support with editing and captioning the videos. 
 
 This strategy had the added benefit that it allowed us to have keynote speakers from regions with time zones incompatible with the times of the event - the speakers did not have to present outside of their normal working hours. 
 
@@ -99,7 +99,7 @@ Session chairs
 ^^^^^^^^^^^^^^^
 
 The risks identified regarding the session chairs included connection or other technical issues. 
-We also identified sickness or being unable to present due to caring or other responsibilities imposed based on restrictions due to the pandemic as risks from running CW20 online.
+We also identified sickness or being unable to present due to caring or other responsibilities as risks from running CW20 online.
 The strategy we took to mitigate these risks was to have backups for every :ref:`CW21 Event Role <cw21-eps-event-roles>` .
 
 
@@ -107,7 +107,7 @@ Organising Committee members
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The risks identified regarding the Organising Committee members and the strategy we took to mitigate these risks were the same as during :ref:`CW20 <CW20-Risk-Management>`.
-In particular, the largest risk was members being unable to help run the event on the day due to connection issues, schedules, sickness or being unable to present due to caring or other responsibilities imposed based on restrictions due to the pandemic.
+In particular, the largest risk was members being unable to help run the event on the day due to connection issues, schedules, sickness or being unable to present due to caring or other responsibilities.
 Our mitigation strategy to have backups for every :ref:`CW21 Event Role <cw21-eps-event-roles>` still applies to these scenarios.
 
 
