@@ -116,7 +116,7 @@ Each Hack Day team had five minutes to demonstrate their projects and how they m
 
 1. Novelty, creativity, 'coolness' and/or usefulness
 2. Implementation and infrastructure 
-3. Demo and presentation.
+3. Demo and presentation
 4. Project transparency
 5. Future potential.
 6. Team work
