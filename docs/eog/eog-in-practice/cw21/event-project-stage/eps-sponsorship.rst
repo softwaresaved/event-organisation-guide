@@ -7,7 +7,7 @@ We adapted the `sponsorship packages from CW20 <https://software.ac.uk/cw20/spon
 We kept the tiered packages of Silver, Gold and Platinum, with increasing benefits respectively.
 Benefits we added include:
 
-- Place on CW21 Steering Committee.
+- Place on CW21 Steering Committee
 - Increased number of free registrations.
 - Slide shown during breaks.
 - Dedicated breakout room for people to speak to you during the breaks at the event.
