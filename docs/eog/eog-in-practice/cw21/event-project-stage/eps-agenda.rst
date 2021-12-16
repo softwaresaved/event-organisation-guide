@@ -118,7 +118,7 @@ Each Hack Day team had five minutes to demonstrate their projects and how they m
 2. Implementation and infrastructure 
 3. Demo and presentation
 4. Project transparency
-5. Future potential.
+5. Future potential
 6. Team work
 
 The judges, comprised of Institute Staff, Fellows, collaborators and CW21 Sponsors, then went into a breakout room to deliberate. 
