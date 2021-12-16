@@ -8,7 +8,7 @@ We kept the tiered packages of Silver, Gold and Platinum, with increasing benefi
 Benefits we added include:
 
 - Place on CW21 Steering Committee
-- Increased number of free registrations.
+- Increased number of free registrations
 - Slide shown during breaks.
 - Dedicated breakout room for people to speak to you during the breaks at the event.
 - Lightning talk slot.
