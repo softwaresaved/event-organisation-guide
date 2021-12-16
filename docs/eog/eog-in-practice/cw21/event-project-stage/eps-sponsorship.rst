@@ -12,7 +12,7 @@ Benefits we added include:
 - Slide shown during breaks
 - Dedicated breakout room for people to speak to you during the breaks at the event
 - Lightning talk slot
-- Video interview with Sponsor shared via social media (Platinum).
+- Video interview with Sponsor shared via social media (Platinum)
 
 We invited partners that we have worked with previously, and also new partners related to the event themes and audience. 
 We also added a `sign-up form <https://forms.gle/Y46d4ZaUMMVVStAs7>`_ on the website for interested sponsors to contact us via.
