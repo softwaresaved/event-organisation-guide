@@ -22,7 +22,7 @@ The keynote presentations were pre-recorded by the speakers.
 This was done so that the talks could be transcribed and captioned ahead of time, to mitigate risk of connection failures on the day, and also because both keynote speakers happened to be located in time zones incompatible with the event. 
 The length of each keynote session was 30 minutes, with the suggested format of up to 20 minutes for the presentation and the remainder for introductions and questions. 
 
-The Chair of the session introduced the speaker live and reminded the participants that they could take notes and ask questions in the collaborative notes or via the app Sli.do, and that this session would be live streamed via YouTube. 
+The Chair of the session introduced the speaker live and reminded the participants that they could take notes and ask questions in the collaborative notes or via the Sli.do website/app, and that this session would be live streamed via YouTube. 
 The Event Lead choreographed sharing the pre-recorded presentation via `Screen Share in Zoom <https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen>`_ and live streaming the session on YouTube (following `this guide on Captioned video calls AND YouTube streaming by Open Life Science <https://openlifesci.org/posts/2020/12/16/streaming-to-youtube-and-to-otter-at-once/>`_ to get Zoom, YouTube and Otter.ai to work together via Restream - see :ref:`cw21-eps-infrastructure` for more information). 
 
 One keynote speaker was able to attend the event and answer questions live, which was facilitated by the session Chair who relayed questions submitted via Sli.do.
