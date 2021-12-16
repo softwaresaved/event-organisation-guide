@@ -17,12 +17,12 @@ Informing
 Keynote Talks 
 ^^^^^^^^^^^^^^^^
 
-For CW21, we had two keynote presentations - one for each each new theme (FAIR Research Software and Diversity and Inclusion).
+For CW21, we had two keynote presentations - one for each new theme (FAIR Research Software and Diversity & Inclusion).
 The keynote presentations were pre-recorded by the speakers.
 This was done so that the talks could be transcribed and captioned ahead of time, to mitigate risk of connection failures on the day, and also because both keynote speakers happened to be located in time zones incompatible with the event. 
-The length of each keynote session was 30 minutes, with the suggested format of up to 20 minutes for presentation and the remainder for introductions and questions. 
+The length of each keynote session was 30 minutes, with the suggested format of up to 20 minutes for the presentation and the remainder for introductions and questions. 
 
-The Chair of the session introduced the speaker live and reminded the participants that they could take notes and ask questions in the collaborative notes or via Sli.do, and that this session would be live streamed via YouTube. 
+The Chair of the session introduced the speaker live and reminded the participants that they could take notes and ask questions in the collaborative notes or via the Sli.do website/app, and that this session would be live streamed via YouTube. 
 The Event Lead choreographed sharing the pre-recorded presentation via `Screen Share in Zoom <https://support.zoom.us/hc/en-us/articles/201362153-Sharing-your-screen>`_ and live streaming the session on YouTube (following `this guide on Captioned video calls AND YouTube streaming by Open Life Science <https://openlifesci.org/posts/2020/12/16/streaming-to-youtube-and-to-otter-at-once/>`_ to get Zoom, YouTube and Otter.ai to work together via Restream - see :ref:`cw21-eps-infrastructure` for more information). 
 
 One keynote speaker was able to attend the event and answer questions live, which was facilitated by the session Chair who relayed questions submitted via Sli.do.
@@ -68,7 +68,7 @@ The `Discussion session <https://software.ac.uk/cw21/discussion-session>`_ allow
 This session is a fundamental part of the Collaborations Workshop: it helps people learn about new ideas and work together on solving shared problems.
 The output of the discussion session is a `speed blog post <http://bit.ly/ssi-speed-blogging>`_ from each group to help disseminate the insights to the wider community. 
 
-The session was conducted the same as during :ref:`CW20 <CW20-Agenda>` except that we were able to take advantage of the new Zoom feature that allowed participants to self-select their own breakout rooms. 
+The session was conducted the same way as during :ref:`CW20 <CW20-Agenda>` except that we were able to take advantage of the new Zoom feature that allowed participants to self-select their own breakout rooms. 
 
 Participants suggested and signed up to the topics that they wanted to discuss in a spreadsheet (`example spreadsheet <https://doi.org/10.6084/m9.figshare.12498278>`__). 
 This year, in addition to assigning each discussion group a Group ID, they were also assigned a more memorable Group Name.
@@ -88,7 +88,7 @@ The session was facilitated in a similar way to the Discussion session except th
 This time the Group Names were based on famous cats (Asparagus, Bagpuss, and Felix to name a few), so the group that was assigned to breakout room "Asparagus" retrieved their Collaborative Ideas document for Group Name Asparagus in the associated spreadsheet (`example spreadsheet <https://doi.org/10.6084/m9.figshare.12500768>`_), and so on. 
 
 Voting was again facilitated in a “Voting” tab of the spreadsheet, where participants where asked to simply add their names below the ideas that they wanted to vote for.
-The votes were tallied at the end of Day 2, and the teams of top three ideas were awarded prizes. 
+The votes were tallied at the end of Day 2, and the teams with the top three ideas were awarded prizes. 
 This year, the prizes were `Redbubble <https://www.redbubble.com/>`_ digital gift cards, which give the recipients the choice of millions of designs by independent artists printed on a range of products. 
 Redbubble are committed to `social responsibility <https://www.redbubble.com/social-responsibility/>`_ and `sustainability <https://www.redbubble.com/social-responsibility/sustainability/>`_, and digital gift cards provide a more international- and pandemic-friendly prize for our participants. 
 
@@ -114,14 +114,14 @@ A schedule was scaffolded so that participants could work around suggested break
 
 Each Hack Day team had five minutes to demonstrate their projects and how they met the judging criteria:
 
-1. Novelty, creativity, coolness and/or usefulness
+1. Novelty, creativity, 'coolness' and/or usefulness
 2. Implementation and infrastructure 
 3. Demo and presentation
 4. Project transparency
 5. Future potential
 6. Team work
 
-The judges, who comprised of Institute Staff, Fellows, collaborators and CW21 Sponsors, then went into a breakout room to deliberate. 
+The judges, comprised of Institute Staff, Fellows, collaborators and CW21 Sponsors, then went into a breakout room to deliberate. 
 The teams that came in the `top three places <https://software.ac.uk/cw21/hack-day-entries-and-winners>`_ were also awarded `Redbubble <https://www.redbubble.com/>`_ digital gift cards.
 
 Teaching
@@ -163,9 +163,7 @@ We also made a Zoom room available in parallel at the same time as an alternativ
 Morning Coffee Chats
 ^^^^^^^^^^^^^^^^^^^^^^
 
-Breakout rooms were made available within the main Zoom room 30 minutes before the official start of days one and two for participants to mingle, connect and chat over their morning brew. 
-We created breakout rooms named "Coffee", "Tea", and "Cake" to name a few where participants could join their preferred networking medium.
-Some breakout rooms were used, but we found that most participants who joined stayed together in the main room, where we did a round robin for people to introduce themselves and respond to a prompt. 
+Multiple breakout rooms were made available within the main Zoom room 30 minutes before the official start of days one and two for participants to mingle, connect and chat over their morning brew. Some breakout rooms were used, but we found that most participants who joined stayed together in the main room, where we did a round robin for people to introduce themselves and respond to a prompt. 
 
 Icebreakers
 ^^^^^^^^^^^^^
@@ -181,7 +179,7 @@ We then asked participants to write down their answers in the note-taking docume
 Lunch and Coffee Breaks 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-We encouraged participates to use the breaks to take time away from their screens, but kept the main Zoom room open in case they wanted to talk with other people.
+We encouraged participants to use the breaks to take time away from their screens, but kept the main Zoom room open in case they wanted to talk with other people.
 We opened a number of breakout rooms as side rooms for participants to have conversations away from the main room and as sponsor booths for participants to chat with and learn more about the CW21 sponsors.
 We also had an interview room where our Communications Officer interviewed participants about their experiences to use as promotion for future events.
 
@@ -200,7 +198,7 @@ When participants returned to the main room, the Chair asked for volunteers to i
 The first prompt was, "My favourite programming language is..." and we created breakout rooms named "C/C++", "Python", "R", "Other", and "I don’t code". 
 This was intended to be a lighthearted and simple prompt to get everyone warmed up during the exercise.
 
-The second prompt was more serious, "I know where I fit as a member of the research software community. For example, I have a clearly defined role and career path, and am confident about where I contribute within the research software ecosystem. (Agree vs disagree)." with breakout rooms named "Strongly Agree", "Somewhat agree", "Neither agree nor disagree", "Somewhat disagree", and "Strongly Disagree". 
+The second prompt was more serious: "I know where I fit as a member of the research software community. For example, I have a clearly defined role and career path, and am confident about where I contribute within the research software ecosystem. (Agree vs disagree)" with breakout rooms named "Strongly agree", "Somewhat agree", "Neither agree nor disagree", "Somewhat disagree", and "Strongly disagree". 
 This prompt was intended to highlight that there are many pathways and emerging roles within research software, and not everyone knows where or how they fit. 
 
 Evening Quiz
@@ -211,7 +209,7 @@ We chose a setup so that the facilitator was spotlighted on a platform so that a
 We also had private spaces as tables for participants to form teams at, so each team would be unable to hear or see the participants at other tables.
 The connection details were emailed to participants, and they were able to choose their own avatars and move around the space.
  
-We also made a Zoom room available in parallel at the same time as an alternative option. 
+We also made a Zoom room available at the same time as the quiz as an alternative option. 
 
 End of event Meetup
 ^^^^^^^^^^^^^^^^^^^^
@@ -220,4 +218,4 @@ Finally, to close out the event, a participant facilitated a virtual meetup in `
 The facilitator designed the space and added various objects that participants could interact with. 
 The connection details were shared with participants via Slack and Zoom, and they were able to choose their own avatars and move around the space.
 
-We also made a Zoom room available in parallel at the same time as an alternative option. 
+We also made a Zoom room available at the same time as an alternative option. 
