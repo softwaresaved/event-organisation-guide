@@ -9,7 +9,7 @@ Benefits we added include:
 
 - Place on CW21 Steering Committee
 - Increased number of free registrations
-- Slide shown during breaks.
+- Slide shown during breaks
 - Dedicated breakout room for people to speak to you during the breaks at the event.
 - Lightning talk slot.
 - Video interview with Sponsor shared via social media (Platinum).
