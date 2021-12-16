@@ -11,7 +11,7 @@ Benefits we added include:
 - Increased number of free registrations
 - Slide shown during breaks
 - Dedicated breakout room for people to speak to you during the breaks at the event
-- Lightning talk slot.
+- Lightning talk slot
 - Video interview with Sponsor shared via social media (Platinum).
 
 We invited partners that we have worked with previously, and also new partners related to the event themes and audience. 
