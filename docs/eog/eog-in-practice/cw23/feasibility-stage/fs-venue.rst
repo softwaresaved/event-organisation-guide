@@ -5,6 +5,18 @@ CW23 Venue
 
 CW23 will take place as a hybrid event.
 
+Remote
+--------------------
+
+ - Ideally we will build off of the success and lessons learned from CW20-CW22, and use platforms that we gained experience and expertise with such as Zoom.
+ - However, hiring an AV company to assist with the technical setup will be required per the venue and they may use different platforms/services.
+ - Platforms for remote participation will be explored more thoroughly in the Event Project Stage.
+ - Regardless of the online platform, we will need good quality AV recording and broadcasting to remote participants.
+
+   - The AV supplier for the Hyatt is `Fisher AV <https://www.fisheraudiovisual.com/>`_.
+
+ - Explore using an external event facilitation company during the :ref:`cw23-event-project-stage`.
+
 
 In-person
 --------------------
@@ -16,13 +28,3 @@ In-person
 
  - The venue has been checked for availability for the preferred dates and confirmed, see :ref:`cw23-fs-date`.
  - The Hyatt is located at the University of Manchester and therefore co-located with the Event Lead. This lessens the complexity for running our first hybrid CW, as there is no need to find additional local organisers to coordinate through.
-
-
-Remote
---------------------
-
- - Ideally we will build off of the success and lessons learned from CW20-CW22, and use platforms that we gained experience and expertise with such as Zoom.
- - However, hiring an AV company to assist with the technical setup will be required per the venue and they may use different platforms/services.
- - Platforms for remote participation will be explored more thoroughly in the Event Project Stage.
- - Regardless of the online platform, we will need good quality AV recording and broadcasting to remote participants. The AV supplier for the Hyatt is `Fisher AV <https://www.fisheraudiovisual.com/>`_.
- - Explore using an external event facilitation company during the :ref:`cw23-event-project-stage`.
