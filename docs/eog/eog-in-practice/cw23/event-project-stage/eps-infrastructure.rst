@@ -93,17 +93,22 @@ Organiser-facing
 - An index of links to documentation and event resources for organisers to easily navigate on the day.
 - A duties roster with assignments, lists and descriptions of the roles and responsibilities in both document and spreadsheet formats.
 - A spreadsheet for the mini-workshop and demo sessions assignments with links to the Zoom rooms, notes documents, and event role assignments for the parallel sessions.
+- A checklist for the mini-workshop and demo session helpers.
 - Zoom instructions for the hosts and co-hosts of the parallel sessions.
+- Meeting OWL Instructions for the OWL Managers.
 - A checklist for the event chair of what tasks need to be done before and at the start of the event (such as a reminder to send the connection details, assign co-hosts, record the event and take a group photo).
 - A checklist for the event chair of how to set up the live stream during the event (a complicated procedure involving steps in Zoom, YouTube, Otter, and Restream).
-- A table for the event chair of which breakout rooms needed to be opened when.
+- A checklist for the event chair of which breakout rooms needed to be opened when.
 - A speaker guide to help the demo speakers with their recordings.
 - A list of Tweets and social media posts to be shared throughout the event.
+- Binders for the Event Chair and Logistical Supporters at the help desk containing the duties roster, full programme, information about the venue and audio/visual services, information relating to catering and the workshop dinner (such as participants' dietary requirements), information about accommodation, and a list of participants for registration.
+- Table signs for the Discussion session, Collaborative Ideas session, and team formation during the Hack Day.
+- An agenda and speaker line-up to provide to the professional audio/visual service providers.
 - A spreadsheet to facilitate Hack Day judging and scoring.
 - A spreadsheet for keeping track of prizes and winners.
 - Instructions for processing the session recordings, generating subtitles and publishing the videos on YouTube.
 - A spreadsheet to facilitate and track processing the session recordings (for example, with information on the start and end times for splitting recordings, locations of cover and subtitle files, session information, and YouTube metadata).
-- Binders for the Event Chair and Logistical Supporters at the help desk containing the duties roster, full programme, information about the venue and audio/visual services, information relating to catering and the workshop dinner (such as participants' dietary requirements), information about accommodation, and a list of participants for registration.
+
 
 Participant-facing
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -120,7 +125,7 @@ Participant-facing
 - A template document for the Hack Day pitches and 26 instances generated in uCONFLY.
 - A spreadsheet to collate the Discussion group session topics and documents, and facilitate group sign-up.
 
-  - We adapted this for a hybrid event by pre-assigning Group IDs to spaces, each with an in-person location and an associated Zoom breakout room. We asked remote participants to include "(R)" at the end of their names when they signed up to discussion topics. We assessed the groups as they formed, and assigned larger hybrid groups to in-person spaces that had Meeting OWLs. 
+  - We adapted this for a hybrid event by pre-assigning Group IDs to spaces, each with an in-person location and an associated Zoom breakout room. We asked remote participants to include "(R)" at the end of their names when they signed up to discussion topics. We assessed the groups as they formed, and assigned larger hybrid groups to in-person spaces that had Meeting OWLs.
 
 - A spreadsheet to collate the Collaborative Ideas session documents and group assignments.
 - A spreadsheet to collate the Hack Day pitch documents.
