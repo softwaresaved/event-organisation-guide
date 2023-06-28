@@ -12,4 +12,4 @@ The earliest we could hold a Tuesday - Thursday event was therefore the week of 
 We note that there were a number of bank holidays during this period that also made scheduling difficult (1 May 2023 and 8 May 2023).
 
 However, we decided on the dates of Tuesday, 2 May to Thursday, 4 May 2023 for CW23.
-We could not schedule it later than this due to other Institute activities and end of financial year preparation by the Finance Team.
+We could not schedule it later than this due to other Institute activities and end of financial year preparation by the SSI Finance Team.
