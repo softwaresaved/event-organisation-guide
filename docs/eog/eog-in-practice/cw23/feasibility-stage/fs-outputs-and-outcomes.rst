@@ -17,7 +17,7 @@ Outputs
 - Closed captioning, transcriptions
 - Blog posts from the discussion session
 - All slides and other outputs shared via the conference portal (e.g. Figshare)
-- Collaborative Ideas to be recorded via https://github.com/softwaresaved/CW-ideas
+- Collaborative Ideas to be made available via https://github.com/softwaresaved/CW-ideas
 - Hack Day projects
 - A highlights blog post on the SSI website
 - A reflections blog post on the SSI website on how we adapted CW to run as a hybrid event
