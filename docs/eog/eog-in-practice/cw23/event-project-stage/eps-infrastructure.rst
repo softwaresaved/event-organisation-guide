@@ -21,7 +21,7 @@ Event management
 - `Eventbrite <https://www.eventbrite.com/>`_: We created a `CW23 Eventbrite page <https://www.eventbrite.co.uk/e/collaborations-workshop-2023-cw23-collabw23-tickets-483692767087?aff=SSIWebsite>`_ to manage registrations, fee processing and send email notifications to registrants.
 - `Bit.ly <https://bitly.com/>`_: We generate a lot of links during a CW and we used Bit.ly to manage them, make them more user-friendly and monitor engagement/clicks.
 - `Google Forms <https://docs.google.com/forms>`_: We conducted the calls for sponsorship, financial assistance, lightning talks and mini-workshop and demo sessions using Google Forms.
-- `Google Slides <https://docs.google.com/presentation>`_: We created Chair slide decks for each session using Google Forms.
+- `Google Slides <https://docs.google.com/presentation>`_: We created Chair slide decks for each session using Google Slides.
 - `Slides Timer <https://chrome.google.com/webstore/detail/slides-timer/nfhjdkmpebifdelclimjfaackjhiglpc>`_ Chrome extension: We integrated a timer within the Google Slides for the lightning talk sessions.
 - `Figshare <https://figshare.com>`_: Through our partnership with Figshare, we were once again able to manage conference outputs such as lightning talk slides through a `Figshare conference portal <https://ssi-cw.figshare.com/>`_.
 
