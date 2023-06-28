@@ -22,6 +22,9 @@ We note that we will only cover what we did differently from :ref:`CW21 <in-prac
 .. figure:: img/CW23_group_photo.jpeg
   :alt: CW23 group photo
 
+  .. figure:: img/CW23-remote-group.png
+    :alt: CW23 remote group photo
+
 .. toctree::
    :maxdepth: 2
    :caption: Sections:
