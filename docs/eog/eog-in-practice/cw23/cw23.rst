@@ -17,13 +17,12 @@ We made the decision from the beginning that the `Collaborations Workshop 2023 (
 
 Here is how we did it.
 This In Practice write up covers how we organised CW23, following the steps in the Feasibility Stage and the Event Project Stage of the main Event Organisation Guide.
-We note that we will only cover what we did differently from :ref:`CW21 <in-practice-cw21>`.
 
 .. figure:: img/CW23_group_photo.jpeg
   :alt: CW23 group photo
 
-  .. figure:: img/CW23-remote-group.png
-    :alt: CW23 remote group photo
+.. figure:: img/CW23-remote-group.png
+  :alt: CW23 remote group photo
 
 .. toctree::
    :maxdepth: 2
