@@ -16,7 +16,7 @@ The main budget items for a hybrid CW23 will be:
  - Financial assistance for participants
 
 Some of these costs can be covered by income from registrations (estimated registration cost £275 for in-person participation and £50 for remote participation) and sponsorship.
-This registration fee is a slight increase from previous years (£250) due to the generally increased costs of everything.
+This registration fee is a slight increase from previous years (£250) to allow some offset for the cost of living crisis price inflation of 2022-2023.
 The professional audio/visual services were expected to be a significant cost for hybrid event.
 We anticipated delivering CW23 at a loss and did not pass the extra costs onto participants.
 
