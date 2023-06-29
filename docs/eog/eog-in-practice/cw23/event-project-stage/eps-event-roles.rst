@@ -46,12 +46,17 @@ Before the event
 
    - Attend Organising Committee meetings
    - Perform agreed Organising Committee actions
+
+      - Design and print badges and agenda
+      - Order badge holders and lanyards
+      - Print stickers for badges including social distancing traffic light system
+
    - Help with :ref:`event infrastructure <cw23-eps-infrastructure>`
 
 - Steering Committee members
 
    - Attend Steering Committee meetings
-   - Perform Steering Organising Committee actions
+   - Perform agreed Steering Organising Committee actions
 
 - Lightning talk speakers
 
