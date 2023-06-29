@@ -75,10 +75,10 @@ These were then promoted via Twitter and LinkedIn.
    :header: "Round", "Week of", "Content", "Published links"
    :widths: 1, 3, 10, 5
 
-   7, 2023-05-XX, "Blog post: Collaborations Workshop 2023 live blog", "`Website <https://software.ac.uk/blog/2023-05-04-collaborations-workshop-2023-live-blog>`_, `Twitter <https://twitter.com/SoftwareSaved/status/1654090567008112640?s=20>`_, `LinkedIn <https://www.linkedin.com/posts/software-sustainability-institute_collabw23-activity-7059856057023524864-2j28?utm_source=share&utm_medium=member_desktop>`_"
+   7, 2023-05-01, "Blog post: Collaborations Workshop 2023 live blog", "`Website <https://software.ac.uk/blog/2023-05-04-collaborations-workshop-2023-live-blog>`_, `Twitter <https://twitter.com/SoftwareSaved/status/1654090567008112640?s=20>`_, `LinkedIn <https://www.linkedin.com/posts/software-sustainability-institute_collabw23-activity-7059856057023524864-2j28?utm_source=share&utm_medium=member_desktop>`_"
    8, 2023-05-08, "Blog post: CW23: My First Collaborations Workshop", "`Website <https://software.ac.uk/blog/2023-05-11-cw23-my-first-collaborations-workshop>`_, `Twitter <https://twitter.com/SoftwareSaved/status/1656573171951173632?s=20>`_, `LinkedIn <https://www.linkedin.com/posts/software-sustainability-institute_collabw23-activity-7062338800785444865-i2SN?utm_source=share&utm_medium=member_desktop>`_"
    9, 2023-05-08, "Blog post: ELIXIR-UK at the SSI Collaborations Workshop 2023", "`Website <https://software.ac.uk/blog/2023-05-12-elixir-uk-ssi-collaborations-workshop-2023>`_, `Twitter <https://twitter.com/SoftwareSaved/status/1656970842260004864?s=20>`_, `LinkedIn <https://www.linkedin.com/posts/software-sustainability-institute_collabw23-activity-7062736480963555328-nXAA?utm_source=share&utm_medium=member_desktop>`_"
-   10, TBC, "News item: Videos from Collaborations Workshop 2023 now online", "`Website <>`_, `Twitter <>`_, `LinkedIn <>`_"
+   10, TBC, "News item: Videos from Collaborations Workshop 2023 now online", TBC
 
 In addition to the above content which we had to create, we also expected to publish a number of speed blog posts from the Discussion session groups to the Institute website.
 To make them easy to find, we have tagged them as `CW23 speed blog posts <https://software.ac.uk/tags/cw23-speed-blog-posts>`_ and have also promoted them via social media, tagging the authors who provided handles.
