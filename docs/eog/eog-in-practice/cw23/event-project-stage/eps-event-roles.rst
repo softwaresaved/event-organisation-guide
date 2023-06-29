@@ -66,6 +66,7 @@ Before the event
 
    - Attend a coaching session in preparation for delivering their session
 
+
 During the event
 -------------------
 
@@ -118,6 +119,7 @@ During the event
       - Keep session to time
 
    - Introduction sessions (Discussion, Collaborative Ideas, Mini-workshops, etc.)
+
       - Share the slides to Zoom and project to room
       - Introduce how the session will run
 
