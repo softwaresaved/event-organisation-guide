@@ -11,3 +11,4 @@ What follows are in-depth write-ups of using the Event Organisation Guide in pra
 
    eog-in-practice/cw20/cw20
    eog-in-practice/cw21/cw21
+   eog-in-practice/cw23/cw23
