@@ -18,7 +18,7 @@ This image would be the default promotional image for CW23-related blog posts an
 
 Two weeks before the event, the Institute's Communications Team also `revealed the new SSI branding <https://software.ac.uk/blog/2023-04-19-introducing-new-ssi-branding>`_, including a logo for CW23:
 
-.. figure:: ../img/CW23_PRIMARY LOGO.png
+.. figure:: ../img/CW23_PRIMARY_LOGO.png
   :alt: CW23 primary logo
 
 We followed the syntax for the social media hashtag from previous years to remain consistent: `#CollabW23 <https://twitter.com/hashtag/CollabW23>`_.
