@@ -17,7 +17,6 @@ Before the event
 -------------------
 
 - Event Lead/Chair
-
    - Venue site visits for the main workshop and hack day, complete specification of venue requirements, obtain quotes, arrange contract and purchase order
    - Meetings with the venue's professional audio/visual supplier to confirm requirements, obtain quotes, arrange contract and purchase order
    - Venue site visits for the workshop dinner, obtain quotes, arrange contract and purchase order, and menu selection
@@ -43,7 +42,6 @@ Before the event
    - Prepare plenary laptop
 
 - Organising Committee members
-
    - Attend Organising Committee meetings
    - Perform agreed Organising Committee actions
 
@@ -54,16 +52,13 @@ Before the event
    - Help with :ref:`event infrastructure <cw23-eps-infrastructure>`
 
 - Steering Committee members
-
    - Attend Steering Committee meetings
    - Perform agreed Steering Organising Committee actions
 
 - Lightning talk speakers
-
    - Submit lightning talk slide to the conference portal
 
 - Mini-workshop and demo session Facilitators
-
    - Attend a coaching session in preparation for delivering their session
 
 
@@ -71,7 +66,6 @@ During the event
 -------------------
 
 - Event Lead/Chair
-
    - Communicate connection details to participants via email and Slack
    - Act as Zoom Host for the main Zoom room
    - Create and manage breakout rooms
@@ -86,14 +80,12 @@ During the event
    - Choreograph live streaming of keynotes from Zoom to YouTube and Otter.ai via Restream
 
 - Code of Conduct Committee members (attending in-person or remote)
-
    - Point of contact for reports of `Code of Conduct <https://software.ac.uk/cw23/participation-guidelines#code-of-conduct>`_ violations during the event
 
       - `Attendee Procedure for incident reporting <https://software.ac.uk/cw23/participation-guidelines/harassment-reporting-procedure>`_
       - `Staff Procedure For Handling Reported Harassment <https://software.ac.uk/cw23/participation-guidelines/staff-procedure-handling-reported-harassment>`_
 
 - Communications Officer
-
    - Event amplification / social media
    - Tweet, retweet and engage from the `@SoftwareSaved <https://twitter.com/SoftwareSaved>`_ account
    - Monitor `#CollabW23 <https://twitter.com/hashtag/CollabW23>`_ Tweets to ensure that no links are being shared
@@ -101,7 +93,6 @@ During the event
    - Point of contact for the event photographer
 
 - Session Chairs (attending in-person)
-
    - (Slides and guidance will be provided in advance)
    - Keynote session
 
@@ -124,7 +115,6 @@ During the event
       - Introduce how the session will run
 
 - Session Facilitators: Remote participation (attending in-person or remote)
-
    - (Zoom room host/co-host/facilitator)
    - Admit people from waiting room
    - Mute people as necessary
@@ -137,7 +127,6 @@ During the event
    - Keep an eye on raised hands and let session Chair know if unnoticed
 
 - Session Facilitators: In-person participation (attending in-person)
-
    - Help the Session Chair to share slides to Zoom and project to room where necessary
    - Advise people where to sit or session location
    - Liaise with the online facilitator
@@ -145,7 +134,6 @@ During the event
    - Ensure in-person speakers are ready to present during Keynote talks and Lightning talks
 
 - Logistical Supporters (attending in-person)
-
    - Introduce/identify themselves at the start of the event
    - Welcome desk/registration
    - Directions
@@ -159,48 +147,40 @@ During the event
    - Liaise with participants on e.g. accessibility or dietary requirements on the day
 
 - Slack Managers (attending in-person or remote)
-
    - Monitor the ``#help-desk`` and ``#general`` Slack channels
    - Answer/relay any questions that come up
    - Share organiser updates and links to relevant Zoom rooms, streams, and documents
    - Direct people to Sli.do for questions during keynote session
 
 - OWL Managers (attending in-person)
-
    - Attend a `Meeting OWL <https://owllabs.com/products/meeting-owl-3>`_ training session
    - Help set up OWLs in the relevant Discussion and Collaborative Ideas groups spaces
    - Setup the laptop that connects to the OWL and the screen
    - Project the Zoom breakout room gallery to the screen
 
 - Document Manager (attending in-person)
-
    - (Go-to person during the event for documents that have been generated before the event)
    - Know where the various documents are located (e.g. daily agenda document to keep everyone synchronised, spreadsheets for discussion and collaborative ideas group assignments and templates)
    - Responsible for any printing needed during the event
    - Manage uCONFLY during the event
 
 - Group Assignment Manager [attending in-person]
-
    - Point of contact for dealing with spaces (in-person, remote and hybrid)
    - Before the event, a number of “spaces” will be assigned a name that will match a physical location AND a Zoom breakout room
    - Assign spaces to Discussion groups, Collaborative Ideas groups, and Hack Day teams
    - Assign dedicated OWL spaces to larger hybrid groups
 
 - Keynote speakers
-
    - Deliver presentation and Q&A
 
 - Lightning talks speakers
-
    - Deliver lightning talk
 
 - Mini-workshop and demo session Facilitators
-
    - Deliver session
    - Use the generated collaborative notes document for their session as needed to synchronise participants
 
 - Hack Day Judges (attending in-person or remote)
-
    - Attend a meeting to discuss judging criteria
    - Visit each team during the Hack Day
    - Review project demonstrations based on the judging criteria
@@ -211,6 +191,7 @@ After the event
 
 - Event Lead/Chair
    - :ref:`Close down the Event Project Stage <cw23-eps-closing-down>`
+
       - Send out feedback form to participants
       - Select feedback and COVID-19 self-testing raffle winners
       - Organise and Chair wash-up meeting
