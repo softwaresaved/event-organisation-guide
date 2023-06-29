@@ -7,6 +7,7 @@ We adapted the `sponsorship packages from CW22 <https://software.ac.uk/cw22/spon
 We kept the tiered packages of Silver, Gold and Platinum, however we increased the donation amounts (to £1500, £3000 and £6000 respectively) and added in-person benefits in line with a hybrid event such as free in-person registrations.
 
 We also added the following a la carte benefits:
+
 - Accessibility and diversity fund (£1,000 each)
 - Hack Day Prizes Sponsor (1 available - £4,000)
 - Workshop Dinner Sponsor (1 available - £5,000)
