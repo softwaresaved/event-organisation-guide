@@ -210,7 +210,6 @@ After the event
 -------------------
 
 - Event Lead/Chair
-
    - :ref:`Close down the Event Project Stage <cw23-eps-closing-down>`
       - Send out feedback form to participants
       - Select feedback and COVID-19 self-testing raffle winners
@@ -225,7 +224,6 @@ After the event
       - Draft the roadmap and timeline for CW24
 
 - Organising Committee members
-
    - Process the session recordings (slice video recordings into individual sessions/speakers, edit captions, publish on YouTube)
    - Proofread, edit, publish and promote Discussion session speed blogs
    - Proofread, edit, publish and promote any "After the event" :ref:`Publicity <cw23-eps-publicity>`
