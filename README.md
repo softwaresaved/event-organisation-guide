@@ -1,5 +1,5 @@
-# The Software Sustainability Institute's Event Organisation Guide (SSI-EOG)
-The SSI-EOG (or EOG for short) is a guide dedicated to documenting the way the [Software Sustainaiblity Institute](https://www.software.ac.uk/), related individuals and the wider research software community share the way they organises events.
+# The Institute for Research Software's Event Organisation Guide (EOG)
+The EOG is a guide dedicated to documenting the way the [Institute for Research Software](https://www.software.ac.uk/), related individuals and the wider research software community share the way they organises events.
 
 Read the live version of the EOG on [Read the Docs](https://event-organisation-guide.readthedocs.io/).
 
@@ -20,4 +20,4 @@ The EOG material is available under the Creative Commons Attribution 4.0 Licence
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3970897.svg)](https://doi.org/10.5281/zenodo.3970897)
 
-The SSI-EOG can be cited using the DOI [10.5281/zenodo.3970897](https://doi.org/10.5281/zenodo.3970897).
+The EOG can be cited using the DOI [10.5281/zenodo.3970897](https://doi.org/10.5281/zenodo.3970897).
